@@ -9,6 +9,7 @@ on:
       - 'tests/**'
       - 'requirements.txt'
       - 'prototype-index.html'
+      - 'assets/**'
       - '.github/workflows/build-feed.yml'
   schedule:
     - cron: '17 */3 * 11 *'
@@ -66,10 +67,12 @@ jobs:
           base = os.environ['PAGES_BASE_URL'].rstrip('/')
           cfg['feed_url'] = base + '/mega-feed.xml'
           cfg['site_url'] = base + '/'
+          cfg['artwork_url'] = base + '/assets/mega-feed-cover-2026.png'
           Path('runtime-config.json').write_text(json.dumps(cfg, indent=2))
           PY
           python build.py --config runtime-config.json --output site/mega-feed.xml --cache data/episodes-prototype-2026.json | tee build-report.json
           cp prototype-index.html site/index.html
+          cp -R assets site/assets
           touch site/.nojekyll
       - name: Preserve discovered episode metadata
         if: steps.experiment.outputs.active == 'true'

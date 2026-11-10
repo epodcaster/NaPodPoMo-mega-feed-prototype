@@ -3,7 +3,7 @@
   "description": "Separate NaPodPoMo aggregator prototype. This is not the official NaPodPoMo MEGA Feed. Audio remains on each creator's original host.",
   "site_url": "https://example.invalid/napodpomo-mega-feed-prototype/",
   "feed_url": "",
-  "artwork_url": "",
+  "artwork_url": "https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/assets/mega-feed-cover-2026.png",
   "author": "National Podcast Post Month",
   "language": "en-us",
   "start": "2026-11-01T00:00:00-04:00",
