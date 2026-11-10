@@ -52,4 +52,12 @@ All 10 automated tests passed. 21 sources returned RSS; four Substack endpoints 
 
 ## GitHub-hosted check
 
-Pending the expanded configuration commit and automatic build. Local Substack availability is not evidence of GitHub runner availability.
+Automatic push-triggered run 42774668017 completed both build and deployment successfully. All 10 tests passed on GitHub. 21 feeds parsed successfully; Revivassance Podcast, Outrage Science Bites, The Lessons Learned Series, and A3Day Expanded Podcast each returned HTTP 403 from their supplied api.substack.com URLs. They are configured but currently contribute no episodes. An attempted public-publication lookup did not establish usable replacement feeds.
+
+The published prototype was independently fetched and validated: HTTP 200, 138 episodes, 138 unique GUIDs, 138 unique audio URLs, correct Atom self URL, all dates within the configured November window, and aggregate explicit=true. Published size: 230,301 bytes. Mike Dell’s World and Perfect CARE remain at zero November episodes.
+
+Live feed: https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/mega-feed.xml
+
+Workflow: https://github.com/epodcaster/NaPodPoMo-mega-feed-prototype/actions/runs/42774668017
+
+The three-hour November 2026 schedule remains configured; its first scheduled execution and podcast-app playback are still outstanding checks. No changes were made to napodpomo.org or the existing MEGA Feed.
