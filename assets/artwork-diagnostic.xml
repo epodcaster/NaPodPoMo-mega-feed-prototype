@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>NaPodPoMo Artwork Diagnostic (2 episodes)</title>
+    <link>https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/</link>
+    <description>Temporary artwork test with fresh episode IDs. The show cover is a pronunciation-series image used only as a visual control. Episode 1 should show Revivassance artwork; episode 2 should show a different pronunciation-series image. Audio remains on the original hosts.</description>
+    <language>en-us</language>
+    <itunes:author>National Podcast Post Month</itunes:author>
+    <itunes:summary>Temporary artwork test with fresh episode IDs. The show cover is a pronunciation-series image used only as a visual control. Episode 1 should show Revivassance artwork; episode 2 should show a different pronunciation-series image. Audio remains on the original hosts.</itunes:summary>
+    <itunes:explicit>true</itunes:explicit>
+    <atom:link href="https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/assets/artwork-diagnostic.xml" rel="self" type="application/rss+xml"/>
+    <itunes:image href="https://static.libsyn.com/p/assets/0/f/6/a/0f6a54ec59cd8cfc5f2e77a3093c12a1/TPV_Episode_385_levocetirizine_LIBSYN.png"/>
+    <image>
+      <url>https://static.libsyn.com/p/assets/0/f/6/a/0f6a54ec59cd8cfc5f2e77a3093c12a1/TPV_Episode_385_levocetirizine_LIBSYN.png</url>
+      <title>NaPodPoMo Artwork Diagnostic (2 episodes)</title>
+      <link>https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/</link>
+    </image>
+    <item>
+      <title>Artwork test 1: Revivassance Podcast Ep 1</title>
+      <link>https://revivaissancecurriculum.substack.com/p/revivassance-podcast-ep-1</link>
+      <guid isPermaLink="false">napodpomo-artwork-diagnostic-20261110-1</guid>
+      <source url="https://api.substack.com/feed/podcast/11679990.rss">Revivassance Podcast</source>
+      <pubDate>Mon, 02 Nov 2026 18:21:23 GMT</pubDate>
+      <description>When it comes to school, imagine a young girl up in a tree keeping a journal of birds she sees. And in another tree, her brothers are building a tree house with electricity in it. Imagine that that is school.You don’t have to imagine. Welcome to the ReVIVA!ssance WFC. Where faith and wonder flow from hands-on arts integrated holistic education that is aligned with strong educational and success-focused standards.The arts focus on beauty and not in a perfectionist way. In a genuine way that acknowledges the heart, soul, mind, and passions.The definition of beauty I will use is this one:“Whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable — if there is any moral excellence and if there is any praise…”This is my definition of beauty.“Whatever is true, whatever is worthy of reverence and is honorable and seemly, whatever is just, whatever is pure, whatever is lovely and lovable, whatever is kind and winsome and gracious, if there is any virtue and excellence, if there is anything worthy of praise…”Some of you know that is from Philippians 4:8 in the Bible.Beauty shines in nature, which is also called creation. Beauty doesn’t have to be perfect. In fact, in our imperfect fallen world it leads us to stories of redeeming corruption, such as turning a fallow field into a lavender farm or an inmate who turns his life around and becomes </description>
+      <enclosure url="https://api.substack.com/feed/podcast/222979091/336221cee345182d64aaec2192b3437c.mp3" type="audio/mpeg" length="6956940"/>
+      <itunes:author>Revivassance Podcast</itunes:author>
+      <itunes:image href="https://substack-post-media.s3.amazonaws.com/public/images/57d7b1fd-d3e4-4802-8834-c35517171d64_1400x1400.png"/>
+    </item>
+    <item>
+      <title>Artwork test 2: How do you say ibuprofen? (Pronunciation Series Episode 80)</title>
+      <link>https://www.thepharmacistsvoice.com</link>
+      <guid isPermaLink="false">napodpomo-artwork-diagnostic-20261110-2</guid>
+      <source url="https://feeds.libsyn.com/228308/rss">The Pharmacist's Voice</source>
+      <pubDate>Mon, 09 Nov 2026 11:05:00 GMT</pubDate>
+      <description>A small substitution can make a big difference to your ear. The official pronunciation for ibuprofen is EYE-bue-PROE-fen. Notice the second syllable, "bue." I have been saying "bee" instead of "bue" for decades. I first became aware of the official pronunciation in 2020, when I looked it up in the USP Dictionary Online. The way I say it is "in the ballpark." It's close enough, but it's not technically correct. As I recorded this episode, I felt uncomfortable admitting my decades-long mistake and owning the fact that I choose to say ibuprofen wrong even though I know better. I just feel more comfortable saying EYE-bee-PROE-fen. A lot of people say EYE-bee-PROE-fen instead of EYE-bue-PROE-fen. That doesn't make it right, but I'm happy to say that both variations sound about the same when said quickly. Pick your pronunciation, and own it when you say it! This is the 80th episode in my drug pronunciation series. We talk about pronunciations, not pharmacology. If you want to feel less frustrated learning drug names and sound more confident saying them, follow this series. Ibuprofen = EYE-bue-PROE-fen EYE, like eyeglasses bue, like butane (My variation is "bee," like a bumblebee.") PROE, like a the abbreviation for "professional." For example, Caitlin Clark is a pro American women's basketball player in the WNBA fen, which rhymes with ten Emphasize EYE and PRO. PRO gets the most emph</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thepharmacistsvoice/TPV_Episode_384_ibuprofen.mp3?dest-id=1679462" type="audio/mpeg" length="7457460"/>
+      <itunes:author>Kim Newlove</itunes:author>
+      <itunes:duration>05:03</itunes:duration>
+      <itunes:image href="https://static.libsyn.com/p/assets/b/e/1/5/be151397fc058b4f5f2e77a3093c12a1/TPV_Episode_384_Ibuprofen.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    </channel>
+</rss>
