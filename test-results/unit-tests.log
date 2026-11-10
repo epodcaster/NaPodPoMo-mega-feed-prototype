@@ -1,0 +1,53 @@
+test_archive_date_filter (test_build.BuildTests.test_archive_date_filter) ... ok
+test_date_parsing (test_build.BuildTests.test_date_parsing) ... ok
+test_failure_keeps_cached_data_and_deduplicates (test_build.BuildTests.test_failure_keeps_cached_data_and_deduplicates) ... https://example.com/test: [Errno 2] No such file or directory: '/tmp/tmpbrl09d3b/small.xml'
+ok
+test_feed_xml_and_guids (test_build.BuildTests.test_feed_xml_and_guids) ... ok
+test_small_medium_oversized (test_build.BuildTests.test_small_medium_oversized) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.080s
+
+OK
+{
+  "output": "/tmp/tmpbrl09d3b/rss.xml",
+  "episodes": 3,
+  "bytes": 2046,
+  "sources": [
+    {
+      "source": "https://example.com/test",
+      "status": "ok",
+      "total": 3,
+      "selected": 3,
+      "missing_dates": 0,
+      "selected_without_audio": 0
+    }
+  ]
+}
+{
+  "output": "/tmp/tmpbrl09d3b/rss.xml",
+  "episodes": 3,
+  "bytes": 2046,
+  "sources": [
+    {
+      "source": "https://example.com/test",
+      "status": "ok",
+      "total": 3,
+      "selected": 3,
+      "missing_dates": 0,
+      "selected_without_audio": 0
+    }
+  ]
+}
+{
+  "output": "/tmp/tmpbrl09d3b/rss.xml",
+  "episodes": 3,
+  "bytes": 2046,
+  "sources": [
+    {
+      "source": "https://example.com/test",
+      "status": "error",
+      "message": "[Errno 2] No such file or directory: '/tmp/tmpbrl09d3b/small.xml'"
+    }
+  ]
+}

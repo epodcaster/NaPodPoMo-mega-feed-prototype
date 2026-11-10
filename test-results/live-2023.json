@@ -1,0 +1,31 @@
+{
+  "output": "test-results/2023-test.xml",
+  "episodes": 25,
+  "bytes": 27412,
+  "sources": [
+    {
+      "source": "Podcast Hot Take",
+      "status": "ok",
+      "total": 9,
+      "selected": 0,
+      "missing_dates": 0,
+      "selected_without_audio": 0
+    },
+    {
+      "source": "NaPodPoMo 2023 archive",
+      "status": "ok",
+      "total": 31,
+      "selected": 21,
+      "missing_dates": 0,
+      "selected_without_audio": 0
+    },
+    {
+      "source": "The Pharmacist's Voice",
+      "status": "ok",
+      "total": 386,
+      "selected": 4,
+      "missing_dates": 0,
+      "selected_without_audio": 0
+    }
+  ]
+}

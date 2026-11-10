@@ -1,0 +1,23 @@
+[
+  {
+    "podcast": "The Pharmacist's Voice",
+    "title": "How do you say levocetirizine (Xyzal)? (Pronunciation Series Episode 81)",
+    "status": 206,
+    "content_type": "audio/mpeg",
+    "sample_bytes": 1024
+  },
+  {
+    "podcast": "Podcast Hot Take",
+    "title": "Are You Holding Back Your Personality?",
+    "status": 206,
+    "content_type": "audio/mpeg",
+    "sample_bytes": 1024
+  },
+  {
+    "podcast": "National Podcast Post Month 2023",
+    "title": "Give NaPodPoMo Podcaster Feedback Ep 20",
+    "status": 206,
+    "content_type": "audio/mpeg",
+    "sample_bytes": 1024
+  }
+]

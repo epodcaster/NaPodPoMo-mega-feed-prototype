@@ -1,0 +1,18 @@
+{
+  "title": "NaPodPoMo 2026 MEGA Feed",
+  "description": "Episodes shared by participating creators during National Podcast Post Month, November 2026. Audio is served from each creator's original podcast host.",
+  "site_url": "https://napodpomo.org/napodpomo-2026-mega-feed/",
+  "feed_url": "",
+  "artwork_url": "",
+  "author": "National Podcast Post Month",
+  "language": "en-us",
+  "start": "2026-11-01T00:00:00-04:00",
+  "end": "2026-12-01T00:00:00-05:00",
+  "max_source_bytes": 40000000,
+  "max_output_episodes": 1500,
+  "sources": [
+    {"name":"Podcast Hot Take", "url":"https://podcasthottake.com/feed/podcast/"},
+    {"name":"NaPodPoMo 2023 archive (filter test)", "url":"https://napodpomo.org/category/napodpomo2023/feed/"},
+    {"name":"The Pharmacist's Voice", "url":"https://feeds.libsyn.com/228308/rss"}
+  ]
+}

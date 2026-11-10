@@ -1,0 +1,57 @@
+test_archive_date_filter (test_build.BuildTests.test_archive_date_filter) ... ok
+test_date_parsing (test_build.BuildTests.test_date_parsing) ... ok
+test_exact_month_boundaries (test_build.BuildTests.test_exact_month_boundaries) ... ok
+test_failure_keeps_cached_data_and_deduplicates (test_build.BuildTests.test_failure_keeps_cached_data_and_deduplicates) ... https://example.com/test: [Errno 2] No such file or directory: '/tmp/tmpt31hkmjm/small.xml'
+ok
+test_feed_xml_and_guids (test_build.BuildTests.test_feed_xml_and_guids) ... ok
+test_missing_date_and_audio_are_reported (test_build.BuildTests.test_missing_date_and_audio_are_reported) ... ok
+test_small_medium_oversized (test_build.BuildTests.test_small_medium_oversized) ... ok
+test_total_failure_preserves_previous_output (test_build.BuildTests.test_total_failure_preserves_previous_output) ... https://example.com/feed: [Errno 2] No such file or directory: '/tmp/tmpoe_199ad/missing.xml'
+ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.086s
+
+OK
+{
+  "output": "/tmp/tmpt31hkmjm/rss.xml",
+  "episodes": 3,
+  "bytes": 2046,
+  "sources": [
+    {
+      "source": "https://example.com/test",
+      "status": "ok",
+      "total": 3,
+      "selected": 3,
+      "missing_dates": 0,
+      "selected_without_audio": 0
+    }
+  ]
+}
+{
+  "output": "/tmp/tmpt31hkmjm/rss.xml",
+  "episodes": 3,
+  "bytes": 2046,
+  "sources": [
+    {
+      "source": "https://example.com/test",
+      "status": "ok",
+      "total": 3,
+      "selected": 3,
+      "missing_dates": 0,
+      "selected_without_audio": 0
+    }
+  ]
+}
+{
+  "output": "/tmp/tmpt31hkmjm/rss.xml",
+  "episodes": 3,
+  "bytes": 2046,
+  "sources": [
+    {
+      "source": "https://example.com/test",
+      "status": "error",
+      "message": "[Errno 2] No such file or directory: '/tmp/tmpt31hkmjm/small.xml'"
+    }
+  ]
+}

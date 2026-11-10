@@ -1,0 +1,93 @@
+name: Build and publish RSS prototype
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */3 * 11 *'
+permissions:
+  contents: read
+defaults:
+  run:
+    shell: bash
+concurrency:
+  group: rss-prototype-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pages: read
+    outputs:
+      active: ${{ steps.experiment.outputs.active }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Check experiment year
+        id: experiment
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$(date -u +%Y)" != "2026" ]; then
+            echo "active=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "active=true" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/setup-python@v5
+        if: steps.experiment.outputs.active == 'true'
+        with:
+          python-version: '3.12'
+      - name: Install dependencies and test
+        if: steps.experiment.outputs.active == 'true'
+        run: |
+          pip install -r requirements.txt
+          python -m unittest discover -s tests -v
+      - uses: actions/configure-pages@v5
+        if: steps.experiment.outputs.active == 'true'
+        id: pages
+      - name: Build prototype feed
+        if: steps.experiment.outputs.active == 'true'
+        env:
+          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          mkdir -p site
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          cfg = json.loads(Path('config-prototype.json').read_text())
+          base = os.environ['PAGES_BASE_URL'].rstrip('/')
+          cfg['feed_url'] = base + '/mega-feed.xml'
+          cfg['site_url'] = base + '/'
+          Path('runtime-config.json').write_text(json.dumps(cfg, indent=2))
+          PY
+          python build.py --config runtime-config.json --output site/mega-feed.xml --cache data/episodes-prototype-2026.json | tee build-report.json
+          cp prototype-index.html site/index.html
+          touch site/.nojekyll
+      - name: Preserve discovered episode metadata
+        if: steps.experiment.outputs.active == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/episodes-prototype-2026.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Cache prototype episode discoveries"
+            git push origin HEAD:"${{ github.event.repository.default_branch }}"
+          fi
+      - uses: actions/upload-pages-artifact@v4
+        if: steps.experiment.outputs.active == 'true'
+        with:
+          path: site
+  deploy:
+    needs: build
+    if: needs.build.outputs.active == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
