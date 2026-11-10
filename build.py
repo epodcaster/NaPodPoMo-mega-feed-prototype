@@ -130,7 +130,7 @@ def extract_rss(xml_bytes, source_url, start, end):
         episode_art = item.find('itunes:image', namespaces=NS)
         episode_art_url = episode_art.get('href', '') if episode_art is not None else ''
         duration = val(item, 'itunes:duration')
-        explicit = val(item, 'itunes:explicit')
+        explicit = val(item, 'itunes:explicit') or val(channel, 'itunes:explicit')
         author = val(item, 'itunes:author') or podcast_title
         selected.append({
             'id': episode_id, 'source': source_url, 'podcast': podcast_title,
@@ -159,7 +159,9 @@ def make_rss(config, entries):
     append(channel, 'language', config.get('language', 'en-us'))
     append(channel, f'{{{ITUNES}}}author', config.get('author', 'National Podcast Post Month'))
     append(channel, f'{{{ITUNES}}}summary', config['description'])
-    append(channel, f'{{{ITUNES}}}explicit', 'false')
+    has_explicit = any(str(ep.get('explicit', '')).strip().lower() in ('yes', 'true', '1')
+                       for ep in entries)
+    append(channel, f'{{{ITUNES}}}explicit', 'true' if has_explicit else 'false')
     if config.get('feed_url'):
         append(channel, f'{{{ATOM}}}link', '', {'href': config['feed_url'], 'rel': 'self',
                                                'type': 'application/rss+xml'})

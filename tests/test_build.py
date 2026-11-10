@@ -72,6 +72,29 @@ class BuildTests(unittest.TestCase):
         self.assertIsNotNone(parse_date('Wed, 04 Nov 2026 12:04:33 +0000'))
         self.assertIsNone(parse_date('not a date'))
 
+    def test_combined_feed_explicit_flag(self):
+        episodes, _ = extract_rss(fixture(2, 2026, 'show'), 'https://example.com/feed',
+                                 datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                 datetime(2026, 12, 1, tzinfo=timezone.utc))
+        conf = {'title': 'Test', 'site_url': 'https://example.com', 'description': 'Test'}
+        for flag in ['true', 'yes', '1', ' TRUE ']:
+            episodes[1]['explicit'] = flag
+            doc = etree.fromstring(make_rss(conf, episodes))
+            self.assertEqual(doc.findtext('./channel/{http://www.itunes.com/dtds/podcast-1.0.dtd}explicit'), 'true')
+        episodes[1]['explicit'] = 'false'
+        doc = etree.fromstring(make_rss(conf, episodes))
+        self.assertEqual(doc.findtext('./channel/{http://www.itunes.com/dtds/podcast-1.0.dtd}explicit'), 'false')
+
+    def test_episode_inherits_explicit_flag_unless_overridden(self):
+        root = etree.fromstring(fixture(2, 2026, 'show'))
+        tag = '{http://www.itunes.com/dtds/podcast-1.0.dtd}explicit'
+        etree.SubElement(root.find('channel'), tag).text = 'true'
+        etree.SubElement(root.findall('./channel/item')[1], tag).text = 'false'
+        episodes, _ = extract_rss(etree.tostring(root), 'https://example.com/feed',
+                                 datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                 datetime(2026, 12, 1, tzinfo=timezone.utc))
+        self.assertEqual([ep['explicit'] for ep in episodes], ['true', 'false'])
+
     def test_exact_month_boundaries(self):
         start = datetime.fromisoformat('2026-11-01T00:00:00-04:00')
         end = datetime.fromisoformat('2026-12-01T00:00:00-05:00')

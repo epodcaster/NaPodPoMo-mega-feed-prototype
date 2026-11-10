@@ -1,8 +1,14 @@
-# NaPodPoMo RSS Aggregator Prototype v0.2
+# NaPodPoMo RSS Aggregator Prototype v0.3
 
-A separate three-source experiment. **Do not change napodpomo.org, its DNS, or the existing NaPodPoMo MEGA Feed.** Deploy only to a new repository named `napodpomo-mega-feed-prototype` (or another unused prototype name), using its default GitHub Pages URL. Do not add a custom domain.
+A separate expanded-source experiment. **Do not change napodpomo.org, its DNS, or the existing NaPodPoMo MEGA Feed.** Deploy only to a new repository named `napodpomo-mega-feed-prototype` (or another unused prototype name), using its default GitHub Pages URL. Do not add a custom domain.
 
-## Verified locally
+## Expanded source trial
+
+The active configuration now contains 25 public sources from the supplied 30-entry list. Kim Newlove uses the verified Libsyn podcast feed. Five shortened URLs remain pending, including a private feed that must not be committed to this repository. See `SOURCE_TEST_REPORT.md` for per-source counts and issues. Ten automated tests pass.
+
+Source/code changes on main now start a build automatically; cache and documentation commits do not. Scheduled updates remain every three hours during November 2026.
+
+## Initial three-source verification
 
 On November 10, 2026: all five original tests passed; the expanded suite passes all eight. All three real sources loaded. The 2026 build selected 19 episodes; the separate 2023 build selected 25. One audio sample per podcast returned HTTP 206 and `audio/mpeg`. See `TEST_REPORT.md` and `test-results/` for evidence. GitHub-hosted execution and the first Pages deployment also succeeded. The live feed returns HTTP 200 with valid XML, 19 unique episode GUIDs, the correct Atom self URL, and dates inside the configured month. Podcast-app playback and a subsequent scheduled update remain unverified.
 
@@ -20,7 +26,7 @@ python -m unittest discover -s tests -v
 python build.py --config config-prototype.json --output site/mega-feed.xml --cache data/episodes-prototype-2026.json
 ```
 
-`config-prototype.json` uses the same three sources and November window as the original `config-2026.json`, with a distinct title and description. The workflow supplies the real Pages URLs at build time. Local output uses a placeholder website URL until deployment. The original configurations remain available for comparison.
+`config-prototype.json` uses the expanded source list and the original November window, with a distinct prototype title and description. The workflow supplies the real Pages URLs at build time. Local output uses a placeholder website URL until deployment. The original configurations remain available for comparison.
 
 Historical test (keep separate; it is not published by the workflow):
 
@@ -32,7 +38,7 @@ python build.py --config config-2023-test.json --output test-results/2023-test.x
 
 1. Connect GitHub to this ChatGPT session when offered. Use your intended GitHub account. Never paste passwords or access tokens into chat. A ChatGPT connection and the workflow's built-in GitHub token are separate authorizations.
 2. Create a **new public repository** named `napodpomo-mega-feed-prototype`. Public repositories support Pages on GitHub Free. Confirm that this is a new repository, not the repository behind an existing site. If the GitHub connection offers repository selection, grant access only to the prototype where possible. Repository creation may need to be done in GitHub first.
-3. Upload the contents of this project to its default branch, including `.github/workflows/build-feed.yml`, `tests/`, and `data/episodes-prototype-2026.json`. Upload extracted files, not this ZIP. The saved cache preserves the 19 episodes already discovered.
+3. Upload the contents of this project to its default branch, including `.github/workflows/build-feed.yml`, `tests/`, and `data/episodes-prototype-2026.json`. Upload extracted files, not this ZIP. The saved cache preserves episodes already discovered.
 4. In repository **Settings > Pages**, select **GitHub Actions** under Build and deployment > Source. Leave Custom domain empty.
 5. Ensure GitHub Actions is enabled and these official actions are allowed by repository/organization policy: checkout, setup-python, configure-pages, upload-pages-artifact, and deploy-pages. The workflow requests `contents: write` to save episode metadata; its deploy job requests `pages: write` and `id-token: write` to publish Pages. No personal access token or manually created repository secret is required. Existing organization policy or protected branches may prevent the cache commit; adjust only this new repository's settings if needed.
 6. In **Actions**, select **Build and publish RSS prototype > Run workflow**, on the default branch. Review both build and deploy jobs. Approve the `github-pages` environment if GitHub explicitly requires it.
@@ -60,6 +66,6 @@ The workflow runs at 00:17, 03:17, 06:17, 09:17, 12:17, 15:17, 18:17, and 21:17 
 - GUIDs use source URL plus original GUID. Changing source URLs can create duplicates; editing an episode title on the same source does not change its generated GUID.
 - Descriptions become plain text truncated to 1,400 characters. Chapters, transcripts, and advanced Podcasting 2.0 metadata are not copied.
 - A partial source failure uses cached metadata and still allows publication. If every source fails with no cache, the build fails and leaves local output untouched. With a cache, all-source failure can publish cached episodes; inspect Actions logs for source errors.
-- Channel-level artwork is not configured. Episode artwork is copied with a show-art fallback. The combined channel currently declares explicit=false regardless of individual episode flags; review this before adding explicit-content sources.
+- Channel-level artwork is not configured. Episode artwork is copied with a show-art fallback. The combined channel declares explicit=true when any included episode is marked explicit; episode flags inherit their source channel flag when absent.
 - Some source audio URLs use HTTP. The aggregator preserves them exactly. App compatibility still needs testing.
 - Public prototype publishing is separate from participant onboarding or any launch of a replacement feed. Do not submit this prototype to podcast directories.

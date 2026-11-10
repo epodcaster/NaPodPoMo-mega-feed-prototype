@@ -1,6 +1,15 @@
 name: Build and publish RSS prototype
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'config-prototype.json'
+      - 'build.py'
+      - 'tests/**'
+      - 'requirements.txt'
+      - 'prototype-index.html'
+      - '.github/workflows/build-feed.yml'
   schedule:
     - cron: '17 */3 * 11 *'
 permissions:

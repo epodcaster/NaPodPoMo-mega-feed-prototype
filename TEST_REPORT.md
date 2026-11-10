@@ -1,4 +1,4 @@
-# NaPodPoMo prototype test report
+# Initial three-source prototype test report
 
 Tested November 10, 2026, using Python 3.12. Original ZIP retained unchanged; this package is a separate v0.2 copy.
 
@@ -42,4 +42,4 @@ Only the new prototype repository and its GitHub Pages publication were changed.
 - Podcast-app playback and artwork display.
 - Observe a later automatic update before considering any production use.
 
-Channel artwork remains unset; advanced podcast metadata is not preserved. The current code marks the aggregate channel non-explicit even if an individual entry is explicit. These are documented prototype limitations, not verified production readiness.
+Channel artwork remains unset; advanced podcast metadata is not preserved. The initial version marked the aggregate channel non-explicit even if an individual entry was explicit. The expanded-source version corrects this and adds regression tests; see SOURCE_TEST_REPORT.md. Advanced metadata and app playback remain acceptance checks.

@@ -1,6 +1,6 @@
 {
   "title": "NaPodPoMo 2026 RSS Aggregator Prototype",
-  "description": "Separate three-source NaPodPoMo aggregator test. This is not the official NaPodPoMo MEGA Feed. Audio remains on each creator's original host.",
+  "description": "Separate NaPodPoMo aggregator prototype. This is not the official NaPodPoMo MEGA Feed. Audio remains on each creator's original host.",
   "site_url": "https://example.invalid/napodpomo-mega-feed-prototype/",
   "feed_url": "",
   "artwork_url": "",
@@ -12,16 +12,104 @@
   "max_output_episodes": 1500,
   "sources": [
     {
+      "name": "Computer Freedom",
+      "url": "https://feeds.blubrry.com/feeds/linuxstory.xml"
+    },
+    {
+      "name": "Revivassance Podcast",
+      "url": "https://api.substack.com/feed/podcast/11679990.rss"
+    },
+    {
+      "name": "Simple Joe",
+      "url": "https://pinecast.com/feed/simplejoe"
+    },
+    {
+      "name": "Hidden In Plain Sight",
+      "url": "https://anchor.fm/s/1190b8d0c/podcast/rss"
+    },
+    {
+      "name": "Oh That's A Fact",
+      "url": "https://feeds.buzzsprout.com/2469650.rss"
+    },
+    {
+      "name": "Mike Dell's World",
+      "url": "https://mikedell.com/feed/podcast/"
+    },
+    {
+      "name": "This Podcast Is... Uncalled For",
+      "url": "https://feeds.libsyn.com/186095/rss"
+    },
+    {
+      "name": "Outrage Science Bites",
+      "url": "https://api.substack.com/feed/podcast/1235044/s/90817.rss"
+    },
+    {
+      "name": "Stories of Change: Helping You Navigate What's Next",
+      "url": "https://feeds.buzzsprout.com/371849.rss"
+    },
+    {
+      "name": "A Second First Look",
+      "url": "https://feeds.captivate.fm/asecondfirstlook/"
+    },
+    {
+      "name": "Jordan's Knowledge",
+      "url": "https://jnavarreteknowledgebase.com/feed/napodpomo-2026/"
+    },
+    {
+      "name": "Matcha Moments — NaPodPoMo 2026",
+      "url": "https://radicalrx.live/feed/podcast/napodpomo-2026/"
+    },
+    {
+      "name": "sm2n on Anchor",
+      "url": "https://anchor.fm/s/12ed94c/podcast/rss"
+    },
+    {
       "name": "Podcast Hot Take",
       "url": "https://podcasthottake.com/feed/podcast/"
     },
     {
-      "name": "NaPodPoMo 2023 archive (filter test)",
-      "url": "https://napodpomo.org/category/napodpomo2023/feed/"
+      "name": "NaPodPoMo 2026 (stand)",
+      "url": "https://media.rss.com/stand/feed.xml"
     },
     {
-      "name": "The Pharmacist's Voice",
+      "name": "Kim Newlove (The Pharmacist's Voice)",
       "url": "https://feeds.libsyn.com/228308/rss"
+    },
+    {
+      "name": "From Cork With Love - by Paul O'Mahony @omaniblog",
+      "url": "https://audioboom.com/channels/4930155.rss"
+    },
+    {
+      "name": "Connecting Body, Environments and Systems in Holistic Women's Health | Perfect CARE Play-versations",
+      "url": "https://media.rss.com/perfect-care/feed.xml"
+    },
+    {
+      "name": "Automating By Design: Your Business, Life, and Legacy",
+      "url": "https://anchor.fm/s/1137b424c/podcast/rss"
+    },
+    {
+      "name": "Micless",
+      "url": "https://micless.com/rss"
+    },
+    {
+      "name": "The Lessons Learned Series",
+      "url": "https://api.substack.com/feed/podcast/12028996.rss"
+    },
+    {
+      "name": "Black Girls Consult TOO!",
+      "url": "https://feeds.buzzsprout.com/1613281.rss"
+    },
+    {
+      "name": "A3Day Expanded Podcast",
+      "url": "https://api.substack.com/feed/podcast/4861209.rss"
+    },
+    {
+      "name": "Elsie, As Is",
+      "url": "https://feeds.captivate.fm/elsie-as-is/"
+    },
+    {
+      "name": "Nomadic Diaries",
+      "url": "https://feeds.buzzsprout.com/2235555.rss"
     }
   ]
 }

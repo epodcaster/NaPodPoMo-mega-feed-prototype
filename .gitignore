@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 runtime-config.json
 site/
+expansion-check/
