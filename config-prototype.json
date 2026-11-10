@@ -110,6 +110,26 @@
     {
       "name": "Nomadic Diaries",
       "url": "https://feeds.buzzsprout.com/2235555.rss"
+    },
+    {
+      "name": "Kagok Talk Podcast",
+      "url": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml"
+    },
+    {
+      "name": "NaPodPoMo 2026 (Shaine)",
+      "url": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml"
+    },
+    {
+      "name": "NaPodPoMo 2026 (Steve Clark)",
+      "url": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml"
+    },
+    {
+      "name": "Official NaPodPoMo 2026",
+      "url": "https://3speak.tv/rss/playlist/bcf0edf9ecd5c381be4be489a888369d.xml"
+    },
+    {
+      "name": "Modulations (public feed)",
+      "url": "https://3speak.tv/rss/playlist/aea99a4c-87ca-4d0a-8b7c-aeb9e739a449.xml"
     }
   ]
 }

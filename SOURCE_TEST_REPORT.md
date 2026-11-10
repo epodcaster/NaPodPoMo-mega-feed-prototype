@@ -1,10 +1,10 @@
 # Expanded source trial, November 10, 2026
 
-30 entries were supplied. This configuration includes 25 usable public URLs. Four shortened 3Speak URLs are pending; the shortened private Modulations feed is excluded. The original 2023 archive remains available in the historical test configuration and is no longer an active 2026 source.
+30 entries were supplied. All 30 public URLs are now configured, including the five supplied 3Speak URLs. Modulations uses its public 3Speak feed; no private subscription URL is included. The original 2023 archive remains available in the historical test configuration and is no longer an active 2026 source.
 
 ## Local results
 
-All 10 automated tests passed. 21 sources returned RSS; four Substack endpoints returned a 195-byte HTML Site Unavailable page in this environment. They remain configured for an independent GitHub-hosted check. With Kim Newlove’s canonical Libsyn feed substituted for her website feed, the local combined output contains 138 unique episodes and audio URLs, is 230,150 bytes, and parses as XML.
+All 10 automated tests passed. 26 sources returned RSS; four Substack endpoints returned a 195-byte HTML Site Unavailable page in this environment. They remain configured for an independent GitHub-hosted check. With Kim Newlove’s canonical Libsyn feed substituted for her website feed, the local combined output contains 168 unique episodes and audio URLs, is 274,530 bytes, and parses as XML.
 
 | Source | Local status | November episodes |
 | --- | --- | ---: |
@@ -34,6 +34,12 @@ All 10 automated tests passed. 21 sources returned RSS; four Substack endpoints 
 | Elsie, As Is | RSS OK | 9 |
 | Nomadic Diaries | RSS OK | 7 |
 
+| Kagok Talk Podcast | RSS OK | 6 |
+| NaPodPoMo 2026 (Shaine) | RSS OK | 7 |
+| NaPodPoMo 2026 (Steve Clark) | RSS OK | 9 |
+| Official NaPodPoMo 2026 | RSS OK | 6 |
+| Modulations (public feed) | RSS OK | 2 |
+
 ## Source corrections and findings
 
 - Kim Newlove: the supplied website feed contained 10 eligible dated items but no audio enclosures. The verified Libsyn feed at https://feeds.libsyn.com/228308/rss contains 10 November audio episodes, is 6,756,866 bytes, and is within the prototype’s 40 MB limit. The original source URL is retained for these episodes so their GUIDs do not change.
@@ -42,15 +48,11 @@ All 10 automated tests passed. 21 sources returned RSS; four Substack endpoints 
 - Explicit content: item flags now inherit the source channel flag when absent. The combined channel is marked explicit if any included item is explicitly flagged. Episode-specific false flags override their source channel default. Two regression tests cover this.
 - Configuration/code changes now trigger a build on main. Cache-only commits and documentation changes do not trigger a new build, avoiding a cache commit loop. The November 2026 three-hour schedule is unchanged.
 
-## Pending source URLs
+## 3Speak checks
 
-- 3Speak NaPodPoMo entry ending 1c5e0e39-ca40-48db-a410-1c43c5324320.xml
-- 3Speak NaPodPoMo entry ending 89824da022425799e9cd52e2a75e7e1e.xml
-- 3Speak Official NaPodPoMo 2026 entry ending bcf0edf9ecd5c381be4be489a888369d.xml
-- 3Speak Kagok Talk entry ending e43d79afe818544a6f10acfd8035b33f.xml
-- Modulations: a public feed alternative or a separately configured private-access solution is needed. No subscriber email or private access token is committed.
+All five feeds parsed as RSS with audio/mpeg enclosures. Each contributed only November 2026 episodes. One audio URL from each feed returned HTTP 206, audio/mpeg, and a 1,024-byte sample. This verifies reachability, not podcast-app playback. The newly added 30 episodes introduce no duplicate GUIDs or audio URLs in the 168-item combined feed.
 
-## GitHub-hosted check
+## Initial 25-source GitHub-hosted check
 
 Automatic push-triggered run 42774668017 completed both build and deployment successfully. All 10 tests passed on GitHub. 21 feeds parsed successfully; Revivassance Podcast, Outrage Science Bites, The Lessons Learned Series, and A3Day Expanded Podcast each returned HTTP 403 from their supplied api.substack.com URLs. They are configured but currently contribute no episodes. An attempted public-publication lookup did not establish usable replacement feeds.
 
@@ -61,3 +63,7 @@ Live feed: https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/mega-feed.
 Workflow: https://github.com/epodcaster/NaPodPoMo-mega-feed-prototype/actions/runs/42774668017
 
 The three-hour November 2026 schedule remains configured; its first scheduled execution and podcast-app playback are still outstanding checks. No changes were made to napodpomo.org or the existing MEGA Feed.
+
+## Current 30-source deployment
+
+The five complete 3Speak URLs are ready for the next automatic deployment. Public RSS and playback checks are pending that deployment.

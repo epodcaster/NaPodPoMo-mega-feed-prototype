@@ -4,7 +4,7 @@ A separate expanded-source experiment. **Do not change napodpomo.org, its DNS, o
 
 ## Expanded source trial
 
-The active configuration now contains 25 public sources from the supplied 30-entry list. Kim Newlove uses the verified Libsyn podcast feed. Five shortened URLs remain pending, including a private feed that must not be committed to this repository. See `SOURCE_TEST_REPORT.md` for per-source counts and issues. Ten automated tests pass.
+The active configuration now contains 30 public sources from the supplied list. Kim Newlove uses the verified Libsyn podcast feed. All five previously shortened URLs have been supplied and added; Modulations uses its public 3Speak alternative. Four Substack sources remain blocked by HTTP 403 and currently contribute no episodes. See `SOURCE_TEST_REPORT.md` for per-source counts and issues. Ten automated tests pass.
 
 Source/code changes on main now start a build automatically; cache and documentation commits do not. Scheduled updates remain every three hours during November 2026.
 

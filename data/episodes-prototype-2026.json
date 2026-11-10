@@ -47,6 +47,22 @@
     "explicit": "false",
     "author": "Jordan's Knowledge"
   },
+  "9405c488cae08007025f309826ca5553": {
+    "id": "9405c488cae08007025f309826ca5553",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Background Audio",
+    "description": "Podcast Show Notes - Episode 7: A New Experience with PodcastingWelcome back to the show! In this episode, Shaine shares his evolving relationship with podcasting and how he has discovered a new way to boost productivity by rethinking how he listens to audio content. Drawing from his days of late-night talk radio to his current podcasting habits, Shaine offers a fresh perspective on making the most of your listening experience.Key Points:- Shaine has been tuning into the NaPodPoMo Mega Feed and discovering a wide variety of shows and topics he would not normally seek out, including K-pop, travel, and politics.- He reflects on his early love of talk radio, particularly Coast to Coast AM with Art Bell, which covered topics like ghosts, aliens, conspiracy theories, and more.- Talk radio served as productive background noise, allowing him to half-listen while staying focused on other tasks like programming or writing.- When podcasting became his primary audio medium, he found himself subscribing only to shows he was deeply interested in, causing him to listen too intently and hurting his productivity.- His solution is to subscribe to podcasts that are semi-interesting and let them play in the background, similar to how he used talk radio, freeing up mental focus for work.- Shaine encourages listeners who struggle with doomscrolling or video distractions to try playing a podcast in ",
+    "link": "https://3speak.tv/watch?v=shainemata/background-audio-mwa5pmmp",
+    "date": "2026-11-10T03:55:00+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmZimQwfq2pCAwGrZPgC1Bmaw9SaBiVKr59HAMvWa587M7",
+    "audio_type": "audio/mpeg",
+    "audio_length": "4137044",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/background-audio-mwa5pmmp.jpg?v=888f2aa1",
+    "duration": "4:18",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
   "2ee7121eafc3893241fb51c932ab5b64": {
     "id": "2ee7121eafc3893241fb51c932ab5b64",
     "source": "https://anchor.fm/s/1190b8d0c/podcast/rss",
@@ -110,6 +126,22 @@
     "duration": "00:10:39",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
+  },
+  "4c8e6498d4166cc7738d6cd6f55c4853": {
+    "id": "4c8e6498d4166cc7738d6cd6f55c4853",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026 Day 9: Recording with an old Zoom H4",
+    "description": "I have been recording these episodes on my webcam microphone so I thought I would try something better today. I plugged in the Zoom H4 https://www.soundonsound.com/reviews/zoom-h4 handheld recorder that I have had for many years. It has served me well as a portable recorder and an audio interface at times. I mention some other options I have an I may use those on other episodes.",
+    "link": "https://3speak.tv/watch?v=steevc/napodpomo-2026-day-9-recording-with-an-o-mw9t7qk2",
+    "date": "2026-11-09T22:05:10+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmbS7yJxAfn3jiZjhYkmSp4EovZ4Va8biZT3AZp2qKsKrP",
+    "audio_type": "audio/mpeg",
+    "audio_length": "2780806",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-9-recording-with-an-o-mw9t7qk2.jpg?v=7afe16e4",
+    "duration": "2:54",
+    "explicit": "clean",
+    "author": "Steve Clark"
   },
   "878a70ed7241d4e9b0eaeab91ef8f43b": {
     "id": "878a70ed7241d4e9b0eaeab91ef8f43b",
@@ -287,6 +319,22 @@
     "explicit": "false",
     "author": "Computer Freedom"
   },
+  "fc95b6f92d0907fb9b0489133d8e643a": {
+    "id": "fc95b6f92d0907fb9b0489133d8e643a",
+    "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
+    "podcast": "Kagok Talk Podcast",
+    "title": "Why Do Indonesians Smile So Much? | NaPodPoMo | Kagok Talk Ep 6",
+    "description": "A few days ago, I read something interesting on Quora\u2014a question that made me realize that what I\u2019ve always considered \"normal\" isn\u2019t necessarily the norm in other countries. In fact, it might even be perceived as strange or suspicious.In this episode\u2014Episode 6 of *Kagok Talk Podcast https://3speak.tv/playlist/e43d79afe818544a6f10acfd8035b33f?ref=ekads*\u2014I explore the topic: \"Why Do Indonesians Smile So Much?\" This is part of my 30-day, 30-episode #NaPodPoMo challenge, which also serves as a way for me to practice speaking English.I hope you enjoy this little podcast of mine. Thanks for listening, and see you in the next episode!",
+    "link": "https://3speak.tv/watch?v=ekads/why-do-indonesians-smile-so-much-napodpo-mw8xqde3",
+    "date": "2026-11-09T07:23:52+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmQUKkha6HfvRWWtbuUCgxDnKeJq6vxYLZPsUpKDhHTkGQ",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3068094",
+    "artwork": "https://3speak.tv/img/c/episode/ekads/why-do-indonesians-smile-so-much-napodpo-mw8xqde3.jpg?v=b79a177c",
+    "duration": "4:09",
+    "explicit": "clean",
+    "author": "ekads"
+  },
   "adf3ea5f3bf26b693f8ac6fdbfb705cd": {
     "id": "adf3ea5f3bf26b693f8ac6fdbfb705cd",
     "source": "https://feeds.captivate.fm/asecondfirstlook/",
@@ -446,6 +494,22 @@
     "duration": "245",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
+  },
+  "1036b30e377c5d383799cd44ea0bf4ae": {
+    "id": "1036b30e377c5d383799cd44ea0bf4ae",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026 Day 8: How and why I run",
+    "description": "We are over a week into NapPodPoMo and I am trying to mix up the topics. I may need to repeat some eventually. I am keeping a list of what I have talked about.It is pretty easy to do this. I just fire up Audacity and record through my webcam microphone. You can do it on a phone too. I upload to 3speak where I have created a dedicated playlist that people can subscribe to in their podcast apps. It is also included in the mega feed /hive-128305/@epodcaster/napodpomo-2026-mega-feed compiled by epodcaster. I am checking out some of the episodes produced by others. It is not just those on Hive. You can follow feeds in 3speak too.Have a great week!",
+    "link": "https://3speak.tv/watch?v=steevc/napodpomo-2026-day-8-how-and-why-i-run-mw85raaq",
+    "date": "2026-11-08T18:20:45+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmazrmpcArL26CGCgyGRxmVsThH3LbtZfRrtGtbQQvbGqK",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3567393",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-8-how-and-why-i-run-mw85raaq.jpg?v=dfed486d",
+    "duration": "3:43",
+    "explicit": "clean",
+    "author": "Steve Clark"
   },
   "b544ce9ff38b9f063f7f9bb89100e9ae": {
     "id": "b544ce9ff38b9f063f7f9bb89100e9ae",
@@ -655,6 +719,22 @@
     "explicit": "false",
     "author": "Judy Oskam"
   },
+  "df16f3e518b982ebe4ebe5fadc2af6bb": {
+    "id": "df16f3e518b982ebe4ebe5fadc2af6bb",
+    "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
+    "podcast": "Kagok Talk Podcast",
+    "title": "Is It Even a Gathering Without Gorengan | NaPodPoMo | Kagok Talk Ep 5",
+    "description": "Hello everyone! This is Episode 5 of the Kagok Talk Podcast https://3speak.tv/playlist/e43d79afe818544a6f10acfd8035b33f?ref=ekads\u2014a small podcast where I practice speaking English, and also part of the #NaPodPoMo challenge.In this fifth episode, I talk about *gorengan* (Indonesian-style deep-fried snacks). I explore why Indonesians love them so much and share my own personal favorites. In fact, **gorengan** are so deeply woven into the fabric of daily life in Indonesia that there\u2019s a common saying: hanging out just isn\u2019t complete without **gorengan**!Have you ever tried Indonesian *gorengan*? Which one is your favorite?See you in the next episode of the Kagok Talk Podcast. Have a wonderful day!",
+    "link": "https://3speak.tv/watch?v=ekads/is-it-even-a-gathering-without-gorengan--mw6z3jop",
+    "date": "2026-11-07T22:26:33+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmVuZFm2SnbHxuayHhuj37CdqAcpAqd6jLZxkcHg53As9b",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3337715",
+    "artwork": "https://3speak.tv/img/c/episode/ekads/is-it-even-a-gathering-without-gorengan--mw6z3jop.jpg?v=b7686a18",
+    "duration": "5:24",
+    "explicit": "clean",
+    "author": "ekads"
+  },
   "0148cce91b927ddfbb052312f73e420e": {
     "id": "0148cce91b927ddfbb052312f73e420e",
     "source": "https://anchor.fm/s/12ed94c/podcast/rss",
@@ -734,6 +814,22 @@
     "duration": "10:20",
     "explicit": "false",
     "author": "Elsie, As Is"
+  },
+  "c1d292a3ff7e967dbab64bbd58037dad": {
+    "id": "c1d292a3ff7e967dbab64bbd58037dad",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026 Day 7: Producing the Hive Britlist",
+    "description": "I was going to combine this podcast with the latest Britlist https://peakd.com/hive-133987/@steevc/the-brit-list-november-2026, but 3speak was limiting how much text I could include so I will do this separately and decline rewards.I have been doing these monthly posts for almost six years, but I have refined the process to make it easy for me. We have access to all the Hive data so you can analyse it in any ways you like. I guess some people would use AI for that these days so you could produce something prettier, but I am old school when it comes to coding.",
+    "link": "https://3speak.tv/watch?v=steevc/napodpomo-2026-day-7-producing-the-hive--mw6o4csw",
+    "date": "2026-11-07T17:19:15+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmZ1apYUAMbXT78gNRF1vX5K1K6HkFypQimaY2zGo1e8Nb",
+    "audio_type": "audio/mpeg",
+    "audio_length": "2305166",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-7-producing-the-hive--mw6o4csw.jpg?v=cc489423",
+    "duration": "2:24",
+    "explicit": "clean",
+    "author": "Steve Clark"
   },
   "d045b00001fd5472de92da79d90ab4f7": {
     "id": "d045b00001fd5472de92da79d90ab4f7",
@@ -831,6 +927,38 @@
     "explicit": "false",
     "author": "Kim Newlove"
   },
+  "6cc272fa88ce07d4e86de007e786d8f5": {
+    "id": "6cc272fa88ce07d4e86de007e786d8f5",
+    "source": "https://3speak.tv/rss/playlist/bcf0edf9ecd5c381be4be489a888369d.xml",
+    "podcast": "Official NaPodPoMo 2026",
+    "title": "What I Have Heard (6/30)",
+    "description": "One of the wonderfully serendipitous things about the collective RSS feed that is the NaPodPoMo 2026 MEGA Feed is the randomness of what I will hear at any given time. I have no idea what I am in for when I click the play button. What I do know is that I will be hearing from you, my fellow NaPodPoMo challengers. What you happen to say is the great unknown which adds a level of excitement to the experience every single time.To learn mroe about the NaPodPoMo 2026 MEGA Feed visithttps://napodpomo.org/napodpomo-2026-mega-feed",
+    "link": "https://3speak.tv/watch?v=epodcaster/what-i-have-heard-630-mw5wivkl",
+    "date": "2026-11-07T04:26:44+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmdjihhgTuyfiybEwKnLk4eydSKJVSbfRcXdaVvG1oqDcj",
+    "audio_type": "audio/mpeg",
+    "audio_length": "1124774",
+    "artwork": "https://3speak.tv/img/c/episode/epodcaster/what-i-have-heard-630-mw5wivkl.jpg?v=d6a3e0f7",
+    "duration": "0:50",
+    "explicit": "clean",
+    "author": "epodcaster"
+  },
+  "bb41b320dad72e8e9eddfecd4e1e9433": {
+    "id": "bb41b320dad72e8e9eddfecd4e1e9433",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Family Podcast and Podcast Workflow",
+    "description": "https://audio.3speak.tv/play?a=3i8ulo5vEpisode Show Notes \u2014 NaPodPoMo Day 6 (Shaine)IntroductionIn this episode, Shaine shares why he\u2019s starting a family oral history podcast\u2014beginning with an interview with his mother, who is living with dementia\u2014and how National Podcast Post Month is helping him gradually refine his podcast production workflow.Key Points* Launching a family oral history project * Long-time intention to record family stories, finally put into action * Goal: interview family members first, then potentially expand to community interviews* Recording his mother\u2019s memories while they\u2019re still accessible * His mother is experiencing dementia, but still remembers many childhood and early life experiences * Capturing stories now to preserve them before more memories fade * Background includes migrant family life traveling for field work (Texas to states like Wisconsin, Delaware, Indiana, Illinois)* Prior experience recording family history * Previously interviewed family members (including his grandmother) on Blog Talk Radio * Family valued those recordings after his grandmother passed, especially hearing her voice and stories* Suggestion: create a family podcast (public or private) * If privacy is a concern, share recordings only within the family * Comparable to a family newsletter\u2014just in audio form * Benefits include preserving voices, memories, and stories for fu",
+    "link": "https://3speak.tv/watch?v=shainemata/family-podcast-and-podcast-workflow-mw5rs3pa",
+    "date": "2026-11-07T02:13:56+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmTHcuudXw2c1Dv9yN6vB4Vu4WMkXz3YmwBKAY4wZ5rBtS",
+    "audio_type": "audio/mpeg",
+    "audio_length": "12617132",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/family-podcast-and-podcast-workflow-mw5rs3pa.jpg?v=51d0848b",
+    "duration": "13:09",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
   "0f496226b31e1879d39b01ce3eabf48f": {
     "id": "0f496226b31e1879d39b01ce3eabf48f",
     "source": "https://anchor.fm/s/1190b8d0c/podcast/rss",
@@ -879,6 +1007,22 @@
     "explicit": "false",
     "author": "Judy Oskam"
   },
+  "6b679268b934fc8842db3921fca61e98": {
+    "id": "6b679268b934fc8842db3921fca61e98",
+    "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
+    "podcast": "Kagok Talk Podcast",
+    "title": "Why Does Everyone Wear a Jacket on a Motorcycle | NaPodPoMo | Kagok Talk Ep 4",
+    "description": "Hello everyone, welcome back to Kagok Talk Podcast https://3speak.tv/playlist/e43d79afe818544a6f10acfd8035b33f?ref=ekads. This fourth episode is a bit late, as I\u2019ve had some trouble managing my schedule due to being quite busy.In this episode\u2014which is still part of the #NaPodPoMo challenge\u2014I discuss why people wear jackets when riding motorcycles.Do people in your area also always wear jackets when riding motorcycles?See you in the next episode of the Kagok Talk Podcast. Have a nice weekend!",
+    "link": "https://3speak.tv/watch?v=ekads/why-does-everyone-wear-a-jacket-on-a-mot-mw5imvhf",
+    "date": "2026-11-06T21:57:56+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmZmnv8aiyAnwiYCK3mLJNYgP9AX4h5gpFYXAigdnEEvWY",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3132547",
+    "artwork": "https://3speak.tv/img/c/episode/ekads/why-does-everyone-wear-a-jacket-on-a-mot-mw5imvhf.jpg?v=9bd91da8",
+    "duration": "5:02",
+    "explicit": "clean",
+    "author": "ekads"
+  },
   "23e514fc30979c91756d4a7c0a748c66": {
     "id": "23e514fc30979c91756d4a7c0a748c66",
     "source": "https://feeds.captivate.fm/elsie-as-is/",
@@ -910,6 +1054,22 @@
     "duration": "00:10:17",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
+  },
+  "864529c1c94c184921c731adb7dec159": {
+    "id": "864529c1c94c184921c731adb7dec159",
+    "source": "https://3speak.tv/rss/playlist/bcf0edf9ecd5c381be4be489a888369d.xml",
+    "podcast": "Official NaPodPoMo 2026",
+    "title": "It's Not Too Late (5/30)",
+    "description": "There are new folks joining NaPodPoMo even though the challenge has already started. And if you've been sitting on the sidelines seeing all the podcast wonder happen around you, then this episode is for you.You can absolutely join the National Podcast Post Month challenge at any time during the month of November.To learn more visit: https://napodpomo.org",
+    "link": "https://3speak.tv/watch?v=epodcaster/its-not-too-late-530-mw581fl3",
+    "date": "2026-11-06T17:01:19+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmV7sQEf79RFSEq5FSYfsRJXDPAgM12LipYWe3EEeVGQi2",
+    "audio_type": "audio/mpeg",
+    "audio_length": "1510150",
+    "artwork": "https://3speak.tv/img/c/episode/epodcaster/its-not-too-late-530-mw581fl3.jpg?v=2f2704de",
+    "duration": "1:14",
+    "explicit": "clean",
+    "author": "epodcaster"
   },
   "dc0e2109c292242941b85049d6a6a466": {
     "id": "dc0e2109c292242941b85049d6a6a466",
@@ -943,6 +1103,38 @@
     "explicit": "false",
     "author": "NaPodPoMo 2026"
   },
+  "3d87d8cc44cf0e561f14dea84315492c": {
+    "id": "3d87d8cc44cf0e561f14dea84315492c",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Follow Friday: Open the Pod Bay Doors (NaPodPoMo 2026 Day 6)",
+    "description": "# The NewsThe prices have diverged a bit again for $HIVE and the other site. So it goes and all we can do is to keep adding value here.I am doing this post as part of my #NaPodPoMo podcast challenge in November so you will find a little bit of audio included. I am putting that on 3speak that makes it very easy now. The team have been adding features and just this week added a playlist that you can embed anywhere. We shall see if that works here.# Friday Follows* I am doing this podcast challenge thanks to @epodcaster who has been running it for many years. Others on Hive doing it include @shainemata, @ekads and @nicklewis.* @ugochill just released a new EP /risingstar/@ugochill/latest-ugochill-release-ep-its-electric-outnow of instrumental rock music.* @mantequilla-soft is the development hub for @threespeak, but follow @meno and @tibfox for more news.# The EndI will keep it fairly short today as I have the extra work of doing all these podcasts. In some cases I may need to do an extra post some days for that, but then I will give up some or all of the rewards.Hive five!The man behind:@tenkminnows: Helping good Hivers level up@proofofbrian: A bot that checks for tag typos#BritList: A monthly list of Hivers in the UK",
+    "link": "https://3speak.tv/watch?v=steevc/follow-friday-open-the-pod-bay-doors-nap-mw54v429",
+    "date": "2026-11-06T15:32:25+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmZwZRKZkHs7uqyHkjzjTgcCcs6XstGJh4i4sSHYpPHsXJ",
+    "audio_type": "audio/mpeg",
+    "audio_length": "2917014",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/follow-friday-open-the-pod-bay-doors-nap-mw54v429.jpg?v=2892c37e",
+    "duration": "3:02",
+    "explicit": "clean",
+    "author": "Steve Clark"
+  },
+  "bc38567f0dd86b2c0b68b929019e059c": {
+    "id": "bc38567f0dd86b2c0b68b929019e059c",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Repetition and Consistency",
+    "description": "Show Notes \u2014 Repetition, Refinement, and Building an AudienceIntroductionIn this episode of National Podcast Post Month, Shaine explores why repetition isn\u2019t a weakness in podcasting\u2014it\u2019s often the point. New podcasters frequently worry about running out of things to say, but strong shows are built by revisiting core ideas from new angles, refining your message over time, and becoming recognizable for a consistent point of view.Key Points- New podcasters often fear they \u201chave nothing new to say,\u201d but podcasts don\u2019t require constant novelty to be valuable.- Talk radio is a model for how repetition works: daily shows cover new events, but the host\u2019s worldview and format stay largely the same.- A niche podcast (e.g., Lego competitions) naturally repeats its theme; the details change, but the core topic remains consistent.- Podcast episodes can be treated like stand-alone \u201caudio essays\u201d\u2014each one is an attempt to express ideas, not a final thesis or dissertation.- Repetition creates comfort and expectation for listeners, similar to familiar children\u2019s programming that replays segments.- Audiences often return because they know what perspective they\u2019ll get from the host, even when the specific story or example changes.- Examples from online creators illustrate how audiences expect consistent viewpoints; new content is often the same message applied to a new situation.- You don\u2019t need",
+    "link": "https://3speak.tv/watch?v=shainemata/repetition-and-consistency-mw53md9w",
+    "date": "2026-11-06T14:57:38+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmQRLL3Q75rr3o15jhrhwPpqnvbkvTQc74Lxk4Jmg1RAtp",
+    "audio_type": "audio/mpeg",
+    "audio_length": "16395692",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/repetition-and-consistency-mw53md9w.jpg?v=51f7de9d",
+    "duration": "17:05",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
   "aa45e2ab3eb75cb2150fc3fff9fba119": {
     "id": "aa45e2ab3eb75cb2150fc3fff9fba119",
     "source": "https://micless.com/rss",
@@ -974,6 +1166,22 @@
     "duration": "00:31:26",
     "explicit": "false",
     "author": "Simple Joe"
+  },
+  "254517df903c68485fad9afca892ea1a": {
+    "id": "254517df903c68485fad9afca892ea1a",
+    "source": "https://3speak.tv/rss/playlist/aea99a4c-87ca-4d0a-8b7c-aeb9e739a449.xml",
+    "podcast": "NaPodPoMo",
+    "title": "Let's get together and make music!",
+    "description": "I have come up with a cool idea but you will need to listen to this podcast episode to find out!",
+    "link": "https://3speak.tv/watch?v=nicklewis/lets-get-together-and-make-music-mw4sd1q8",
+    "date": "2026-11-06T09:42:27+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmdCYfqhjMLW6GsJh33LT41SG4Zj39xgQ99HfrTfeEfwMC",
+    "audio_type": "audio/mpeg",
+    "audio_length": "5227488",
+    "artwork": "https://3speak.tv/img/c/episode/nicklewis/lets-get-together-and-make-music-mw4sd1q8.jpg?v=ec03e31f",
+    "duration": "6:49",
+    "explicit": "clean",
+    "author": "Nick Lewis"
   },
   "fa2854a15eb2947daea6540ff572e8a5": {
     "id": "fa2854a15eb2947daea6540ff572e8a5",
@@ -1022,6 +1230,22 @@
     "duration": "03:34",
     "explicit": "false",
     "author": "Kim Newlove"
+  },
+  "e9a2aae0e47f10378a790af0ed17ede5": {
+    "id": "e9a2aae0e47f10378a790af0ed17ede5",
+    "source": "https://3speak.tv/rss/playlist/bcf0edf9ecd5c381be4be489a888369d.xml",
+    "podcast": "Official NaPodPoMo 2026",
+    "title": "A Simple Catch-Up Strategy",
+    "description": "So what are you supposed to do when life gets in the way and you fall behind?Here is a simple and effective strategy to space out those make-up episodes in a way that won't burn you or your fellow challengers out.To learn more about National Podcast Post Month visit https://napodpomo.org",
+    "link": "https://3speak.tv/watch?v=epodcaster/a-simple-catch-up-strategy-mw4gw4cx",
+    "date": "2026-11-06T04:21:22+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmXor1F32XcESdm8R5icgUjyzBbcgxckVYXkyv3BQ8fHUq",
+    "audio_type": "audio/mpeg",
+    "audio_length": "1588680",
+    "artwork": "https://3speak.tv/img/c/episode/epodcaster/a-simple-catch-up-strategy-mw4gw4cx.jpg?v=5bc265cf",
+    "duration": "1:19",
+    "explicit": "clean",
+    "author": "epodcaster"
   },
   "005b7a15b5beede46ae21d70546b7185": {
     "id": "005b7a15b5beede46ae21d70546b7185",
@@ -1135,6 +1359,22 @@
     "explicit": "false",
     "author": "Elsie, As Is"
   },
+  "3ce6ba2681911c55ec460cbe34450fbe": {
+    "id": "3ce6ba2681911c55ec460cbe34450fbe",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026 Day 5: Remember, Remember",
+    "description": "Happy Guy Fawkes Night https://en.wikipedia.org/wiki/Guy_Fawkes_Night! This is when Brits traditionally let off fireworks to terrify all the animals and mark the anniversary of a plot to blow up parliament.What is your main event for fireworks?The photo is actually from last New Year when we were out in a boat on Venice lagoon.",
+    "link": "https://3speak.tv/watch?v=steevc/napodpomo-2026-day-5-remember-remember-mw3xtqci",
+    "date": "2026-11-05T19:27:37+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmUw9wf7QF4dErtf6vopnbcadEbSk65PqPofTEmsT2Xbtp",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3064971",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-5-remember-remember-mw3xtqci.jpg?v=5f8e3317",
+    "duration": "3:11",
+    "explicit": "clean",
+    "author": "Steve Clark"
+  },
   "8b71380ff6ec27aa3b7b8d468152ce8c": {
     "id": "8b71380ff6ec27aa3b7b8d468152ce8c",
     "source": "https://feeds.buzzsprout.com/1613281.rss",
@@ -1150,6 +1390,22 @@
     "duration": "964",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
+  },
+  "d6547fcf40b2e8812b9d908d8ad5b120": {
+    "id": "d6547fcf40b2e8812b9d908d8ad5b120",
+    "source": "https://3speak.tv/rss/playlist/aea99a4c-87ca-4d0a-8b7c-aeb9e739a449.xml",
+    "podcast": "NaPodPoMo",
+    "title": "NaPodPoMo - 5th Movember",
+    "description": "A change of conversation. A little bit of a personal talk about being in between jobs and how I might go about finding my next sources of income. I am experimenting with the Podcast here, I seldom talk about my work life here but I think there are some important life experiences to share here, as others may face similar challenges.Back to music etc later.",
+    "link": "https://3speak.tv/watch?v=nicklewis/napodpomo-5th-movember-mw3njny0",
+    "date": "2026-11-05T14:39:51+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmVvKf5vZKVjp4vZmq6s7pLZSo24PR2AyQyrdXZXhxdYa9",
+    "audio_type": "audio/mpeg",
+    "audio_length": "19642560",
+    "artwork": "https://3speak.tv/img/c/episode/nicklewis/napodpomo-5th-movember-mw3njny0.jpg?v=5827afbf",
+    "duration": "14:10",
+    "explicit": "clean",
+    "author": "Nick Lewis"
   },
   "9d7a55e99e28f34266397d38a7db72bb": {
     "id": "9d7a55e99e28f34266397d38a7db72bb",
@@ -1247,6 +1503,38 @@
     "explicit": "false",
     "author": "Kim Newlove"
   },
+  "febf25ad9a58c1bc5911ab86e7124518": {
+    "id": "febf25ad9a58c1bc5911ab86e7124518",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Election Results and Garden Workouts",
+    "description": "Episode: National Podcast Post Month \u2014 Day 4Host: Shaine MataSummaryShaine recaps election night results (national and local), then shifts into how gardening can double as a practical way to stay active\u2014especially as a caregiver encouraging healthy activity for a loved one with dementia.Topics Covered- Election night timeline and reporting - Polls closing at 7:00 p.m. in some areas, with delays when lines remain - Results reported to the Secretary of State and posted online- Early race call: Eric Flores vs. Vicente Gonz\u00e1lez - Gonz\u00e1lez as the Democratic incumbent - Importance of Nueces County for Flores to offset Hidalgo County\u2019s Democratic advantage - Signs the race was unlikely to swing, making it an early call- Broader midterm trends - No major \u201cblue wave,\u201d but Democrats generally performed well - Midterms often result in losses for the sitting president\u2019s party - Looking ahead: expectations of an energized, high-stakes next general election cycle- Local politics: Mission, Texas mayoral race - Six candidates and perceived weakness in the current mayor\u2019s standing - Top three vote-getters included: - The current mayor (finished second) - A former mayor\u2019s son (finished first) - A previous mayor (finished third) - No candidate exceeded 50%, triggering a runoff between the top two (Rick/Ricardo Salinas and Mayor Gonz\u00e1lez) - Mention of an additional city council runoff- Personal up",
+    "link": "https://3speak.tv/watch?v=shainemata/election-results-and-garden-workouts-mw31il31",
+    "date": "2026-11-05T04:23:10+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmYzKsrrHFWSmQDLfNyTuBMsXiCrisBE9f1HVWX3JW3wjG",
+    "audio_type": "audio/mpeg",
+    "audio_length": "10744364",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/election-results-and-garden-workouts-mw31il31.jpg?v=a120047a",
+    "duration": "11:11",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
+  "f729c03d1a96380d8772956c4c0d5270": {
+    "id": "f729c03d1a96380d8772956c4c0d5270",
+    "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
+    "podcast": "Kagok Talk Podcast",
+    "title": "Why Do I Wake Up at 4 AM Every Day | NaPodPoMo | Kagok Talk Ep 3",
+    "description": "Hello everyone, welcome back! It\u2019s Eka here, and this is Episode 3 of the Kagok Talk Podcast. I\u2019m still taking on the #NaPodPoMo challenge\u201430 episodes in 30 days throughout the month of November.In this episode, I talk about my morning routine before heading off to work. I cover everything from waking up at 4:00 AM every day and how we divide morning tasks among family members, to a simple tradition practiced by my daughter, Ina. A small ritual that has become an essential part of our family\u2019s daily life.Thanks for stopping by, and see you in the next episode of Kagok Talk!",
+    "link": "https://3speak.tv/watch?v=ekads/why-do-i-wake-up-at-4-am-every-day-napod-mw2ysx8a",
+    "date": "2026-11-05T03:07:13+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmZkZpVHTDG9UVVvtdFqQZndBp8FG6HqyyzYSXEQhxmt7P",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3563578",
+    "artwork": "https://3speak.tv/img/c/episode/ekads/why-do-i-wake-up-at-4-am-every-day-napod-mw2ysx8a.jpg?v=90bb4031",
+    "duration": "4:47",
+    "explicit": "clean",
+    "author": "ekads"
+  },
   "7f1c58e7c474012f5cdcddb9647b1889": {
     "id": "7f1c58e7c474012f5cdcddb9647b1889",
     "source": "https://anchor.fm/s/1190b8d0c/podcast/rss",
@@ -1294,6 +1582,22 @@
     "duration": "00:01:38",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
+  },
+  "ef867aa1e80a5b2ea289525b67d774cc": {
+    "id": "ef867aa1e80a5b2ea289525b67d774cc",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026 Day 4: Playing with MIDI",
+    "description": "Today I talk about the MIDI protocol that lets you link musical instruments. I have looked into it before, but have some more gear now and am experimenting.Many years ago I walked into an electricals shop where a guy was demonstrating this technology when it was still new. He gave me his book that I just managed to find. I think he ran some magazines about this stuff.I am in the stage of 'lots of gear, but no idea', but we have access to plenty of information online these days. My friend @nicklewis has been giving me some tips. I may end up buying more gear, but will learn the principles first.The software I am running on my Raspberry Pi is RaspiMIDIHub https://raspimidihub.com/ and it is very good.Rock on!",
+    "link": "https://3speak.tv/watch?v=steevc/napodpomo-2026-day-4-playing-with-midi-mw2mwiqp",
+    "date": "2026-11-04T21:34:05+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmYi5Cn3Ngo63q5AxHjoBm3sb5VG5UCi1gLLLAw2NVYxoh",
+    "audio_type": "audio/mpeg",
+    "audio_length": "8187061",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-4-playing-with-midi-mw2mwiqp.jpg?v=a64450c5",
+    "duration": "8:32",
+    "explicit": "clean",
+    "author": "Steve Clark"
   },
   "9c0c9d9f601fd578eb19b99a425ad820": {
     "id": "9c0c9d9f601fd578eb19b99a425ad820",
@@ -1423,6 +1727,22 @@
     "explicit": "false",
     "author": "Doreen Cumberford"
   },
+  "5f1537cc75ec01dfc7e83f78c836e4e9": {
+    "id": "5f1537cc75ec01dfc7e83f78c836e4e9",
+    "source": "https://3speak.tv/rss/playlist/bcf0edf9ecd5c381be4be489a888369d.xml",
+    "podcast": "Official NaPodPoMo 2026",
+    "title": "Minimum Viable Podcast",
+    "description": "Why a challenge like NaPodPoMo is an ideal scenario for a minimum viable podcast. How I am adopting this as my mantra while attempting to complete 3 podcasts this month for a total of 90 episodes. Will I make it? Only time will tell for sure.To learn more visit https://napodpomo.org",
+    "link": "https://3speak.tv/watch?v=epodcaster/minimum-viable-podcast-mw1rx4h2",
+    "date": "2026-11-04T07:06:46+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmUmbotrjvb2wzwjgam4DRdVBeexmtrfqYkpW3fq7zp74F",
+    "audio_type": "audio/mpeg",
+    "audio_length": "2123368",
+    "artwork": "https://3speak.tv/img/c/episode/epodcaster/minimum-viable-podcast-mw1rx4h2.jpg?v=52bd535c",
+    "duration": "1:52",
+    "explicit": "clean",
+    "author": "epodcaster"
+  },
   "2738c3dfd829aba178dcec8c47239cf2": {
     "id": "2738c3dfd829aba178dcec8c47239cf2",
     "source": "https://feeds.libsyn.com/228308/rss",
@@ -1487,6 +1807,22 @@
     "explicit": "false",
     "author": "Jordan's Knowledge"
   },
+  "66c71558e7526259b6c7ec2871a5f888": {
+    "id": "66c71558e7526259b6c7ec2871a5f888",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Election Night and Caregiver Podcast Plans",
+    "description": "Hey everybody, welcome back to the third episode of my national podcast post-month, uh, podcast. This is Shaine, and I have another update on what I'm going to be doing in terms of creating podcasts for dementia caregivers.But before I do that, I want to let you know tonight is election night, and I will be spending some time tonight, uh, listening to\u2014 or watching\u2014 local election coverage on our local radio station. So we have a radio station, 710 KURV, that does election night coverage. They'll go through the results and, uh, and pull the results from the Secretary of State's website and discuss winners and losers. But they also actually offer a livestream on X, so if you're interested in watching South Texas election coverage, you can follow @710KURV on X and watch the livestream with me. It's, uh, it's a tradition around here because they\u2014 they really get into all of the local elections for all kinds of different races, for, you know, city councils, for mayors, for county seats, for districts, and statewide elections, all that sort of thing. So it's a pretty exciting time to listen to that radio station on election night, so I'll be doing that tonight.So now, moving back to the caregiving podcast. So I've decided that I'm going to be doing caregiving, uh, podcasts or videos on YouTube because I think the topics that I'm covering are going to be more, more local in some ways,",
+    "link": "https://3speak.tv/watch?v=shainemata/election-night-and-caregiver-podcast-pla-mw1fmske",
+    "date": "2026-11-04T01:22:48+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmQ6FAyBWcFTYsHLDc4rUjKk9odhsTNj6Zt3auF4cB8HEg",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6636716",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/election-night-and-caregiver-podcast-pla-mw1fmske.jpg?v=47644ea0",
+    "duration": "4:36",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
   "0c876c44768a5e6f891ef7faae9aa239": {
     "id": "0c876c44768a5e6f891ef7faae9aa239",
     "source": "https://anchor.fm/s/1137b424c/podcast/rss",
@@ -1518,6 +1854,22 @@
     "duration": "352",
     "explicit": "false",
     "author": "Paul O'Mahony"
+  },
+  "cd87afbd36443c7a6bccc3f40ba4ae16": {
+    "id": "cd87afbd36443c7a6bccc3f40ba4ae16",
+    "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
+    "podcast": "Kagok Talk Podcast",
+    "title": "Who Are All These People in Coffee Shops? | NaPodPoMo | Kagok Talk Ep 2",
+    "description": "Hi everyone, welcome back to another episode of the **Kagok Talk Podcast**.In this episode, I\u2019m responding to a comment from @tibfox regarding my daily routine. I\u2019ll be sharing some thoughts about the people I see at a coffee shop on my way to work\u2014who they might be, what they\u2019re doing, and how it all relates to a Korean movie I watched a few years ago.This podcast is my way of practicing my English speaking skills. I hope you enjoy this little podcast of mine, and please feel free to answer the questions I\u2019ve posed by leaving a comment on this post!By the way, if you have any ideas or suggestions for topics you\u2019d like me to cover in a future episode, just let me know in the comments section.Thanks for stopping by, and see you in the next episode of **Kagok Talk**!",
+    "link": "https://3speak.tv/watch?v=ekads/who-are-all-these-people-in-coffee-shops-mw191p0z",
+    "date": "2026-11-03T22:18:26+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmW3iVGR3JtpBfmU9AFBKQcVUHYJ6TFajQQmygEXtH1WBy",
+    "audio_type": "audio/mpeg",
+    "audio_length": "5154241",
+    "artwork": "https://3speak.tv/img/c/episode/ekads/who-are-all-these-people-in-coffee-shops-mw191p0z.jpg?v=544bc850",
+    "duration": "7:03",
+    "explicit": "clean",
+    "author": "ekads"
   },
   "235750668d7ffea9ba51cf70ba675d9a": {
     "id": "235750668d7ffea9ba51cf70ba675d9a",
@@ -1566,6 +1918,22 @@
     "duration": "00:03:04",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
+  },
+  "4dae2d840b23a9693482e0f5cbea4fe5": {
+    "id": "4dae2d840b23a9693482e0f5cbea4fe5",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo Day 3: The music of Steven Wilson",
+    "description": "On this third day of the podcast challenge I talk about the musician Steven Wilson https://en.wikipedia.org/wiki/Steven_Wilson who I have been into for a few years now. He has a big following, but is mostly under the radar. I saw him perform just last week at the Royal Albert Hall in London.His music may be referred to as prog, but he loves pop too.I only recorded a brief bit of the show, but I include it to give you a flavour. Look him up on Youtube, Spotify etc. Not to be confused with the US musician Stephen Wilson Jr.",
+    "link": "https://3speak.tv/watch?v=steevc/napodpomo-day-3-the-music-of-steven-wils-mw136llt",
+    "date": "2026-11-03T19:34:17+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmaowUF4ab5EVKptgyjvXjKTZYVuF6uhnVLXdQozmkk9kE",
+    "audio_type": "audio/mpeg",
+    "audio_length": "7242473",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-day-3-the-music-of-steven-wils-mw136llt.jpg?v=31299128",
+    "duration": "7:33",
+    "explicit": "clean",
+    "author": "Steve Clark"
   },
   "cdae7ff21861ed8083ff9b05ea1a323c": {
     "id": "cdae7ff21861ed8083ff9b05ea1a323c",
@@ -1727,6 +2095,22 @@
     "explicit": "false",
     "author": "NaPodPoMo 2026"
   },
+  "16eae748e8ac22a328f14c3efd4c8ac4": {
+    "id": "16eae748e8ac22a328f14c3efd4c8ac4",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026 - Planning Ahead",
+    "description": "In my second episode, I discuss planning the dementia caregiving podcast.",
+    "link": "https://3speak.tv/watch?v=shainemata/napodpomo-2026-planning-ahead-mw00bveu",
+    "date": "2026-11-03T01:26:38+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmRtYMKapA3CudM3o6DVevN18giyfh6jdyBvt6QGSsUnHV",
+    "audio_type": "audio/mpeg",
+    "audio_length": "4747271",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-planning-ahead-mw00bveu.jpg?v=f4465426",
+    "duration": "4:57",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
   "c60ff29512b33aa9efde44d4ed512959": {
     "id": "c60ff29512b33aa9efde44d4ed512959",
     "source": "https://feeds.buzzsprout.com/2235555.rss",
@@ -1790,6 +2174,22 @@
     "duration": "11:39",
     "explicit": "false",
     "author": "Elsie, As Is"
+  },
+  "81f318d76c12b673d5382136a9cb080b": {
+    "id": "81f318d76c12b673d5382136a9cb080b",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Solar Report: October 2026",
+    "description": "Here is my monthly report on how our solar panel system did in September 2026. We have:* 20x400W panels = 8kW, facing west* 5kW GivEnergy https://givenergy.co.uk/ inverter* 9.5kWh GivEnergy batteryThe house is in the UK at about 52\u00b0 north. The system was installed in February 2024 by Octopus https://share.octopus.energy/tan-grove-963 who also supply our power and gas.This is the year so far, all in kWh:|Month|Generated|Used|Exported|Imported|Cost import|Paid export|Axle||-|-|-|-|-|-|-|-||January /hive-127466/@steevc/solar-report-january-2026|110|518|106|522|\u00a388.53|\u00a314.91|\u00a30||February /hive-127466/@steevc/solar-report-february-2026|237|592|226|580|\u00a379.08|\u00a333.97|\u00a30||March /hive-127466/@steevc/solar-report-march-2026|590|484|599|507|\u00a374.47|\u00a368.30|\u00a30||April /hive-127466/@steevc/solar-report-april-2026|937|283|927|326|\u00a337.71|\u00a3112.71|\u00a30||May /hive-127466/@steevc/solar-report-may-2026|1001|315|950|312|\u00a345.14|\u00a3113.99|\u00a30||June /hive-127466/@steevc/solar-report-june-2026|1009|465|954|405|\u00a360.83|\u00a3112.05|\u00a312.02|July /hive-127466/@steevc/solar-report-july-2026|1213|408|1209|414|\u00a357.47|\u00a3140.16|\u00a310.00|August /hive-127466/@steevc/solar-report-august-2026|918|549|818|452|\u00a375.09|\u00a395.88|\u00a314.14|September /hive-127466/@steevc/solar-report-september-2026|631|552|603|522|\u00a377.42|\u00a371.58|\u00a314.79|October /hive-127466/@steevc/solar-report-october-2026|396|548|383|536|\u00a376.91|\u00a345.66|\u00a315.22|**Totals**|7042|47",
+    "link": "https://3speak.tv/watch?v=steevc/solar-report-october-2026-mvzqb24f",
+    "date": "2026-11-02T20:46:04+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmNr3UFGNdrahKz5eJVMHe3S8DnzTS6gNCB9zf8SPYKC2F",
+    "audio_type": "audio/mpeg",
+    "audio_length": "5401363",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/solar-report-october-2026-mvzqb24f.jpg?v=1394087c",
+    "duration": "5:38",
+    "explicit": "clean",
+    "author": "Steve Clark"
   },
   "d34d2fa8fce2d3780cd1a9eda55845eb": {
     "id": "d34d2fa8fce2d3780cd1a9eda55845eb",
@@ -1886,6 +2286,38 @@
     "duration": "00:19:45",
     "explicit": "false",
     "author": "Simple Joe"
+  },
+  "84b1f6de922e4c2aba9f891a01756638": {
+    "id": "84b1f6de922e4c2aba9f891a01756638",
+    "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
+    "podcast": "Kagok Talk Podcast",
+    "title": "Why I\u2019m Doing This | NaPodPoMo | Kagok Talk Ep1",
+    "description": "I just came across something interesting on 3speak:NaPodPoMo by @epodcasterIt\u2019s a podcasting challenge\u201430 episodes over 30 days throughout November. The format is flexible; you could release one episode a day, drop seven all at once over the weekend, or even post all 30 by the end of the period.I\u2019ve realized that my English-speaking skills are still quite weak, which is why I decided to jump straight into this challenge.I know my pronunciation is often off\u2014as you can hear in this recording, my delivery sounds very stiff while reading from the script I prepared.I hope that by practising this way, I\u2019ll become more fluent in English\u2014especially when speaking in public or communicating directly with others.I\u2019ve named this podcast \"Kagok Talk.\" In Indonesian, *kagok* refers to that awkward, stiff, or uncomfortable feeling one might experience in certain situations or when around specific people.Through this podcast, I want to shed that sense of *kagok*\u2014that awkwardness\u2014when speaking English with others.Would you like to join me?",
+    "link": "https://3speak.tv/watch?v=ekads/why-im-doing-this-napodpomo-kagok-talk-e-mvyy1721",
+    "date": "2026-11-02T07:34:34+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmcTKTvkkocyweQdLUAmonwKFvB33Nqug5bLPsFHpxRKsP",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3387675",
+    "artwork": "https://3speak.tv/img/c/episode/ekads/why-im-doing-this-napodpomo-kagok-talk-e-mvyy1721.jpg?v=cc58a51f",
+    "duration": "4:33",
+    "explicit": "clean",
+    "author": "ekads"
+  },
+  "55f5192c47abf168fc072ac8ed053e43": {
+    "id": "55f5192c47abf168fc072ac8ed053e43",
+    "source": "https://3speak.tv/rss/playlist/bcf0edf9ecd5c381be4be489a888369d.xml",
+    "podcast": "Official NaPodPoMo 2026",
+    "title": "What Have You Gotten Yourself Into? (2/30)",
+    "description": "You've committed to create 30 podcast episodes in 30 days. What in the world were you thinking?In this episode we look at the rollercoaster ride that is the NaPodPoMo experience. Interestingly enough week one and week four have a lot in common.It's going to be a wile ride, but you're not alone. Your fellow NaPodPoMo challengers are right there with you!Learn more at https://NaPodPoMo.org and share your journey on all the socials using #NaPodPoMo.",
+    "link": "https://3speak.tv/watch?v=epodcaster/what-have-you-gotten-yourself-into-230-mvyutu5s",
+    "date": "2026-11-02T06:04:53+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmZGjKi4nEmAVYh6e8KJru3ZYhCJ51fN72BYE7ncaz1pHU",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3365913",
+    "artwork": "https://3speak.tv/img/c/episode/epodcaster/what-have-you-gotten-yourself-into-230-mvyutu5s.jpg?v=788f9afd",
+    "duration": "3:10",
+    "explicit": "clean",
+    "author": "epodcaster"
   },
   "738368f34571f65c75fa393591f7fbd1": {
     "id": "738368f34571f65c75fa393591f7fbd1",
@@ -2111,6 +2543,22 @@
     "explicit": "false",
     "author": "David Stack"
   },
+  "2249375e53d329c5148a2c37c9df49f2": {
+    "id": "2249375e53d329c5148a2c37c9df49f2",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026 - Introduction",
+    "description": "Introductory episode for NaPodPoMo 2026. Expectations for this year.",
+    "link": "https://3speak.tv/watch?v=shainemata/napodpomo-2026-introduction-mvy3z2jr",
+    "date": "2026-11-01T17:33:07+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmUNPYF64RtzYm1wx19zvQpDXvL2a2E6pM4VVoWHpJ2F58",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3932251",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-introduction-mvy3z2jr.jpg?v=35566fdc",
+    "duration": "4:06",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
   "7b9160630dfba307370cafcd99a040b4": {
     "id": "7b9160630dfba307370cafcd99a040b4",
     "source": "https://media.rss.com/stand/feed.xml",
@@ -2143,6 +2591,22 @@
     "explicit": "false",
     "author": "Mike Czerniewski"
   },
+  "cdd96bb699abd9ec6ced02907abd252c": {
+    "id": "cdd96bb699abd9ec6ced02907abd252c",
+    "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026: Day 1",
+    "description": "I have been inspired by @epodcaster to have another go at this challenge where you produce thirty podcasts during November. It is just a bit of fun and you can do whatever you want with it. Mine will mostly be about what I have been up to lately. I will keep it fairly short.You can subscribe to the feed in your favourite podcast app as 3speak gives you a feed for each playlist and I created one just for this challenge.",
+    "link": "https://3speak.tv/watch?v=steevc/napodpomo-2026-day-1-mvxxsgl4",
+    "date": "2026-11-01T14:40:01+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmeWLSH93ty18EoDHYKbGAP6cetYnjvJUQZei7cBjyYCZh",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3543535",
+    "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-1-mvxxsgl4.jpg?v=c796a40b",
+    "duration": "3:41",
+    "explicit": "clean",
+    "author": "Steve Clark"
+  },
   "bcfd9038464a8b4e1cc8b752a837a0aa": {
     "id": "bcfd9038464a8b4e1cc8b752a837a0aa",
     "source": "https://feeds.buzzsprout.com/2469650.rss",
@@ -2174,6 +2638,22 @@
     "duration": "351",
     "explicit": "false",
     "author": "Doreen Cumberford"
+  },
+  "920f30c4139aeb34d38a1e96946af655": {
+    "id": "920f30c4139aeb34d38a1e96946af655",
+    "source": "https://3speak.tv/rss/playlist/bcf0edf9ecd5c381be4be489a888369d.xml",
+    "podcast": "Official NaPodPoMo 2026",
+    "title": "NaPodPoMo 2026: And So It Begins! (1/30)",
+    "description": "Welcome to the 19th Annual National Podcast Post Month!In this kickoff episode, founder Jennifer Navarrete welcomes new and returning challengers and shares some words of wisdom:\u2022 Practical tips for getting started\u2022 Keeping production simple\u2022 Letting go of perfectionismBecause NaPodPoMo isn't about creating the perfect podcast, it's about learning by doing.Visit NaPodPoMo.org to learn more, connect with the community on Facebook, and share your journey by using the #NaPodPoMo hashtag on all your favorite social media platforms.",
+    "link": "https://3speak.tv/watch?v=epodcaster/napodpomo-2026-and-so-it-begins-130-mvxgei42",
+    "date": "2026-11-01T06:33:16+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmdRcoL6vw7xCD1DP2wTydjQJ88WUjKGpURhEJFjo34uBk",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6088400",
+    "artwork": "https://3speak.tv/img/c/episode/epodcaster/napodpomo-2026-and-so-it-begins-130-mvxgei42.jpg?v=e7e7fe27",
+    "duration": "6:00",
+    "explicit": "clean",
+    "author": "epodcaster"
   },
   "663ac5de18fc3df6aecdd25fd65d111f": {
     "id": "663ac5de18fc3df6aecdd25fd65d111f",
