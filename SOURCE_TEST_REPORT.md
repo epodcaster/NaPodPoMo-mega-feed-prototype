@@ -66,4 +66,10 @@ The three-hour November 2026 schedule remains configured; its first scheduled ex
 
 ## Current 30-source deployment
 
-The five complete 3Speak URLs are ready for the next automatic deployment. Public RSS and playback checks are pending that deployment.
+Run 42775680500 completed build and deployment successfully. All 10 tests passed, 26 of 30 sources loaded successfully, and the same four Substack endpoints returned HTTP 403. All five new 3Speak feeds loaded on GitHub.
+
+The public RSS feed was fetched after deployment: HTTP 200, 168 episodes, 168 unique GUIDs, 168 unique audio URLs, all dates within the configured November window, correct Atom self URL, and 274,681 bytes. Podcast-app playback and the first scheduled run remain unverified.
+
+Workflow: https://github.com/epodcaster/NaPodPoMo-mega-feed-prototype/actions/runs/42775680500
+
+The original website and existing NaPodPoMo MEGA Feed remain unchanged.
