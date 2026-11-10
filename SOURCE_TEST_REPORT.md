@@ -98,4 +98,10 @@ The bridge preserves titles, descriptions, dates, links, source names, GUIDs, an
 
 The observed input window is 50 entries. Raising the digest's output item limit to at least 200 would give more room for November episodes if available. The prototype cache preserves already discovered episodes.
 
-GitHub-hosted bridge retrieval and deployment are pending the following configuration commit. Podcast-app playback remains an acceptance check; successful RSS retrieval does not resolve the original audio server content-type issue reported by the validator.
+GitHub run 42778468018 successfully completed build and deployment. All 27 input endpoints fetched successfully, covering the configured 30 shows. All 14 tests passed. The digest returned 50 entries, 29 inside November; two repeated audio listings were suppressed.
+
+The public feed returned HTTP 200 with application/xml, 195 unique GUIDs and enclosure URLs, correct Atom self URL, dates inside November, and 331,071 bytes. All 168 previously published GUIDs remain present. The four bridged shows contribute 6, 9, 7, and 5 unique episodes respectively.
+
+Workflow: https://github.com/epodcaster/NaPodPoMo-mega-feed-prototype/actions/runs/42778468018
+
+Podcast-app playback remains an acceptance check; successful RSS retrieval does not resolve the original audio server content-type issue reported by the validator. The three-hour November 2026 schedule is configured, but a scheduled execution has not yet been observed. No website or original MEGA Feed changes were made.
