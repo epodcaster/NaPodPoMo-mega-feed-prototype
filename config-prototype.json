@@ -121,7 +121,8 @@
       "source_map": {
         "https://revivaissancecurriculum.substack.com/podcast": {
           "name": "Revivassance Podcast",
-          "url": "https://api.substack.com/feed/podcast/11679990.rss"
+          "url": "https://api.substack.com/feed/podcast/11679990.rss",
+          "artwork_url": "https://substack-post-media.s3.amazonaws.com/public/images/57d7b1fd-d3e4-4802-8834-c35517171d64_1400x1400.png"
         },
         "https://outrageoverload.substack.com/s/outrage-science-bites": {
           "name": "Outrage Science Bites",

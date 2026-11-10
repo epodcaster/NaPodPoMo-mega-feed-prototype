@@ -178,6 +178,10 @@ def append(parent, name, text, attrs=None):
     return e
 
 def make_rss(config, entries):
+    source_artwork = {mapped['url']: normalized_url(mapped['artwork_url'])
+                      for source in config.get('sources', [])
+                      for mapped in source.get('source_map', {}).values()
+                      if mapped.get('artwork_url')}
     rss = etree.Element('rss', version='2.0', nsmap={'itunes': ITUNES, 'atom': ATOM})
     channel = etree.SubElement(rss, 'channel')
     append(channel, 'title', config['title'])
@@ -216,8 +220,9 @@ def make_rss(config, entries):
         append(item, f'{{{ITUNES}}}author', episode.get('author') or episode['podcast'])
         if episode.get('duration'):
             append(item, f'{{{ITUNES}}}duration', episode['duration'])
-        if episode.get('artwork'):
-            append(item, f'{{{ITUNES}}}image', '', {'href': episode['artwork']})
+        artwork = episode.get('artwork') or source_artwork.get(episode.get('source'))
+        if artwork:
+            append(item, f'{{{ITUNES}}}image', '', {'href': artwork})
         if episode.get('explicit'):
             append(item, f'{{{ITUNES}}}explicit', episode['explicit'])
     return etree.tostring(rss, encoding='utf-8', xml_declaration=True, pretty_print=True)

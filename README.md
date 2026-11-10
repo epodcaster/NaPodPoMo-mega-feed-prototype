@@ -75,3 +75,7 @@ The workflow runs at 00:17, 03:17, 06:17, 09:17, 12:17, 15:17, 18:17, and 21:17 
 The separate input is https://feed.informer.com/digests/3IWM108UBD/feeder.rss. It replaces the four failing direct Substack requests in this prototype; the existing official MEGA Feed is not an input and remains unchanged. `source_map` maps each digest item's source page to the canonical public podcast feed and show name. Unknown or missing source attribution rejects the bridge input rather than silently mislabeling episodes; cached entries remain available. Output items include RSS source attribution and retain original media URLs.
 
 The observed digest has 50 entries. A rolling window is safe only if collection runs before entries disappear. Set its output item limit to at least 200 if available for greater November headroom; the prototype retains discovered entries in its cache. The digest omits episode artwork, duration, and explicit flags. Those fields cannot be recovered from this input. Source media hosting and content-type issues remain separate from successful RSS collection.
+
+## Public cover fallbacks for bridged shows
+
+A mapped show can specify artwork_url in its source_map entry. This is applied when writing the feed, so cached episodes also receive the cover without changing their GUIDs or media URLs. Any existing episode artwork takes priority. Revivassance uses the supplied public 1400 × 1400 RGB PNG from Substack’s S3 image storage. The other three bridged shows still need confirmed cover-image URLs. Fifteen regression tests pass.

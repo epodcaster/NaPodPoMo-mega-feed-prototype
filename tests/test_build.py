@@ -92,6 +92,25 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(doc.find('./channel/item/source').get('url'), direct_url)
         self.assertEqual(doc.findtext('./channel/item/source'), 'Original show')
 
+    def test_bridge_cover_fallback_preserves_episode_art_and_cached_records(self):
+        episodes, _ = extract_rss(fixture(3, 2026, 'show'), 'https://original.example/feed',
+                                 datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                 datetime(2026, 12, 1, tzinfo=timezone.utc))
+        episodes[1]['artwork'] = ''
+        episodes[2]['artwork'] = ''
+        episodes[2]['source'] = 'https://other.example/feed'
+        config = {'title':'Test', 'description':'Test', 'site_url':'https://example.com',
+                  'sources':[{'source_map':{'https://original.example/podcast':{
+                      'url':'https://original.example/feed',
+                      'artwork_url':'https://images.example/cover.png'}}}]}
+        doc = etree.fromstring(make_rss(config, episodes))
+        items = {i.findtext('title'): i for i in doc.findall('./channel/item')}
+        tag = '{http://www.itunes.com/dtds/podcast-1.0.dtd}image'
+        self.assertEqual(items['show episode 0'].find(tag).get('href'), episodes[0]['artwork'])
+        self.assertEqual(items['show episode 1'].find(tag).get('href'), 'https://images.example/cover.png')
+        self.assertIsNone(items['show episode 2'].find(tag))
+        self.assertEqual(episodes[1]['artwork'], '')
+
     def test_bridge_rejects_missing_or_unknown_source(self):
         root = etree.fromstring(fixture(1, 2026, 'show'))
         for source_url in [None, 'https://unexpected.example/podcast']:
