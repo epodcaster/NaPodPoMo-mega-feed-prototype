@@ -4,7 +4,7 @@ import unittest
 from datetime import datetime, timezone
 from pathlib import Path
 from lxml import etree
-from build import extract_rss, make_rss, run, parse_date
+from build import extract_rss, make_rss, run, parse_date, merge_episodes
 
 
 def fixture(n, year, prefix, padding=''):
@@ -71,6 +71,62 @@ class BuildTests(unittest.TestCase):
     def test_date_parsing(self):
         self.assertIsNotNone(parse_date('Wed, 04 Nov 2026 12:04:33 +0000'))
         self.assertIsNone(parse_date('not a date'))
+
+    def test_bridge_preserves_identity_and_show_attribution(self):
+        start = datetime(2026, 11, 1, tzinfo=timezone.utc)
+        end = datetime(2026, 12, 1, tzinfo=timezone.utc)
+        direct_url = 'https://example.com/original.rss'
+        direct, _ = extract_rss(fixture(1, 2026, 'show'), direct_url, start, end)
+        root = etree.fromstring(fixture(1, 2026, 'show'))
+        root.find('./channel/title').text = 'Combined bridge'
+        etree.SubElement(root.find('./channel/item'), 'source', url='https://example.com/podcast').text = 'Original show'
+        mapping = {'https://example.com/podcast': {'url': direct_url, 'name': 'Original show'}}
+        bridged, _ = extract_rss(etree.tostring(root), 'https://bridge.example/feed', start, end, mapping)
+        self.assertEqual(bridged[0]['id'], direct[0]['id'])
+        self.assertEqual(bridged[0]['source'], direct_url)
+        self.assertEqual(bridged[0]['podcast'], 'Original show')
+        self.assertEqual(bridged[0]['author'], 'Original show')
+        self.assertEqual(bridged[0]['audio_url'], direct[0]['audio_url'])
+        self.assertEqual(bridged[0]['date'], direct[0]['date'])
+        doc = etree.fromstring(make_rss({'title':'Test','site_url':'https://example.com','description':'Test'}, bridged))
+        self.assertEqual(doc.find('./channel/item/source').get('url'), direct_url)
+        self.assertEqual(doc.findtext('./channel/item/source'), 'Original show')
+
+    def test_bridge_rejects_missing_or_unknown_source(self):
+        root = etree.fromstring(fixture(1, 2026, 'show'))
+        for source_url in [None, 'https://unexpected.example/podcast']:
+            with self.subTest(source=source_url):
+                if source_url:
+                    etree.SubElement(root.find('./channel/item'), 'source', url=source_url).text = 'Unexpected'
+                with self.assertRaisesRegex(ValueError, 'source attribution'):
+                    extract_rss(etree.tostring(root), 'https://bridge.example/feed',
+                                datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                datetime(2026, 12, 1, tzinfo=timezone.utc), {})
+
+    def test_duplicate_audio_keeps_latest_title_and_cached_identity(self):
+        episodes, _ = extract_rss(fixture(2, 2026, 'show'), 'https://example.com/feed',
+                                 datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                 datetime(2026, 12, 1, tzinfo=timezone.utc))
+        episodes[1]['audio_url'] = episodes[0]['audio_url']
+        merged = {}
+        self.assertEqual(merge_episodes(merged, episodes), 1)
+        self.assertEqual(len(merged), 1)
+        cached_id = next(iter(merged))
+        self.assertEqual(merged[cached_id]['title'], 'show episode 1')
+        updated = dict(episodes[1], id='new-upstream-guid', title='Updated title')
+        merge_episodes(merged, [updated])
+        self.assertEqual(list(merged), [cached_id])
+        self.assertEqual(merged[cached_id]['title'], 'Updated title')
+
+    def test_same_audio_on_different_shows_is_not_collapsed(self):
+        episodes, _ = extract_rss(fixture(2, 2026, 'show'), 'https://example.com/feed',
+                                 datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                 datetime(2026, 12, 1, tzinfo=timezone.utc))
+        episodes[1]['audio_url'] = episodes[0]['audio_url']
+        episodes[1]['source'] = 'https://other.example/feed'
+        merged = {}
+        self.assertEqual(merge_episodes(merged, episodes), 0)
+        self.assertEqual(len(merged), 2)
 
     def test_combined_feed_explicit_flag(self):
         episodes, _ = extract_rss(fixture(2, 2026, 'show'), 'https://example.com/feed',

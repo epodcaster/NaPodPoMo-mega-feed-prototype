@@ -91,7 +91,7 @@ def fetch(url, max_bytes, timeout=25):
     finally:
         session.close()
 
-def extract_rss(xml_bytes, source_url, start, end):
+def extract_rss(xml_bytes, source_url, start, end, source_map=None):
     """Returns (selected episodes, totals). Reject malformed/XML entity expansion feeds."""
     parser = etree.XMLParser(resolve_entities=False, no_network=True, recover=False,
                              huge_tree=False, remove_comments=True)
@@ -125,15 +125,25 @@ def extract_rss(xml_bytes, source_url, start, end):
         if enc is None:
             no_audio += 1
             continue
+        identity_source = source_url
+        episode_podcast = podcast_title
+        if source_map is not None:
+            origin = item.find('source')
+            origin_url = origin.get('url', '') if origin is not None else ''
+            if origin_url not in source_map:
+                raise ValueError('Bridge item has missing or unrecognized source attribution')
+            mapped = source_map[origin_url]
+            identity_source = normalized_url(mapped['url'])
+            episode_podcast = mapped.get('name') or val(item, 'source') or podcast_title
         guid = val(item, 'guid') or val(item, 'link') or enc.get('url')
-        episode_id = sha256((source_url + '\0' + guid).encode('utf8')).hexdigest()[:32]
+        episode_id = sha256((identity_source + '\0' + guid).encode('utf8')).hexdigest()[:32]
         episode_art = item.find('itunes:image', namespaces=NS)
         episode_art_url = episode_art.get('href', '') if episode_art is not None else ''
         duration = val(item, 'itunes:duration')
         explicit = val(item, 'itunes:explicit') or val(channel, 'itunes:explicit')
-        author = val(item, 'itunes:author') or podcast_title
+        author = val(item, 'itunes:author') or episode_podcast
         selected.append({
-            'id': episode_id, 'source': source_url, 'podcast': podcast_title,
+            'id': episode_id, 'source': identity_source, 'podcast': episode_podcast,
             'title': val(item, 'title', 'Untitled episode'),
             'description': text_only(val(item, 'description') or val(item, 'content:encoded')),
             'link': val(item, 'link'), 'date': date.isoformat(),
@@ -144,6 +154,23 @@ def extract_rss(xml_bytes, source_url, start, end):
         })
     return selected, {'total': len(items), 'selected': len(selected),
                       'missing_dates': missing_dates, 'selected_without_audio': no_audio}
+
+def merge_episodes(merged, episodes):
+    """Keep cached IDs when a show republishes the same enclosure with a new GUID."""
+    by_audio = {(e['source'], e['audio_url']): key for key, e in merged.items()}
+    seen = set()
+    duplicates = 0
+    for episode in sorted(episodes, key=lambda e: e['date'], reverse=True):
+        key = (episode['source'], episode['audio_url'])
+        if key in seen:
+            duplicates += 1
+            continue
+        seen.add(key)
+        episode = dict(episode)
+        episode['id'] = by_audio.get(key, episode['id'])
+        merged[episode['id']] = episode
+        by_audio[key] = episode['id']
+    return duplicates
 
 def append(parent, name, text, attrs=None):
     e = etree.SubElement(parent, name, **(attrs or {}))
@@ -178,6 +205,8 @@ def make_rss(config, entries):
         if episode.get('link'):
             append(item, 'link', episode['link'])
         append(item, 'guid', 'napodpomo-mega:' + episode['id'], {'isPermaLink': 'false'})
+        if episode.get('source'):
+            append(item, 'source', episode['podcast'], {'url': episode['source']})
         date = datetime.fromisoformat(episode['date']).astimezone(timezone.utc)
         append(item, 'pubDate', format_datetime(date, usegmt=True))
         append(item, 'description', episode['description'])
@@ -224,9 +253,8 @@ def run(cfg_path, output_path, cache_path, offline=False):
                 xml = Path(source['fixture']).read_bytes()
             else:
                 xml = fetch(url, config.get('max_source_bytes', 40_000_000))
-            episodes, counts = extract_rss(xml, url, start, end)
-            for ep in episodes:
-                merged[ep['id']] = ep
+            episodes, counts = extract_rss(xml, url, start, end, source.get('source_map'))
+            counts['duplicate_audio_entries'] = merge_episodes(merged, episodes)
             successes += 1
             diagnostics.append({'source': name, 'status': 'ok', **counts})
             LOG.info('%s: %s items, %s eligible', name, counts['total'], counts['selected'])

@@ -1,10 +1,10 @@
-# NaPodPoMo RSS Aggregator Prototype v0.3
+# NaPodPoMo RSS Aggregator Prototype v0.4
 
 A separate expanded-source experiment. **Do not change napodpomo.org, its DNS, or the existing NaPodPoMo MEGA Feed.** Deploy only to a new repository named `napodpomo-mega-feed-prototype` (or another unused prototype name), using its default GitHub Pages URL. Do not add a custom domain.
 
 ## Expanded source trial
 
-The active configuration now contains 30 public sources from the supplied list. Kim Newlove uses the verified Libsyn podcast feed. All five previously shortened URLs have been supplied and added; Modulations uses its public 3Speak alternative. Four Substack sources remain blocked by HTTP 403 and currently contribute no episodes. See `SOURCE_TEST_REPORT.md` for per-source counts and issues. Ten automated tests pass.
+The configuration represents all 30 supplied shows through 26 direct feeds plus one separate Feed Informer digest for the four Substack shows. Kim Newlove uses the verified Libsyn feed; Modulations uses its public 3Speak alternative. The Substack digest contributes 27 unique November audio episodes after suppressing two duplicate audio listings, for a local total of 195. Fourteen automated tests pass. See `SOURCE_TEST_REPORT.md` for the trial history and current deployment status.
 
 Source/code changes on main now start a build automatically; cache and documentation commits do not. Scheduled updates remain every three hours during November 2026.
 
@@ -63,9 +63,15 @@ The workflow runs at 00:17, 03:17, 06:17, 09:17, 12:17, 15:17, 18:17, and 21:17 
 - Each source is limited to 40 MB. No audio files are downloaded or rehosted during aggregation.
 - Date filtering is start-inclusive/end-exclusive and follows the offsets configured in the JSON. The November window uses US Eastern offsets, matching the original prototype.
 - Metadata is cached to retain episodes removed by rolling source feeds. Episodes missing from a source before the first collection cannot be recovered automatically. The 1,500-item output cap also drops older cache entries beyond the cap.
-- GUIDs use source URL plus original GUID. Changing source URLs can create duplicates; editing an episode title on the same source does not change its generated GUID.
+- GUIDs use the canonical source feed URL plus the original GUID. Bridge source mappings keep the original podcast identity. Within a show, repeated exact audio URLs are collapsed and cached aggregate GUIDs are retained when upstream GUIDs change. Distinct shows are kept separate. The most recently dated duplicate entry supplies metadata.
 - Descriptions become plain text truncated to 1,400 characters. Chapters, transcripts, and advanced Podcasting 2.0 metadata are not copied.
 - A partial source failure uses cached metadata and still allows publication. If every source fails with no cache, the build fails and leaves local output untouched. With a cache, all-source failure can publish cached episodes; inspect Actions logs for source errors.
 - Channel-level artwork is not configured. Episode artwork is copied with a show-art fallback. The combined channel declares explicit=true when any included episode is marked explicit; episode flags inherit their source channel flag when absent.
 - Some source audio URLs use HTTP. The aggregator preserves them exactly. App compatibility still needs testing.
 - Public prototype publishing is separate from participant onboarding or any launch of a replacement feed. Do not submit this prototype to podcast directories.
+
+## Substack digest input
+
+The separate input is https://feed.informer.com/digests/3IWM108UBD/feeder.rss. It replaces the four failing direct Substack requests in this prototype; the existing official MEGA Feed is not an input and remains unchanged. `source_map` maps each digest item's source page to the canonical public podcast feed and show name. Unknown or missing source attribution rejects the bridge input rather than silently mislabeling episodes; cached entries remain available. Output items include RSS source attribution and retain original media URLs.
+
+The observed digest has 50 entries. A rolling window is safe only if collection runs before entries disappear. Set its output item limit to at least 200 if available for greater November headroom; the prototype retains discovered entries in its cache. The digest omits episode artwork, duration, and explicit flags. Those fields cannot be recovered from this input. Source media hosting and content-type issues remain separate from successful RSS collection.

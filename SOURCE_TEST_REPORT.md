@@ -1,3 +1,7 @@
+# Current prototype status
+
+The configuration now covers the supplied 30 shows using 26 direct feeds and one separate Feed Informer digest for the four Substack shows. See the latest bridge trial below; earlier sections document the preceding tests.
+
 # Expanded source trial, November 10, 2026
 
 30 entries were supplied. All 30 public URLs are now configured, including the five supplied 3Speak URLs. Modulations uses its public 3Speak feed; no private subscription URL is included. The original 2023 archive remains available in the historical test configuration and is no longer an active 2026 source.
@@ -73,3 +77,25 @@ The public RSS feed was fetched after deployment: HTTP 200, 168 episodes, 168 un
 Workflow: https://github.com/epodcaster/NaPodPoMo-mega-feed-prototype/actions/runs/42775680500
 
 The original website and existing NaPodPoMo MEGA Feed remain unchanged.
+
+## Substack digest trial
+
+Input: https://feed.informer.com/digests/3IWM108UBD/feeder.rss
+
+The digest fetched successfully, is 126,093 bytes, and contains 50 RSS items. 29 items fit November 2026 and all have audio enclosures and source attribution. Two exact repeated audio URLs within The Lessons Learned Series are duplicate listings under changed titles. They are collapsed, retaining the latest dated metadata.
+
+| Show | November input listings | Unique audio episodes |
+| --- | ---: | ---: |
+| Revivassance Podcast | 6 | 6 |
+| Outrage Science Bites | 9 | 9 |
+| The Lessons Learned Series | 9 | 7 |
+| A3Day Expanded Podcast | 5 | 5 |
+| Total | 29 | 27 |
+
+The local merged feed contains 195 episodes, 195 unique GUIDs, 195 unique enclosure URLs, and 330,920 bytes. Fourteen automated tests pass. New tests cover mapped source identity, missing/unrecognized bridge sources, duplicate audio and cached GUID retention, and preserving separate shows sharing an audio URL.
+
+The bridge preserves titles, descriptions, dates, links, source names, GUIDs, and enclosure URL/type/length. It does not provide artwork, duration, or explicit flags. No private subscription URLs are used. Output includes canonical source feed attribution rather than labeling all four shows as the digest.
+
+The observed input window is 50 entries. Raising the digest's output item limit to at least 200 would give more room for November episodes if available. The prototype cache preserves already discovered episodes.
+
+GitHub-hosted bridge retrieval and deployment are pending the following configuration commit. Podcast-app playback remains an acceptance check; successful RSS retrieval does not resolve the original audio server content-type issue reported by the validator.

@@ -63,6 +63,22 @@
     "explicit": "clean",
     "author": "Shaine"
   },
+  "d31f29715865fc55ef2f15ff737a9155": {
+    "id": "d31f29715865fc55ef2f15ff737a9155",
+    "source": "https://api.substack.com/feed/podcast/11679990.rss",
+    "podcast": "Revivassance Podcast",
+    "title": "Ep. 4 ReVIVA!ssance Podcast - Aligning with the Standards",
+    "description": "Hi, this is Ana Maria Blevins with ReVIVAissance, Revival Plus Renaissance. We have been talking about educating the whole child, the holistic student, and especially because they have a unique identity, a powerful identity, being created as a masterpiece by the master, the loving master. And today we\u2019re going to talk about educational standards.If you\u2019re homeschooling like we did for 32 years, our own six amazing kids, and then in other resource groups and co-ops and mentoring other families, then you want to know that you are hitting the mark. And what is amazing is like a friend of mine told me, a lot of times we are looking for permissionand we don\u2019t realize we already have it. So when our oldest was 10 and our second son was about 8 they entered a bridge building competition at the Science Museum. We saw many students there, some in high school, some from the governor\u2019s school. And, you know, our kids had been working with their dad,who is an engineer and a musician, and who had really encouraged them, you know, in their relationship with God. Our kids won the bridge building competition. They got all these wonderful prizes from the judges who were men and women in engineering. They were really excited that these kids had created these cool bridges. I still have them.It was really significant and very near and dear to my heart because we enjoyed building with our kids and ",
+    "link": "https://revivaissancecurriculum.substack.com/p/ep-4-revivassance-podcast-aligning",
+    "date": "2026-11-10T03:54:24+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/224144136/85145e43fd8d55b819befccc1289838b.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "11151019",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Revivassance Podcast"
+  },
   "2ee7121eafc3893241fb51c932ab5b64": {
     "id": "2ee7121eafc3893241fb51c932ab5b64",
     "source": "https://anchor.fm/s/1190b8d0c/podcast/rss",
@@ -158,6 +174,22 @@
     "duration": "338",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
+  },
+  "2ffb1001e7c016c7dbf31a7fc327e3f5": {
+    "id": "2ffb1001e7c016c7dbf31a7fc327e3f5",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "The Lawmakers Getting Things Done Pt 2 - NaPodPoMo 2026 Day 9",
+    "description": "We\u2019re going down the list of United States Senators who have earned \u201cA\u201d Grades on Bridge Grades\u2014the non-partisan report card scoring members of Congress on cross-party collaboration and effective governance.In this episode of our 30-day NaPodPoMo series, David and Lisa introduce two more Senators. There are usually surprises.While the national media focuses on political attack dogs and zero-sum outrage, these lawmakers are doing the unglamorous, behind-the-scenes work of negotiating bipartisan solutions and passing real legislation. Let\u2019s make them famous.Learn more: OutrageOverload.netSubscribe to Outrage Science Bites Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/the-lawmakers-getting-things-done-6e4",
+    "date": "2026-11-09T17:01:38+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222801623/c7578af06de4c5f038e846698b500503.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6661861",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
   },
   "fff7d4f49ab83673447aa99010649058": {
     "id": "fff7d4f49ab83673447aa99010649058",
@@ -511,6 +543,22 @@
     "explicit": "clean",
     "author": "Steve Clark"
   },
+  "e55ec3b0fea4fab1d27bbba5c10bac32": {
+    "id": "e55ec3b0fea4fab1d27bbba5c10bac32",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "The \"Dry\" Trend: Health Science or Culture War? - NaPodPoMo Day 8",
+    "description": "The rise of zero-proof spirits, Gen Z drinking less, and how health messaging around alcohol has shifted from \"moderate red wine is good for your heart\" to \"zero safety thresholds.\"Learn more: OutrageOverload.netSubscribe to Outrage Science Bites Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/the-dry-trend-health-science-or-culture",
+    "date": "2026-11-08T17:02:14+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223790783/07d4859f4eb5620fe65aca681cb8e089.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6606376",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
+  },
   "b544ce9ff38b9f063f7f9bb89100e9ae": {
     "id": "b544ce9ff38b9f063f7f9bb89100e9ae",
     "source": "https://feeds.captivate.fm/asecondfirstlook/",
@@ -831,6 +879,38 @@
     "explicit": "clean",
     "author": "Steve Clark"
   },
+  "9f716d3161f178506d082f071b33a668": {
+    "id": "9f716d3161f178506d082f071b33a668",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "The Lawmakers Getting Things Done Pt 1 - NaPodPoMo 2026 Day 7",
+    "description": "We\u2019re going down the list of United States Senators who have earned \u201cA\u201d Grades on Bridge Grades\u2014the non-partisan report card scoring members of Congress on cross-party collaboration and effective governance.In this episode of our 30-day NaPodPoMo series, David and Lisa introduce two more Senators. There are usually surprises.While the national media focuses on political attack dogs and zero-sum outrage, these lawmakers are doing the unglamorous, behind-the-scenes work of negotiating bipartisan solutions and passing real legislation. Let\u2019s make them famous.Learn more: OutrageOverload.netSubscribe to Outrage Science Bites Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/the-lawmakers-getting-things-done",
+    "date": "2026-11-07T17:01:41+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222797421/46bfd8b1c653d0a5988f2d48521c105d.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "7993792",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
+  },
+  "06124ab6ac4927f2c82aa452f0a0415b": {
+    "id": "06124ab6ac4927f2c82aa452f0a0415b",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "Week One in Review: Be Kind to Your Former Self",
+    "description": "Episode 6: Week 1 ReviewWeek one of The Lessons Learned Series: Bootstrapping Entrepreneurship is in the books. Host Jennifer Coker-Hatton and guest Jennifer Navarrete, podcast producer, business owner and founder of NaPodPoMo, look back at what they covered and the lessons that kept coming up.This week in the series:Episode 1: How your business startedEpisode 2: Being taken seriously and other people\u2019s reactionsEpisode 3: Getting paidEpisode 4: Different personalities, visionary and practicalEpisode 5: Long tail business and relationshipsIn this episode:Look back on your younger self with gratitude. Your origin story deserves to be honored.Being taken seriously, and taking yourself seriously, isn\u2019t a one-time lesson. It comes back with every season of business, like when a long-term project ends or a referral partner retires.Know your personality and work style, then stick to it. When a project is the right fit, you do your best work.Bootstrapping means being nimble, creative and doing more with less.Try this today: Write a love letter to yourself for the days you question why you\u2019re doing this. You can also keep a folder, drawer or board of compliments, kind notes and great reviews to look at on the hard days.Next week brings more topics. Subscribe so you don\u2019t miss an episode, and send us your feedback.Hosted by Jennifer Coker-Hatton, fractional CMO. jennifer-hatton.com This",
+    "link": "https://jennifercokerhatton.substack.com/p/week-one-in-review-be-kind-to-your",
+    "date": "2026-11-07T16:05:33+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223658194/ce3b0e45827c95f34d0405db809aafe6.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "8403634",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
+  },
   "d045b00001fd5472de92da79d90ab4f7": {
     "id": "d045b00001fd5472de92da79d90ab4f7",
     "source": "https://media.rss.com/stand/feed.xml",
@@ -943,6 +1023,22 @@
     "explicit": "clean",
     "author": "epodcaster"
   },
+  "95b325dc7d57aa589690c5690e686be9": {
+    "id": "95b325dc7d57aa589690c5690e686be9",
+    "source": "https://api.substack.com/feed/podcast/11679990.rss",
+    "podcast": "Revivassance Podcast",
+    "title": "ReVIVA!ssance Podcast Ep. 5 Drawing the Baby in God\u2019s Art Studio",
+    "description": "Hi, this is Ana Maria Blevins with ReVIVAissance Podcast and thanks for joining me again today. We\u2019ve been talking about arts integrated, God-centered education and I have been sharing a lesson called God\u2019s Art Studio about the development of the baby from the first moment to birth. So Today we\u2019re going to talk about drawing the baby.I love to teach children and adults how to draw with the five elements of shape. This is from a wonderful book by Mona Brooks called Drawing with Children. There\u2019s also a book called Drawing with Teenagers and Adults, but she teaches kids to Break down an image by the contour,and the contour is made up of the five elements of shape: straight line, angle line, which is like a check mark, and curved line, circle, and dot. So all contours are made up of combinations of this, you know, and so it\u2019s a great book, and so when kids learn to use the elements of shape,they can break down an image. And I also will be using the five elements of shape and drawing the images in my lesson. I have some pictures of babies, about a month old, or two months old that are really nice that you can use to draw.You, of course, have pictures of your own precious babies that you love or you can get it from a magazine or online. And you can do the contour of the baby with the five elements of shape. So this is a real great tool so kids can feel like they can Handle drawing s",
+    "link": "https://revivaissancecurriculum.substack.com/p/revivassance-podcast-ep-5-drawing",
+    "date": "2026-11-07T02:26:28+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223848354/c4cbd18890d198e61a64d3b23f822722.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "8817821",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Revivassance Podcast"
+  },
   "bb41b320dad72e8e9eddfecd4e1e9433": {
     "id": "bb41b320dad72e8e9eddfecd4e1e9433",
     "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
@@ -958,6 +1054,22 @@
     "duration": "13:09",
     "explicit": "clean",
     "author": "Shaine"
+  },
+  "492202aeec24657792d04b163a213dad": {
+    "id": "492202aeec24657792d04b163a213dad",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "The Long Tail: Small Projects, Big Relationships",
+    "description": "Where\u2019s the money? Jennifer Coker-Hatton and Jennifer Navarrete, founder of NaPodPoMo, talk about the long tail: the slow, steady payoff that comes from consistent work and lasting relationships, not overnight success.In this episode:Why the excitement of something new runs into \u201cwhere\u2019s the money?\u201d, and why the payoff can take years.Planting seeds: the daily nurturing that pays off over time, compared with the overnight-success stories online.How small projects can turn into larger, longer-term work, sometimes five or ten years later.Choosing who you want to work with for the long haul, and why taking everything in the early hustle phase leads to burnout.Building an archive of content, such as a blog, social posts, video or a podcast, so people already know you before the first conversation.Why reputation matters: the creator world is small, so do good work and keep your word, even on small projects.Try this today: Before you say no to a small project, ask whether you\u2019d learn something, make a good connection or gain experience. Then ask whether you\u2019d want to work with them again.Subscribe to The Lessons Learned Series so you don\u2019t miss an episode.Hosted by Jennifer Coker-Hatton, fractional CMO. jennifer-hatton.com This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit jennifercokerhatton.substack.com",
+    "link": "https://jennifercokerhatton.substack.com/p/the-long-tail-small-projects-big",
+    "date": "2026-11-07T02:03:30+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223656019/fd4f2d582e8efc26422f21cf710d9d08.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "9559291",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
   },
   "0f496226b31e1879d39b01ce3eabf48f": {
     "id": "0f496226b31e1879d39b01ce3eabf48f",
@@ -1007,6 +1119,22 @@
     "explicit": "false",
     "author": "Judy Oskam"
   },
+  "0324863c4daa8e7bd5c0b3a77045d47a": {
+    "id": "0324863c4daa8e7bd5c0b3a77045d47a",
+    "source": "https://api.substack.com/feed/podcast/4861209.rss",
+    "podcast": "A3Day Expanded Podcast",
+    "title": "Unforgettable Music Videos",
+    "description": "Hey y\u2019all,Nooooo disrespect to your faves, I\u2019m serious! I genuinely couldn\u2019t remember the group name without mentioning Resting B*tch Face. With that said, gon\u2019head and check out RBF Movement\u2019s developing merch at https://www.rbfmovement.com/?ref=a3dayThanks for reading A3Day Expanded! Subscribe for free to receive new posts and support my work. This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit a3daypodcasts.substack.com",
+    "link": "https://a3daypodcasts.substack.com/p/unforgettable-music-videos",
+    "date": "2026-11-06T22:12:18+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223831774/665c23b6b77603c0f7dd96f28314af41.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "9956877",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "A3Day Expanded Podcast"
+  },
   "6b679268b934fc8842db3921fca61e98": {
     "id": "6b679268b934fc8842db3921fca61e98",
     "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
@@ -1022,6 +1150,22 @@
     "duration": "5:02",
     "explicit": "clean",
     "author": "ekads"
+  },
+  "13e0d3965c0c6b23da6dae3d40187b96": {
+    "id": "13e0d3965c0c6b23da6dae3d40187b96",
+    "source": "https://api.substack.com/feed/podcast/4861209.rss",
+    "podcast": "A3Day Expanded Podcast",
+    "title": "The Ultimate Female Bias",
+    "description": "Hey y\u2019all,I\u2019m talking my Miss Mamas on this one and clicking through some of my favorite pictures of her, of course!Do you have a lady UB?Bye y\u2019all.Thanks for reading A3Day Expanded! Subscribe for free to receive new posts and support my work. This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit a3daypodcasts.substack.com",
+    "link": "https://a3daypodcasts.substack.com/p/the-ultimate-female-bias",
+    "date": "2026-11-06T21:49:35+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223829440/a367991f41911af85a776f59b2ff2687.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "11659851",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "A3Day Expanded Podcast"
   },
   "23e514fc30979c91756d4a7c0a748c66": {
     "id": "23e514fc30979c91756d4a7c0a748c66",
@@ -1054,6 +1198,22 @@
     "duration": "00:10:17",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
+  },
+  "5db54494c6d6b98eb5fdbc8c68870693": {
+    "id": "5db54494c6d6b98eb5fdbc8c68870693",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "Why We\u2019re Profiling Bridge Grades - NaPodPoMo 2026 Day 6",
+    "description": "Day 6 of our 30-day NaPodPoMo challenge on Outrage Science Bites!In this short episode, we dive into Bridge Grades\u2014a tool designed to identify the true bridgers and dividers in Congress. Hint: It\u2019s not a \u201ccivility score\u201d or a gold star for being nice on cable news. Instead, Bridge Grades looks at raw legislative data to highlight lawmakers who actually pass laws through cross-party collaboration without compromising their core values.While political attack dogs hog the spotlight, high-performing \u201cA\u201d grade legislators do the unglamorous work behind closed doors. Our mission this month? Make the quiet ones famous.Starting tomorrow, we\u2019ll highlight every U.S. Senator who earned an A grade\u2014profiling two per episode across 8 dedicated drops.Over the course of the month, you\u2019ll also be hearing more from Brad Porteus, the founder of Bridge Grades, about incentives, rewarding action over rhetoric, the goals and progress of the project, and related topics.Learn more: OutrageOverload.netSubscribe to Outrage Science Bites Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/why-were-profiling-bridge-grades",
+    "date": "2026-11-06T17:02:44+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222674733/0a0a90b3a4f279584251ab4ed7314bfa.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3534063",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
   },
   "864529c1c94c184921c731adb7dec159": {
     "id": "864529c1c94c184921c731adb7dec159",
@@ -1118,6 +1278,22 @@
     "duration": "3:02",
     "explicit": "clean",
     "author": "Steve Clark"
+  },
+  "d70f951f141886fcc5eaf3c9bcc4ece8": {
+    "id": "d70f951f141886fcc5eaf3c9bcc4ece8",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "Visionary Meets Practical: Know How You Work Best",
+    "description": "Why does something that\u2019s clear to you confuse everyone else, and the other way around? Jennifer Coker-Hatton and Jennifer Navarrete, founder of NaPodPoMo, talk about visionary and practical personalities and how understanding yours changes the way you run your business.In this episode:How realizing that people think differently freed Jennifer Navarrete from needing to be liked by everyone.Visionary and practical: how an idea-throwing visionary and a practical thinker who wants the flow chart can work together.Verbal processing: talking an idea through is brainstorming, not a to-do list or a final decision.Value gained versus value given: judging projects and relationships by whether what you receive is worth what you give up, and not only in money. Knowledge, access and skills count too.Knowing how you work best, and why flexibility matters as an entrepreneur.Try this today: Before you talk an idea through with someone, tell them you\u2019re processing out loud, so they know it isn\u2019t a request or a decision.Subscribe to The Lessons Learned Series so you don\u2019t miss an episode.Hosted by Jennifer Coker-Hatton, fractional CMO. jennifer-hatton.com This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit jennifercokerhatton.substack.com",
+    "link": "https://jennifercokerhatton.substack.com/p/visionary-meets-practical-know-how",
+    "date": "2026-11-06T15:02:18+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223653822/155264384c8ea12b7b56ad10abb4c6f5.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "12886246",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
   },
   "bc38567f0dd86b2c0b68b929019e059c": {
     "id": "bc38567f0dd86b2c0b68b929019e059c",
@@ -1247,6 +1423,22 @@
     "explicit": "clean",
     "author": "epodcaster"
   },
+  "877e842d35230221eaddc6bb227c1625": {
+    "id": "877e842d35230221eaddc6bb227c1625",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "The Lessons Learned Series: Bootstrapping Entrepreneurship - TRAILER",
+    "description": "Hindsight is 20/20, and every entrepreneur has a story that starts with \u201cif I had only known.\u201dIn this 30-day series for NaPodPoMo\u2019s 19th year, host Jennifer Coker-Hatton sits down with Jennifer Navarrete, podcast producer, business owner and founder of NaPodPoMo, to look past the success and into the lessons it took to get there.The Lessons Learned Series: Bootstrapping Entrepreneurship. Short episodes, about 5 to 10 minutes each, for entrepreneurs and small business owners building something from nothing.Subscribe so you don\u2019t miss an episode.About the host: Jennifer Coker-Hatton is a fractional CMO who helps nonprofits, government, tourism, healthcare and businesses get their message out. Learn more at jennifer-hatton.com. This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit jennifercokerhatton.substack.com",
+    "link": "https://jennifercokerhatton.substack.com/p/the-lessons-learned-series-bootstrapping-7d2",
+    "date": "2026-11-06T03:38:07+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223719908/5f1585afac36f5141faad3e9b2a72ee7.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "1069601",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
+  },
   "005b7a15b5beede46ae21d70546b7185": {
     "id": "005b7a15b5beede46ae21d70546b7185",
     "source": "https://feeds.buzzsprout.com/371849.rss",
@@ -1278,6 +1470,22 @@
     "duration": "00:11:18",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
+  },
+  "b6d5a6ffa76d2663c1dca5399d463dff": {
+    "id": "b6d5a6ffa76d2663c1dca5399d463dff",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "The Lessons Learned Series: Bootstrapping Entrepreneurship - Ep 3, Getting Paid",
+    "description": "Thank you for tuning in! This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit jennifercokerhatton.substack.com",
+    "link": "https://jennifercokerhatton.substack.com/p/the-lessons-learned-series-bootstrapping-a09",
+    "date": "2026-11-06T00:14:18+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223230842/c5e180c5550f0832eace1e5a540acb77.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "10271076",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
   },
   "ea1c5ca22af639b72bc9f0a5dd817a28": {
     "id": "ea1c5ca22af639b72bc9f0a5dd817a28",
@@ -1390,6 +1598,70 @@
     "duration": "964",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
+  },
+  "3abc9f973fcc7f25b649f33d76dd7514": {
+    "id": "3abc9f973fcc7f25b649f33d76dd7514",
+    "source": "https://api.substack.com/feed/podcast/4861209.rss",
+    "podcast": "A3Day Expanded Podcast",
+    "title": "The Ultimate Male Bias",
+    "description": "Hey y\u2019all,I\u2019m 1.5 days behind on the uploads so to keep your inbox from turning into an annoyance, I\u2019ll send the email tomorrow, November 6 U.S. CDT, with the link to the episodes.I want you entertained but I don\u2019t want you rolling your eyes either.Please enjoy this episode in honor of the one and only\u2026Bye y\u2019all!Thanks for reading A3Day Expanded! Subscribe for free to receive new posts and support my work. This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit a3daypodcasts.substack.com",
+    "link": "https://a3daypodcasts.substack.com/p/the-ultimate-male-bias",
+    "date": "2026-11-05T17:47:47+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223659903/ae6e40872f483e0b687eaf61552a898c.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "9888958",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "A3Day Expanded Podcast"
+  },
+  "316e2f2cbce2457990d221a638ed6ece": {
+    "id": "316e2f2cbce2457990d221a638ed6ece",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "The Electoral College (Part 4: Legal Hurdles & Potential Chaos) NaPodPoMo Day 5",
+    "description": "In the fourth and final installment of our mini-series on the Electoral College, David and Lisa examine the high-stakes legal and constitutional questions surrounding the National Popular Vote Interstate Compact (NPVIC). If the compact reaches the 270 electoral vote threshold, will it survive a legal challenge at the U.S. Supreme Court? We break down state authority under Article II of the Constitution, potential contract enforcement disputes, six-month withdrawal deadlines, and how federal safeguards like the Electoral Count Reform Act impact the timeline.Learn more: OutrageOverload.netSubscribe to Outrage Science Bites Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/the-electoral-college-part-4-legal",
+    "date": "2026-11-05T17:01:29+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222587480/2ec594967e428e00cab27cd25d562421.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "5325227",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
+  },
+  "ec6b519a1cd333c23b9f95124b755c15": {
+    "id": "ec6b519a1cd333c23b9f95124b755c15",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "The Lessons Learned Series: Bootstrapping Entrepreneurship - Ep 2, Being Taken Seriously",
+    "description": "Thank you for tuning in to Episode Two - Let's talk about being taken seriously. Is this an issue you have dealt with? Did you struggle with others taking you seriously or taking yourself seriously? This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit jennifercokerhatton.substack.com",
+    "link": "https://jennifercokerhatton.substack.com/p/the-lessons-learned-series-bootstrapping-0bf",
+    "date": "2026-11-05T16:04:18+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223228914/3aaa07860507808ff47ef10408b911f9.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "9735670",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
+  },
+  "76ba4b27df0b76c71cc9815b54b27d06": {
+    "id": "76ba4b27df0b76c71cc9815b54b27d06",
+    "source": "https://api.substack.com/feed/podcast/11679990.rss",
+    "podcast": "Revivassance Podcast",
+    "title": "ReVIVA!ssance The Wedding Feast Curriculum Episode 4",
+    "description": "The whole child with a God-centered arts and innovation approach, arts integrated. So we\u2019ve been talking about... Hi, this is Ana Maria Blevins with ReVIVAissance, Revival Plus Renaissance. We have been talking about educating the whole child. The holistic student and especially because they have a unique identity,a powerful identity being created as a masterpiece by the master, the loving master. And today we\u2019re going to talk about educational standards, right? If you\u2019re homeschooling like we did for 32 years, our own six amazing kids, and then in other resource groups and co-ops and mentoring other families,then you want to know that you are hitting the mark. And what is amazing is... Like a friend of mine told me, a lot of times we are looking for permission and we don\u2019t realize we already have it. So when our kids were, our oldest was 10 and our second son was about 8,they entered a bridge building competition at the Science Museum. And we saw many students there, some in high school, some from the governor\u2019s school. And, you know, our kids had been working with their dad, who is an engineer and a musician, and who had really encouraged them, you know, in their relationship with God.And our kids won the bridge building competition. And they got all these wonderful prizes from the judges who were men and women in engineering. And they were really excited that these kids had ",
+    "link": "https://revivaissancecurriculum.substack.com/p/revivassance-the-wedding-feast-curriculum",
+    "date": "2026-11-05T15:14:59+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222698466/c624c9a8414928a9c9f0627c93bbfef8.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6179677",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Revivassance Podcast"
   },
   "d6547fcf40b2e8812b9d908d8ad5b120": {
     "id": "d6547fcf40b2e8812b9d908d8ad5b120",
@@ -1631,6 +1903,22 @@
     "explicit": "false",
     "author": "Judy Oskam"
   },
+  "9445bb74f791a7484adeebe57404f253": {
+    "id": "9445bb74f791a7484adeebe57404f253",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "The Electoral College (Part 3: The Interstate Compact Workaround) NaPodPoMo Day 4",
+    "description": "In Part 3 of our four-part mini-series on election reform, David and Lisa introduce a major workaround designed to reform presidential elections without needing a U.S. Constitutional amendment: the National Popular Vote Interstate Compact (NPVIC). We break down how this state-level agreement works, why it hinges on a 270 electoral vote trigger, and where participating states currently stand. We also examine the dominance of \"winner-take-all\" rules nationwide, comparing them to exceptions in states like Maine and Nebraska.Learn more: OutrageOverload.netSubscribe to Outrage Science Bites Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/the-electoral-college-part-3-the",
+    "date": "2026-11-04T17:01:47+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222585117/5fd42a6cb8187740107ae9ca5f9d07dd.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "10438226",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
+  },
   "d6f6f83a4637c9c725503dd4749ac5e8": {
     "id": "d6f6f83a4637c9c725503dd4749ac5e8",
     "source": "https://feeds.buzzsprout.com/1613281.rss",
@@ -1678,6 +1966,22 @@
     "duration": "183",
     "explicit": "false",
     "author": "David Stack"
+  },
+  "06c224f46ed643628b03b8396241a0ed": {
+    "id": "06c224f46ed643628b03b8396241a0ed",
+    "source": "https://api.substack.com/feed/podcast/11679990.rss",
+    "podcast": "Revivassance Podcast",
+    "title": "Ep 3",
+    "description": "This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit revivaissancecurriculum.substack.com",
+    "link": "https://revivaissancecurriculum.substack.com/p/ep-3",
+    "date": "2026-11-04T11:20:39+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223413833/8df8241d009fe315f2a9794b81840036.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "7206702",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Revivassance Podcast"
   },
   "347a1fb48177e5e09ad985235f543270": {
     "id": "347a1fb48177e5e09ad985235f543270",
@@ -1935,6 +2239,38 @@
     "explicit": "clean",
     "author": "Steve Clark"
   },
+  "ca903de34ad1e90ab901b2a332a926f3": {
+    "id": "ca903de34ad1e90ab901b2a332a926f3",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "The Electoral College (Part 2: The Case for a Popular Vote) NaPodPoMo 2026 Day 3",
+    "description": "In Part 2 of our four-part mini-series on election reform, David and Lisa dive into the key arguments for switching to a National Popular Vote. We explore voter disenfranchisement in non-swing states\u2014such as Republicans in California or Democrats in Texas\u2014and unpack the rare historical elections where the popular vote winner lost the presidency. We also analyze long-term nonpartisan data on Electoral College advantages and break down how state laws dictate elector allocations.Learn more: OutrageOverload.netSubscribe to Outrage Science Bites Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/the-electoral-college-part-2-the",
+    "date": "2026-11-03T17:01:48+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222576773/6717a6c9a1922b51d8de1d5d668915da.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6118305",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
+  },
+  "73837c991ddfcb17d105d7db57e15bab": {
+    "id": "73837c991ddfcb17d105d7db57e15bab",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "The Lessons Learned Series: Bootstrapping Entrepreneurship - Episode 1",
+    "description": "Thank you for tuning in! This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit jennifercokerhatton.substack.com",
+    "link": "https://jennifercokerhatton.substack.com/p/the-lessons-learned-series-bootstrapping",
+    "date": "2026-11-03T16:11:09+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223226145/f2f10af094c0acfc0f1e166d378eaf90.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "16449348",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
+  },
   "cdae7ff21861ed8083ff9b05ea1a323c": {
     "id": "cdae7ff21861ed8083ff9b05ea1a323c",
     "source": "https://feeds.buzzsprout.com/1613281.rss",
@@ -2143,6 +2479,22 @@
     "explicit": "false",
     "author": "Judy Oskam"
   },
+  "94d6264738928ef9fdafd81acbbc77e4": {
+    "id": "94d6264738928ef9fdafd81acbbc77e4",
+    "source": "https://api.substack.com/feed/podcast/11679990.rss",
+    "podcast": "Revivassance Podcast",
+    "title": "Ep 2",
+    "description": "You are listening to the Revivassance podcast with Ana Maria Blevins.Every one of us has a story that only we can tell. Ana Maria\u2019s story led her to create an educational curriculum that is God-centered and arts-integrated. Ana Maria\u2019s greatest desire is that it will encourage you to discover and develop your own story, which is the story of a masterpiece designed by the loving Master. This is her story.Hi, thanks for joining me again. I\u2019m excited to share the Wedding Feast curriculum and arts-integrated, God-centered education.I know we all have hearts and spirits that have longings, and I\u2019m so happy to be with you and talk about the most important thing in many of our lives: educating our children.So we have this wonderful, complex student created by God\u2014a masterpiece created by the Master\u2014and we must look at the student holistically, at the whole person.If we look at Deuteronomy 6, it says, \u201cLove God with all your heart, soul, mind, and strength or passions.\u201d So we could say there are four parts. We can look at the student and see that they have their heart, soul, mind, and passions. Some people would also say they have their soul, spirit, and body.Regardless, we\u2019re looking at the whole student, and this is so important. Because if you had a beautiful luxury car that just appeared and nobody knew the manufacturer, nobody knew what it was capable of, nobody knew its longevity",
+    "link": "https://revivaissancecurriculum.substack.com/p/ep-2",
+    "date": "2026-11-02T22:41:15+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222982725/3e185f346e6d82b7103257d2d13bb9d9.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "4695136",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Revivassance Podcast"
+  },
   "344283506c4d52756821218cce3fa5f5": {
     "id": "344283506c4d52756821218cce3fa5f5",
     "source": "https://anchor.fm/s/12ed94c/podcast/rss",
@@ -2158,6 +2510,22 @@
     "duration": "00:01:29",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
+  },
+  "495feafd412c8f7f5cda4be42a430afd": {
+    "id": "495feafd412c8f7f5cda4be42a430afd",
+    "source": "https://api.substack.com/feed/podcast/4861209.rss",
+    "podcast": "A3Day Expanded Podcast",
+    "title": "You Had to Have Been There",
+    "description": "Hey y\u2019all,Get to know the groups mentioned in this episode. Were you are fan?I apologize for the struggles in this episode. I wasn\u2019t winning lol.Here\u2019s that link for Top Host, by the way!Bye y\u2019all.Thanks for reading A3Day Expanded! Subscribe for free to receive new posts and support my work. This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit a3daypodcasts.substack.com",
+    "link": "https://a3daypodcasts.substack.com/p/you-had-to-have-been-there",
+    "date": "2026-11-02T21:40:01+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223235551/1fb684daa0ed7608453d4013393958d1.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "13122708",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "A3Day Expanded Podcast"
   },
   "a120be787a7eed76952d7b2d6134318a": {
     "id": "a120be787a7eed76952d7b2d6134318a",
@@ -2222,6 +2590,38 @@
     "duration": "1012",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
+  },
+  "70e33cb85d1c2e94c31d4bab6b477bc2": {
+    "id": "70e33cb85d1c2e94c31d4bab6b477bc2",
+    "source": "https://api.substack.com/feed/podcast/11679990.rss",
+    "podcast": "Revivassance Podcast",
+    "title": "Revivassance Podcast Ep 1",
+    "description": "When it comes to school, imagine a young girl up in a tree keeping a journal of birds she sees. And in another tree, her brothers are building a tree house with electricity in it. Imagine that that is school.You don\u2019t have to imagine. Welcome to the ReVIVA!ssance WFC. Where faith and wonder flow from hands-on arts integrated holistic education that is aligned with strong educational and success-focused standards.The arts focus on beauty and not in a perfectionist way. In a genuine way that acknowledges the heart, soul, mind, and passions.The definition of beauty I will use is this one:\u201cWhatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable \u2014 if there is any moral excellence and if there is any praise\u2026\u201dThis is my definition of beauty.\u201cWhatever is true, whatever is worthy of reverence and is honorable and seemly, whatever is just, whatever is pure, whatever is lovely and lovable, whatever is kind and winsome and gracious, if there is any virtue and excellence, if there is anything worthy of praise\u2026\u201dSome of you know that is from Philippians 4:8 in the Bible.Beauty shines in nature, which is also called creation. Beauty doesn\u2019t have to be perfect. In fact, in our imperfect fallen world it leads us to stories of redeeming corruption, such as turning a fallow field into a lavender farm or an inmate who turns his life around and becomes ",
+    "link": "https://revivaissancecurriculum.substack.com/p/revivassance-podcast-ep-1",
+    "date": "2026-11-02T18:21:23+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222979091/336221cee345182d64aaec2192b3437c.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6956940",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Revivassance Podcast"
+  },
+  "bac641ce5df20f5437153151719296da": {
+    "id": "bac641ce5df20f5437153151719296da",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "The Electoral College (Part 1: The Basics & Federalism) NaPodPoMo 2026 Day 2",
+    "description": "In this first installment of our four-part mini-series on U.S. election structure and reform, David and Lisa break down the foundational mechanics of the Electoral College. Why was it created in the first place, how does federalism shape it, and why do electors exist? We tackle the common arguments in favor of keeping the system\u2014including preserving state influence and encouraging geographically broad coalitions\u2014and lay the groundwork for why election reform remains such a heated topic today.Learn more: OutrageOverload.net Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/the-electoral-college-part-1-the",
+    "date": "2026-11-02T17:02:30+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/222574925/0e16f42311dc36e317772bfae253b2d1.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "9488727",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
   },
   "9bbe4e92925ce3a2c42451ab210caece": {
     "id": "9bbe4e92925ce3a2c42451ab210caece",
@@ -2415,6 +2815,22 @@
     "explicit": "false",
     "author": "Hidden In Plain Sight"
   },
+  "6f80fa49014bf354642e3d66745682f8": {
+    "id": "6f80fa49014bf354642e3d66745682f8",
+    "source": "https://api.substack.com/feed/podcast/4861209.rss",
+    "podcast": "A3Day Expanded Podcast",
+    "title": "The Earworms",
+    "description": "Hey y\u2019all,I mention one in this episode but let me tell you the others that have\u2026 ruined\u2026 me over the years lol* Genuinely the header of every single newsletter I send* Damn near every part of this video (P.S. she\u2019s the reason I started doing Fangirl Version videos)* Real GOT7 \u201cFollow Me\u201d version* Got The Beat deserved more but the intro lives through meWhat\u2019s your K-pop earworm(s)? Let me know in the comments.Thanks for reading A3Day Expanded! Subscribe for free to receive new posts and support my work. This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit a3daypodcasts.substack.com",
+    "link": "https://a3daypodcasts.substack.com/p/the-earworms",
+    "date": "2026-11-01T22:17:18+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/223087808/7246a67f256badfaf51335a60b0073a3.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6506102",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "A3Day Expanded Podcast"
+  },
   "c033fae316981d96bb0096f2534c0a39": {
     "id": "c033fae316981d96bb0096f2534c0a39",
     "source": "https://feeds.buzzsprout.com/371849.rss",
@@ -2574,6 +2990,22 @@
     "duration": "213",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
+  },
+  "b1576300ac1f6ba98ce9f5d4a0c071d1": {
+    "id": "b1576300ac1f6ba98ce9f5d4a0c071d1",
+    "source": "https://api.substack.com/feed/podcast/1235044/s/90817.rss",
+    "podcast": "Outrage Science Bites",
+    "title": "Introducing the 2026 NaPodMoPo Season",
+    "description": "This is our fourth year participating in the NaPodPoMo (National Podcast Post Month) challenge. Each year we\u2019ve done something different and that\u2019s true this year as well. What we\u2019re trying in 2026 is mostly dialogue episodes, so this will be a new experiment with myself, David, and my co-host Lisa having an unscripted conversation about a particular Outrage Science Bites topic.I hope you enjoy the 2026 NaPodPoMo episodes. Get full access to Outrage Overload Newsletter at outrageoverload.substack.com/subscribe",
+    "link": "https://outrageoverload.substack.com/p/introducing-the-2026-napodmopo-season",
+    "date": "2026-11-01T17:00:56+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/219828684/2c2e5ee3205439bf372ff93bad319839.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "1553250",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "Outrage Science Bites"
   },
   "25d47bff1188ad64b928bb509dd5abe6": {
     "id": "25d47bff1188ad64b928bb509dd5abe6",

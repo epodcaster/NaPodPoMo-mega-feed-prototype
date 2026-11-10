@@ -16,10 +16,6 @@
       "url": "https://feeds.blubrry.com/feeds/linuxstory.xml"
     },
     {
-      "name": "Revivassance Podcast",
-      "url": "https://api.substack.com/feed/podcast/11679990.rss"
-    },
-    {
       "name": "Simple Joe",
       "url": "https://pinecast.com/feed/simplejoe"
     },
@@ -38,10 +34,6 @@
     {
       "name": "This Podcast Is... Uncalled For",
       "url": "https://feeds.libsyn.com/186095/rss"
-    },
-    {
-      "name": "Outrage Science Bites",
-      "url": "https://api.substack.com/feed/podcast/1235044/s/90817.rss"
     },
     {
       "name": "Stories of Change: Helping You Navigate What's Next",
@@ -92,16 +84,8 @@
       "url": "https://micless.com/rss"
     },
     {
-      "name": "The Lessons Learned Series",
-      "url": "https://api.substack.com/feed/podcast/12028996.rss"
-    },
-    {
       "name": "Black Girls Consult TOO!",
       "url": "https://feeds.buzzsprout.com/1613281.rss"
-    },
-    {
-      "name": "A3Day Expanded Podcast",
-      "url": "https://api.substack.com/feed/podcast/4861209.rss"
     },
     {
       "name": "Elsie, As Is",
@@ -130,6 +114,28 @@
     {
       "name": "Modulations (public feed)",
       "url": "https://3speak.tv/rss/playlist/aea99a4c-87ca-4d0a-8b7c-aeb9e739a449.xml"
+    },
+    {
+      "name": "Substack shows via separate Feed Informer digest",
+      "url": "https://feed.informer.com/digests/3IWM108UBD/feeder.rss",
+      "source_map": {
+        "https://revivaissancecurriculum.substack.com/podcast": {
+          "name": "Revivassance Podcast",
+          "url": "https://api.substack.com/feed/podcast/11679990.rss"
+        },
+        "https://outrageoverload.substack.com/s/outrage-science-bites": {
+          "name": "Outrage Science Bites",
+          "url": "https://api.substack.com/feed/podcast/1235044/s/90817.rss"
+        },
+        "https://jennifercokerhatton.substack.com/podcast": {
+          "name": "The Lessons Learned Series",
+          "url": "https://api.substack.com/feed/podcast/12028996.rss"
+        },
+        "https://a3daypodcasts.substack.com/podcast": {
+          "name": "A3Day Expanded Podcast",
+          "url": "https://api.substack.com/feed/podcast/4861209.rss"
+        }
+      }
     }
   ]
 }
