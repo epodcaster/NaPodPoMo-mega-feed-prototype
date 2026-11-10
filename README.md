@@ -4,7 +4,11 @@ A separate three-source experiment. **Do not change napodpomo.org, its DNS, or t
 
 ## Verified locally
 
-On November 10, 2026: all five original tests passed; the expanded suite passes all eight. All three real sources loaded. The 2026 build selected 19 episodes; the separate 2023 build selected 25. One audio sample per podcast returned HTTP 206 and `audio/mpeg`. See `TEST_REPORT.md` and `test-results/` for evidence. GitHub-hosted execution and podcast-app playback remain unverified.
+On November 10, 2026: all five original tests passed; the expanded suite passes all eight. All three real sources loaded. The 2026 build selected 19 episodes; the separate 2023 build selected 25. One audio sample per podcast returned HTTP 206 and `audio/mpeg`. See `TEST_REPORT.md` and `test-results/` for evidence. GitHub-hosted execution and the first Pages deployment also succeeded. The live feed returns HTTP 200 with valid XML, 19 unique episode GUIDs, the correct Atom self URL, and dates inside the configured month. Podcast-app playback and a subsequent scheduled update remain unverified.
+
+Live prototype: https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/mega-feed.xml
+
+First successful workflow: https://github.com/epodcaster/NaPodPoMo-mega-feed-prototype/actions/runs/42773532032
 
 ## Run locally
 

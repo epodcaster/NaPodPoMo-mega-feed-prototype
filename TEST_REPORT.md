@@ -27,12 +27,18 @@ One selected episode from each of the three podcasts returned HTTP 206, content 
 
 ## Deployment status
 
-Not deployed. GitHub account connection and repository setup are outstanding. The prepared workflow has been parsed locally and shell syntax checked, but only a GitHub run can verify permissions, cache commits, artifact upload, and Pages publication. No website, DNS, existing MEGA Feed, or external repository was modified.
+Deployed successfully on November 10, 2026. Run 42773532032 passed all eight tests, fetched all three sources, built 19 episodes, uploaded the Pages artifact, and completed deployment. The cache-preservation step succeeded with no changed entries, so a new cache commit/push was not exercised.
+
+Live feed: https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/mega-feed.xml
+
+The published feed returned HTTP 200 with application/xml content, parsed successfully, and contained 19 unique GUIDs and 19 audio enclosures. All dates are inside the November 2026 window, and the Atom self URL matches the published URL. Output size: 34,433 bytes.
+
+Only the new prototype repository and its GitHub Pages publication were changed. No changes were made to napodpomo.org, DNS, or the existing MEGA Feed.
 
 ## Acceptance checks still needed
 
-- Successful first GitHub Actions build/deployment and second cache-preserving run.
-- Published HTTPS XML, correct Atom self URL, and direct RSS subscription.
+- A second cache-preserving run and a cache commit when new metadata is discovered.
+- Direct RSS subscription in a podcast app.
 - Podcast-app playback and artwork display.
 - Observe a later automatic update before considering any production use.
 
