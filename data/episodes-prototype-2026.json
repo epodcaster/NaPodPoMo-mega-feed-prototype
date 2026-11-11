@@ -1,4 +1,21 @@
 {
+  "4b7fdb0a34fc03ff1aad4815ce571ced": {
+    "id": "4b7fdb0a34fc03ff1aad4815ce571ced",
+    "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
+    "podcast": "NaPodPoMo 2026",
+    "title": "Ep. 9 - Unsettled Science",
+    "description": "Unsettled Science: When the Experts Get It WrongIn this episode of National Podcast Post Month, host Shaine dives into the frustrating world of ever-changing scientific consensus. From the demotion of Pluto to shifting dietary guidelines, Shaine explores how expert advice can flip-flop over time, leaving everyday people confused about how to live their best lives. He also shares his personal health journey and the challenges of adapting to new nutritional information.Key Points:- Pluto was reclassified from a planet to a dwarf planet by scientists, leaving many people who grew up with nine planets feeling confused and frustrated.- The food pyramid, once considered the gold standard of nutrition, has since been largely discredited, with many experts now recommending fewer carbohydrates and more protein.- The low-fat food movement backfired, as manufacturers replaced fat with carbohydrates, contributing to rising obesity rates rather than solving them.- Cholesterol guidelines quietly changed over time, with the American Heart Association eventually acknowledging that dietary cholesterol is not as harmful as once believed.- Shaine was diagnosed with tachycardia and pre-diabetes, leading his cardiologist to recommend a high-fat, low-carb diet, essentially a keto diet.- Shaine and his wife have been gradually adapting to a keto lifestyle, experimenting with new ingredients like almo",
+    "link": "https://3speak.tv/watch?v=shainemata/ep-9-unsettled-science-mwc8s3k4",
+    "date": "2026-11-11T14:56:26+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/Qmb54EiL5VscvaMVDr1UeuiH7GoeZSABFhxyebb7Qs3N4k",
+    "audio_type": "audio/mpeg",
+    "audio_length": "12123864",
+    "artwork": "https://3speak.tv/img/c/episode/shainemata/ep-9-unsettled-science-mwc8s3k4.jpg?v=2a3aed9b",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
+    "duration": "12:38",
+    "explicit": "clean",
+    "author": "Shaine"
+  },
   "f81aec26c14335c2bee7e2e322c2d772": {
     "id": "f81aec26c14335c2bee7e2e322c2d772",
     "source": "https://audioboom.com/channels/4930155.rss",
@@ -11,6 +28,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8782383",
     "artwork": "https://audioboom.com/i/43934816.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "544",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -27,6 +45,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "16123593",
     "artwork": "https://storage.buzzsprout.com/a4d4jp557sf6vtlvaetl4xt8y7nr?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "1340",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -43,6 +62,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10157243",
     "artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
+    "podcast_artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
     "duration": "0:10:35",
     "explicit": "false",
     "author": "Computer Freedom"
@@ -59,6 +79,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "29773791",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/b4c12f3b-fdad-44a1-8093-02614a10cb87/SJ_-_Logo.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:41:14",
     "explicit": "false",
     "author": "Simple Joe"
@@ -75,6 +96,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "25355935",
     "artwork": "https://static.libsyn.com/p/assets/6/b/c/4/6bc46e69e3dc11a35f2e77a3093c12a1/TPV_Episode_386_Veterans_Day_2026_LIBSYN.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "17:29",
     "explicit": "false",
     "author": "Kim Newlove, Anthony Morreale, Pam Schweitzer"
@@ -91,6 +113,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1784832",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -107,6 +130,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10410944",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:10:50",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -123,6 +147,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "10762138",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:10:50",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -139,6 +164,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5823077",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-10-recording-on-3spea-mwb76z3g.jpg?v=1bc7fa66",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "4:03",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -155,6 +181,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9306565",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Revivassance Podcast"
@@ -171,6 +198,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5838748",
     "artwork": "https://artwork.captivate.fm/cf31c42f-f149-4fab-818c-e19a2377d6c2/010-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "06:57",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -187,6 +215,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "26593490",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "2212",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -203,6 +232,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8539742",
     "artwork": "https://storage.buzzsprout.com/8cnpbx1xkzbez0r2lc9at7n3uyzu?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "707",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -219,6 +249,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7002949",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "437",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -235,6 +266,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6787562",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -251,6 +283,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3599045",
     "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "podcast_artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
     "duration": "07:30",
     "explicit": "true",
     "author": "A Second First Look"
@@ -267,6 +300,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3383919",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/podcast-evolution-mwarqx15.jpg?v=ec8fb379",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "3:31",
     "explicit": "clean",
     "author": "Shaine"
@@ -283,6 +317,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2769435",
     "artwork": "https://storage.buzzsprout.com/jbpg0xctj63o05bjpjcom8c78j6f?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "224",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -299,6 +334,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2040466",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Episode-Art-10.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "1:51",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -315,6 +351,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3411973",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "210",
     "explicit": "false",
     "author": "David Stack"
@@ -331,6 +368,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "16042969",
     "artwork": "https://storage.buzzsprout.com/ompfxgb5ovikbsqxupaqv8gjygoa?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "1333",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -347,6 +385,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "12952554",
     "artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
+    "podcast_artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
     "duration": "0:13:30",
     "explicit": "false",
     "author": "Computer Freedom"
@@ -363,6 +402,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "20137665",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/dbd40ffd-cee4-40be-8af9-e84a2cf4d15c/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:27:54",
     "explicit": "false",
     "author": "Simple Joe"
@@ -379,6 +419,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10568330",
     "artwork": "https://static.libsyn.com/p/assets/0/f/6/a/0f6a54ec59cd8cfc5f2e77a3093c12a1/TPV_Episode_385_levocetirizine_LIBSYN.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "07:12",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -395,6 +436,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4397974",
     "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "podcast_artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
     "duration": "09:10",
     "explicit": "true",
     "author": "A Second First Look"
@@ -411,6 +453,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1143954",
     "artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
+    "podcast_artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
     "duration": "1:11",
     "explicit": "false",
     "author": "Jordan's Knowledge"
@@ -427,6 +470,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4137044",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/background-audio-mwa5pmmp.jpg?v=888f2aa1",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "4:18",
     "explicit": "clean",
     "author": "Shaine"
@@ -443,6 +487,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11151019",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Revivassance Podcast"
@@ -459,6 +504,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11128580",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:11:35",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -475,6 +521,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9513445",
     "artwork": "https://artwork.captivate.fm/0fcde8bb-20fd-43b3-99d6-9e4e74bda37c/009-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "11:19",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -491,6 +538,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6295222",
     "artwork": "https://audioboom.com/i/43932214.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "390",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -507,6 +555,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "10589695",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:10:39",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -523,6 +572,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2780806",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-9-recording-with-an-o-mw9t7qk2.jpg?v=7afe16e4",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "2:54",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -539,6 +589,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5413450",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "338",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -555,6 +606,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6661861",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -571,6 +623,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3777305",
     "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "podcast_artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
     "duration": "07:52",
     "explicit": "true",
     "author": "A Second First Look"
@@ -587,6 +640,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1026575",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Episode-Art-9.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "48",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -603,6 +657,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10945222",
     "artwork": "https://storage.buzzsprout.com/6a54id8lemxsakikl3p0mxmfkxik?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "907",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -619,6 +674,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8769520",
     "artwork": "https://storage.buzzsprout.com/kx5h09l3q96ou8e5d0usk4qreyok?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "726",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -635,6 +691,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4425337",
     "artwork": "https://storage.buzzsprout.com/cx29xosize51t5g4obcvduw3rnv9?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "362",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -651,6 +708,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3958801",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "244",
     "explicit": "false",
     "author": "David Stack"
@@ -667,6 +725,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "19158965",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/a1ea8abb-5377-449b-931c-6fe3bd6389f8/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:26:32",
     "explicit": "false",
     "author": "Simple Joe"
@@ -683,6 +742,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7457460",
     "artwork": "https://static.libsyn.com/p/assets/b/e/1/5/be151397fc058b4f5f2e77a3093c12a1/TPV_Episode_384_Ibuprofen.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "05:03",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -699,6 +759,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "17185060",
     "artwork": "https://storage.buzzsprout.com/ovozyedhvjjlxzasxrbwthxpmrfv?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "1428",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -715,6 +776,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11010297",
     "artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
+    "podcast_artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
     "duration": "0:11:28",
     "explicit": "false",
     "author": "Computer Freedom"
@@ -731,6 +793,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3068094",
     "artwork": "https://3speak.tv/img/c/episode/ekads/why-do-indonesians-smile-so-much-napodpo-mw8xqde3.jpg?v=b79a177c",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/e43d79afe818544a6f10acfd8035b33f.jpg?v=e2524fce",
     "duration": "4:09",
     "explicit": "clean",
     "author": "ekads"
@@ -747,6 +810,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3609494",
     "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "podcast_artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
     "duration": "07:31",
     "explicit": "true",
     "author": "A Second First Look"
@@ -763,6 +827,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "888581",
     "artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
+    "podcast_artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
     "duration": "56",
     "explicit": "false",
     "author": "Jordan's Knowledge"
@@ -779,6 +844,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4804332",
     "artwork": "https://storage.buzzsprout.com/rpn0wuojr9nozrzpasgn98ude1q2?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "395",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -795,6 +861,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "16360593",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:17:02",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -811,6 +878,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1331235",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Episode-Art-8.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "1:07",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -827,6 +895,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5940782",
     "artwork": "https://artwork.captivate.fm/8534d05a-55bc-44ac-84c7-38ae56e9f5e6/008-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "07:04",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -843,6 +912,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "24061656",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/6fe42acb-98fa-44a6-a41f-7142016643b0/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:33:21",
     "explicit": "false",
     "author": "Simple Joe"
@@ -859,6 +929,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5806081",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "479",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -875,6 +946,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3531647",
     "artwork": "https://storage.buzzsprout.com/1iio5pkdwp7yn99255497saftbws?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "291",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -891,6 +963,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3926769",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "245",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -907,6 +980,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3567393",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-8-how-and-why-i-run-mw85raaq.jpg?v=dfed486d",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "3:43",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -923,6 +997,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6606376",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -939,6 +1014,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6946898",
     "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "podcast_artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
     "duration": "14:28",
     "explicit": "true",
     "author": "A Second First Look"
@@ -955,6 +1031,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "967328",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Episode-Art-7-1.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "44",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -971,6 +1048,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5764530",
     "artwork": "https://audioboom.com/i/43930080.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "360",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -987,6 +1065,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3714567",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "229",
     "explicit": "false",
     "author": "David Stack"
@@ -1003,6 +1082,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11270268",
     "artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
+    "podcast_artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
     "duration": "0:11:44",
     "explicit": "false",
     "author": "Computer Freedom"
@@ -1019,6 +1099,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3876067",
     "artwork": "https://storage.buzzsprout.com/2oitebtzechvwj8ytbix86wfq2nv?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "317",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -1035,6 +1116,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10990887",
     "artwork": "https://static.libsyn.com/p/assets/8/f/8/f/8f8fefaf3113c2d75f2e77a3093c12a1/TPV_Episode_383_dextroamphetamine_SOCIAL_MEDIA.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "07:30",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -1051,6 +1133,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6946898",
     "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "podcast_artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
     "duration": "14:28",
     "explicit": "true",
     "author": "A Second First Look"
@@ -1067,6 +1150,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "12596870",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:13:07",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -1083,6 +1167,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1370906",
     "artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
+    "podcast_artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
     "duration": "1:26",
     "explicit": "false",
     "author": "Jordan's Knowledge"
@@ -1099,6 +1184,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1225951",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Episode-Art-6.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "1:00",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -1115,6 +1201,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "24679272",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/4d9cd2b1-af86-419a-b7e3-93d1c909893b/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:34:12",
     "explicit": "false",
     "author": "Simple Joe"
@@ -1131,6 +1218,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5823033",
     "artwork": "https://storage.buzzsprout.com/ih0iq067nfzwwbw4i243c30p0n9y?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "481",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -1147,6 +1235,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3337715",
     "artwork": "https://3speak.tv/img/c/episode/ekads/is-it-even-a-gathering-without-gorengan--mw6z3jop.jpg?v=b7686a18",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/e43d79afe818544a6f10acfd8035b33f.jpg?v=e2524fce",
     "duration": "5:24",
     "explicit": "clean",
     "author": "ekads"
@@ -1163,6 +1252,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "13022375",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/98475/98475-1794089174686-ebdec8417127c.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:13:07",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -1179,6 +1269,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7951864",
     "artwork": "https://audioboom.com/i/43929818/s=1400x1400/el=1/rt=fill.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "494",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -1195,6 +1286,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11247137",
     "artwork": "https://audioboom.com/i/43929822/s=1400x1400/el=1/rt=fill.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "702",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -1211,6 +1303,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2049395",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Episode-Art-5.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "1:52",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -1227,6 +1320,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8682908",
     "artwork": "https://artwork.captivate.fm/7e19230b-4000-4f4e-97d5-2ab0e2a381c9/007-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "10:20",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -1243,6 +1337,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2305166",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-7-producing-the-hive--mw6o4csw.jpg?v=cc489423",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "2:24",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -1259,6 +1354,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7993792",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -1275,6 +1371,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8403634",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -1291,6 +1388,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "14806247",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "925",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -1307,6 +1405,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2860551",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "176",
     "explicit": "false",
     "author": "David Stack"
@@ -1323,6 +1422,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7700061",
     "artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
+    "podcast_artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
     "duration": "0:08:01",
     "explicit": "false",
     "author": "Computer Freedom"
@@ -1339,6 +1439,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2908595",
     "artwork": "https://storage.buzzsprout.com/9ssfm89fmogoz7pgqzi88jw2ao89?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "234",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -1355,6 +1456,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1044630",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-Ep-4.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "49",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -1371,6 +1473,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9285613",
     "artwork": "https://static.libsyn.com/p/assets/4/d/a/4/4da4d032ea6bd8c45f2e77a3093c12a1/TPV_Episode_382_cyanocobalamin_LIBSYN.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "06:19",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -1387,6 +1490,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1124774",
     "artwork": "https://3speak.tv/img/c/episode/epodcaster/what-i-have-heard-630-mw5wivkl.jpg?v=d6a3e0f7",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/bcf0edf9ecd5c381be4be489a888369d.jpg?v=ce1b07a0",
     "duration": "0:50",
     "explicit": "clean",
     "author": "epodcaster"
@@ -1403,6 +1507,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8817821",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Revivassance Podcast"
@@ -1419,6 +1524,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "12617132",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/family-podcast-and-podcast-workflow-mw5rs3pa.jpg?v=51d0848b",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "13:09",
     "explicit": "clean",
     "author": "Shaine"
@@ -1435,6 +1541,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9559291",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -1451,6 +1558,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "12887352",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:13:25",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -1467,6 +1575,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8963397",
     "artwork": "https://storage.buzzsprout.com/p3zdd7itevbvq8ozkiu00wm6badu?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "743",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -1483,6 +1592,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5305710",
     "artwork": "https://storage.buzzsprout.com/5uphq33sfcrims4gtne63i65ide5?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "438",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -1499,6 +1609,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9956877",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "A3Day Expanded Podcast"
@@ -1515,6 +1626,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3132547",
     "artwork": "https://3speak.tv/img/c/episode/ekads/why-does-everyone-wear-a-jacket-on-a-mot-mw5imvhf.jpg?v=9bd91da8",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/e43d79afe818544a6f10acfd8035b33f.jpg?v=e2524fce",
     "duration": "5:02",
     "explicit": "clean",
     "author": "ekads"
@@ -1531,6 +1643,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11659851",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "A3Day Expanded Podcast"
@@ -1547,6 +1660,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10504529",
     "artwork": "https://artwork.captivate.fm/db7f7979-fa0a-4985-9de9-cf2aef7a0936/0230-am-3000x3000.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "12:30",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -1563,6 +1677,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "10211388",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:10:17",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -1579,6 +1694,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3534063",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -1595,6 +1711,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1510150",
     "artwork": "https://3speak.tv/img/c/episode/epodcaster/its-not-too-late-530-mw581fl3.jpg?v=2f2704de",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/bcf0edf9ecd5c381be4be489a888369d.jpg?v=ce1b07a0",
     "duration": "1:14",
     "explicit": "clean",
     "author": "epodcaster"
@@ -1611,6 +1728,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "33781677",
     "artwork": "https://static.libsyn.com/p/assets/3/4/a/1/34a1ad20ccd437fcd959afa2a1bf1c87/logo.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/a/5/3/4/a53433336c3af61f16c3140a3186d450/logo_copy-20250622-yk9iku523y.jpg",
     "duration": "23:28",
     "explicit": "true",
     "author": "Mike Czerniewski"
@@ -1627,6 +1745,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11377727",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "711",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -1643,6 +1762,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2917014",
     "artwork": "https://3speak.tv/img/c/episode/steevc/follow-friday-open-the-pod-bay-doors-nap-mw54v429.jpg?v=2892c37e",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "3:02",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -1659,6 +1779,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "12886246",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -1675,6 +1796,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "16395692",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/repetition-and-consistency-mw53md9w.jpg?v=51f7de9d",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "17:05",
     "explicit": "clean",
     "author": "Shaine"
@@ -1691,6 +1813,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3181566",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "196",
     "explicit": "false",
     "author": "David Stack"
@@ -1707,6 +1830,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "22683333",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/581e7557-88da-41ec-8058-569bb1cbe0e2/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:31:26",
     "explicit": "false",
     "author": "Simple Joe"
@@ -1723,6 +1847,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5227488",
     "artwork": "https://3speak.tv/img/c/episode/nicklewis/lets-get-together-and-make-music-mw4sd1q8.jpg?v=ec03e31f",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/aea99a4c-87ca-4d0a-8b7c-aeb9e739a449.jpg?v=355d0137",
     "duration": "6:49",
     "explicit": "clean",
     "author": "Nick Lewis"
@@ -1755,6 +1880,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7184099",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "594",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -1771,6 +1897,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5325868",
     "artwork": "https://static.libsyn.com/p/assets/9/f/f/e/9ffee28053d213f1a04421dee9605cbd/TPV_Episode_381_celecoxib_SOCIAL_MEDIA.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "03:34",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -1787,6 +1914,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1588680",
     "artwork": "https://3speak.tv/img/c/episode/epodcaster/a-simple-catch-up-strategy-mw4gw4cx.jpg?v=5bc265cf",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/bcf0edf9ecd5c381be4be489a888369d.jpg?v=ce1b07a0",
     "duration": "1:19",
     "explicit": "clean",
     "author": "epodcaster"
@@ -1803,6 +1931,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1069601",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -1819,6 +1948,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10572976",
     "artwork": "https://storage.buzzsprout.com/jgp58k4snwt768927h4uta5b36il?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "877",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -1835,6 +1965,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10857742",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:11:18",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -1851,6 +1982,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10271076",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -1867,6 +1999,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3976088",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "248",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -1883,6 +2016,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9840032",
     "artwork": "https://audioboom.com/i/43927196/s=1400x1400/el=1/rt=fill.png",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "582",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -1899,6 +2033,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "16314011",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:16:27",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -1915,6 +2050,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "15520263",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:15:39",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -1931,6 +2067,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8847695",
     "artwork": "https://artwork.captivate.fm/3bc1ead5-48a3-4a72-a12c-9a649d1c0c96/005-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "10:32",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -1947,6 +2084,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3064971",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-5-remember-remember-mw3xtqci.jpg?v=5f8e3317",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "3:11",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -1963,6 +2101,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11622378",
     "artwork": "https://storage.buzzsprout.com/p27fgxi2jyadqg9ha8y4hjjn7joy?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "964",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -1979,6 +2118,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9888958",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "A3Day Expanded Podcast"
@@ -1995,6 +2135,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5325227",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -2011,6 +2152,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9735670",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -2027,6 +2169,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6179677",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Revivassance Podcast"
@@ -2043,6 +2186,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "19642560",
     "artwork": "https://3speak.tv/img/c/episode/nicklewis/napodpomo-5th-movember-mw3njny0.jpg?v=5827afbf",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/aea99a4c-87ca-4d0a-8b7c-aeb9e739a449.jpg?v=355d0137",
     "duration": "14:10",
     "explicit": "clean",
     "author": "Nick Lewis"
@@ -2059,6 +2203,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2754584",
     "artwork": "https://storage.buzzsprout.com/b07tqtpy2tz8uu6mwtcavv18xk9s?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "223",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -2075,6 +2220,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "18995363",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/792ca59d-24cf-4b6a-b1f7-11f23540462b/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:26:18",
     "explicit": "false",
     "author": "Simple Joe"
@@ -2091,6 +2237,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3014142",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "185",
     "explicit": "false",
     "author": "David Stack"
@@ -2123,6 +2270,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1443659",
     "artwork": "https://audioboom.com/i/43925906.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "180",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -2139,6 +2287,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5991677",
     "artwork": "https://static.libsyn.com/p/assets/2/4/a/c/24ac74f87b8a002ea04421dee9605cbd/TPV_Episode_380_carbamazepine_SOCIAL_MEDIA.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "04:02",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -2155,6 +2304,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10744364",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/election-results-and-garden-workouts-mw31il31.jpg?v=a120047a",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "11:11",
     "explicit": "clean",
     "author": "Shaine"
@@ -2171,6 +2321,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3563578",
     "artwork": "https://3speak.tv/img/c/episode/ekads/why-do-i-wake-up-at-4-am-every-day-napod-mw2ysx8a.jpg?v=90bb4031",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/e43d79afe818544a6f10acfd8035b33f.jpg?v=e2524fce",
     "duration": "4:47",
     "explicit": "clean",
     "author": "ekads"
@@ -2187,6 +2338,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8979434",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:09:21",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -2203,6 +2355,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9394787",
     "artwork": "https://artwork.captivate.fm/8fcc62f8-0481-4c5f-b67e-3307b4dd44ef/004-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "09:47",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -2219,6 +2372,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "1591145",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:01:38",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -2235,6 +2389,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8187061",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-4-playing-with-midi-mw2mwiqp.jpg?v=a64450c5",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "8:32",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -2251,6 +2406,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7330826",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "606",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -2267,6 +2423,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11466134",
     "artwork": "https://storage.buzzsprout.com/9t65sh5bp7vvilimkjoes93altzi?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "952",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -2283,6 +2440,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "10438226",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -2299,6 +2457,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "13138332",
     "artwork": "https://storage.buzzsprout.com/1dxwt4b1d9hxpipo0fzhgrygvqzq?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "1090",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -2315,6 +2474,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "8742495",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "546",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -2331,6 +2491,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2974590",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "183",
     "explicit": "false",
     "author": "David Stack"
@@ -2347,6 +2508,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7206702",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Revivassance Podcast"
@@ -2363,6 +2525,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2512141",
     "artwork": "https://storage.buzzsprout.com/6pa6h9jjqnq3e8bd4jic9tt1bhbe?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "202",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -2379,6 +2542,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "27404550",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/f392ce2d-3275-45aa-a3e0-463743936698/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:37:59",
     "explicit": "false",
     "author": "Simple Joe"
@@ -2395,6 +2559,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5045934",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "416",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -2411,6 +2576,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2123368",
     "artwork": "https://3speak.tv/img/c/episode/epodcaster/minimum-viable-podcast-mw1rx4h2.jpg?v=52bd535c",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/bcf0edf9ecd5c381be4be489a888369d.jpg?v=ce1b07a0",
     "duration": "1:52",
     "explicit": "clean",
     "author": "epodcaster"
@@ -2427,6 +2593,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9521342",
     "artwork": "https://static.libsyn.com/p/assets/b/f/b/0/bfb0d0e458d6b86d5f2e77a3093c12a1/TPV_Episode_379_aripiprazole_LIBSYN.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "06:29",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -2443,6 +2610,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11421569",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:11:53",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -2459,6 +2627,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11299107",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:11:46",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -2475,6 +2644,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1312391",
     "artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
+    "podcast_artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
     "duration": "1:22",
     "explicit": "false",
     "author": "Jordan's Knowledge"
@@ -2491,6 +2661,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6636716",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/election-night-and-caregiver-podcast-pla-mw1fmske.jpg?v=47644ea0",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "4:36",
     "explicit": "clean",
     "author": "Shaine"
@@ -2507,6 +2678,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3087463",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46118123/46118123-1780866310324-a5d1912654d27.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46118123/46118123-1780866310324-a5d1912654d27.jpg",
     "duration": "00:03:12",
     "explicit": "false",
     "author": "Automating By Design: Your Business, Life, and Legacy"
@@ -2523,6 +2695,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2851345",
     "artwork": "https://audioboom.com/i/43923580.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "352",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -2539,6 +2712,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5154241",
     "artwork": "https://3speak.tv/img/c/episode/ekads/who-are-all-these-people-in-coffee-shops-mw191p0z.jpg?v=544bc850",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/e43d79afe818544a6f10acfd8035b33f.jpg?v=e2524fce",
     "duration": "7:03",
     "explicit": "clean",
     "author": "ekads"
@@ -2555,6 +2729,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "14394482",
     "artwork": "https://artwork.captivate.fm/9cfb2035-505e-4ec5-81ad-5d2b387a7e52/003-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "17:08",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -2571,6 +2746,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "5951135",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:05:58",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -2587,6 +2763,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "3050269",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:03:04",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -2603,6 +2780,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7242473",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-day-3-the-music-of-steven-wils-mw136llt.jpg?v=31299128",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "7:33",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -2619,6 +2797,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6118305",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -2635,6 +2814,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "16449348",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
@@ -2651,6 +2831,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "14386509",
     "artwork": "https://storage.buzzsprout.com/wqxcwa2vhtsfpv82oojz7do447pp?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "1194",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -2667,6 +2848,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3170382",
     "artwork": "https://storage.buzzsprout.com/36omtlmauldq3l596l7tn2b35j65?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "257",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -2683,6 +2865,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "17204887",
     "artwork": "https://storage.buzzsprout.com/fizsefjq86df5wk97llt20cfrwmv?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "1431",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -2699,6 +2882,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3630845",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "224",
     "explicit": "false",
     "author": "David Stack"
@@ -2715,6 +2899,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "27174216",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/ded43674-46ff-4fa0-92b6-333b6da16e7c/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:37:40",
     "explicit": "false",
     "author": "Simple Joe"
@@ -2731,6 +2916,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6520187",
     "artwork": "https://static.libsyn.com/p/assets/0/9/3/e/093eee8a6a3414d4a04421dee9605cbd/TPV_Episode_378_LIBSYN.png",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "04:24",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -2747,6 +2933,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1628126",
     "artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-Ep-3-1024x1024.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "1:25",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -2763,6 +2950,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2124904",
     "artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
+    "podcast_artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
     "duration": "2:13",
     "explicit": "false",
     "author": "Jordan's Knowledge"
@@ -2779,6 +2967,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1195418",
     "artwork": "https://audioboom.com/i/43923488.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "148",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -2795,6 +2984,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "13198358",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "824",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -2811,6 +3001,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4747271",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-planning-ahead-mw00bveu.jpg?v=f4465426",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "4:57",
     "explicit": "clean",
     "author": "Shaine"
@@ -2827,6 +3018,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4784816",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "394",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -2843,6 +3035,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "15160859",
     "artwork": "https://storage.buzzsprout.com/0ebypvjgzczgj5ayqn63342y8gbu?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "1260",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -2859,6 +3052,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4695136",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Revivassance Podcast"
@@ -2875,6 +3069,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "1509529",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:01:29",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -2891,6 +3086,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "13122708",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "A3Day Expanded Podcast"
@@ -2907,6 +3103,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "11191526",
     "artwork": "https://artwork.captivate.fm/cf14a977-eef6-4a33-bd56-4a704ee7d540/002-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "11:39",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -2923,6 +3120,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5401363",
     "artwork": "https://3speak.tv/img/c/episode/steevc/solar-report-october-2026-mvzqb24f.jpg?v=1394087c",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "5:38",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -2939,6 +3137,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5406104",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "446",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -2955,6 +3154,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "12193741",
     "artwork": "https://storage.buzzsprout.com/w033hijuk3z6ag9314xe8m7ystfd?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "1012",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -2971,6 +3171,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6956940",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Revivassance Podcast"
@@ -2987,6 +3188,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9488727",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -3003,6 +3205,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3267069",
     "artwork": "https://storage.buzzsprout.com/66lecvgks93hpjabhonylmn0r78w?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "266",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -3019,6 +3222,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1145521",
     "artwork": "https://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-Ep-2-1024x1024.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "55",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -3035,6 +3239,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4561658",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "282",
     "explicit": "false",
     "author": "David Stack"
@@ -3051,6 +3256,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "14273688",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/502cac91-a2c1-4817-9e45-9fb11a5f4c53/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:19:45",
     "explicit": "false",
     "author": "Simple Joe"
@@ -3067,6 +3273,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3387675",
     "artwork": "https://3speak.tv/img/c/episode/ekads/why-im-doing-this-napodpomo-kagok-talk-e-mvyy1721.jpg?v=cc58a51f",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/e43d79afe818544a6f10acfd8035b33f.jpg?v=e2524fce",
     "duration": "4:33",
     "explicit": "clean",
     "author": "ekads"
@@ -3083,6 +3290,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3365913",
     "artwork": "https://3speak.tv/img/c/episode/epodcaster/what-have-you-gotten-yourself-into-230-mvyutu5s.jpg?v=788f9afd",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/bcf0edf9ecd5c381be4be489a888369d.jpg?v=ce1b07a0",
     "duration": "3:10",
     "explicit": "clean",
     "author": "epodcaster"
@@ -3099,6 +3307,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "61861326",
     "artwork": "https://static.libsyn.com/p/assets/c/8/7/7/c87739cd483e20d5a04421dee9605cbd/TPV_Episode_377_LIBSYN.jpg",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "42:50",
     "explicit": "false",
     "author": "Kim Newlove, Nancy Globus, Jenna Wise"
@@ -3115,6 +3324,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9245878",
     "artwork": "https://media.radicalrx.live/wp-media-folder-radicalrx/wp-content/uploads/2026/11/Matcha-Moments_-Starting-Before-Youre-Ready.png",
+    "podcast_artwork": "https://radicalrx.live/wp-content/uploads/2026/11/MM-2026-NaPodPoMo-feed-cover-3000-scaled.png",
     "duration": "9:38",
     "explicit": "false",
     "author": "Ellen K. Martin"
@@ -3131,6 +3341,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1232143",
     "artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
+    "podcast_artwork": "https://jnavarreteknowledgebase.com/wp-content/uploads/2026/01/gamestorytimelogofinal1-6.jpg",
     "duration": "1:17",
     "explicit": "false",
     "author": "Jordan's Knowledge"
@@ -3147,6 +3358,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "7984756",
     "artwork": "https://storage.buzzsprout.com/1uz6qsujfj80xvseh4fsskyrv998?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
     "duration": "661",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -3163,6 +3375,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "24419389",
     "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/d1d3b920-74dd-47f5-92bd-c960070b89be/image.jpg",
+    "podcast_artwork": "https://storage.pinecast.net/podcasts/covers/39dce3ef-3ed3-457b-b1ee-778e905896bc/SJ_-_Logo.jpg",
     "duration": "00:33:51",
     "explicit": "false",
     "author": "Simple Joe"
@@ -3179,6 +3392,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9486836",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
     "duration": "00:09:52",
     "explicit": "false",
     "author": "Hidden In Plain Sight"
@@ -3195,6 +3409,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6506102",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "A3Day Expanded Podcast"
@@ -3211,6 +3426,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3292656",
     "artwork": "https://storage.buzzsprout.com/8fzvhgzupmoerdquqj43kf34z8ow?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/0ecpwxkfgzrre022xrnbm0c4puzi?.jpg",
     "duration": "270",
     "explicit": "false",
     "author": "Judy Oskam"
@@ -3227,6 +3443,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "9819130",
     "artwork": "https://artwork.captivate.fm/1970ef6d-dcc3-400f-a8fd-01f311a00544/001-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
     "duration": "10:14",
     "explicit": "false",
     "author": "Elsie, As Is"
@@ -3243,6 +3460,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1719947",
     "artwork": "https://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-Ep-1-1024x1024.jpg",
+    "podcast_artwork": "http://podcasthottake.com/wp-content/uploads/2026/11/Podcast-Hot-Take-Album-Art-1.jpg",
     "duration": "1:31",
     "explicit": "false",
     "author": "Podcast Hot Take"
@@ -3259,6 +3477,7 @@
     "audio_type": "audio/x-m4a",
     "audio_length": "3973459",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
     "duration": "00:04:05",
     "explicit": "false",
     "author": "Hello, my imaginary friends"
@@ -3275,6 +3494,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1149724",
     "artwork": "https://audioboom.com/i/43919936.jpg",
+    "podcast_artwork": "https://audioboom.com/i/42162080.jpg",
     "duration": "138",
     "explicit": "false",
     "author": "Paul O'Mahony"
@@ -3291,6 +3511,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "2455809",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "150",
     "explicit": "false",
     "author": "David Stack"
@@ -3307,6 +3528,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "5142612",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "321",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -3323,6 +3545,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1504243",
     "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
     "duration": "91",
     "explicit": "false",
     "author": "David Stack"
@@ -3339,6 +3562,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3932251",
     "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-introduction-mvy3z2jr.jpg?v=35566fdc",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.jpg?v=858cd706",
     "duration": "4:06",
     "explicit": "clean",
     "author": "Shaine"
@@ -3355,6 +3579,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3416441",
     "artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
+    "podcast_artwork": "https://media.rss.com/stand/podcast_cover_20261028_214827_6033cf429ab47cee96b04e8ea6881112.png",
     "duration": "213",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
@@ -3371,6 +3596,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "1553250",
     "artwork": "",
+    "podcast_artwork": "",
     "duration": "",
     "explicit": "",
     "author": "Outrage Science Bites"
@@ -3387,6 +3613,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3457439",
     "artwork": "https://static.libsyn.com/p/assets/2/1/1/5/2115d4a46215e1395f2e77a3093c12a1/This_Podcast_Is..._Uncalled_For_NaPodPoMo_Intro.jpg",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/a/5/3/4/a53433336c3af61f16c3140a3186d450/logo_copy-20250622-yk9iku523y.jpg",
     "duration": "02:25",
     "explicit": "false",
     "author": "Mike Czerniewski"
@@ -3403,6 +3630,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3543535",
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-1-mvxxsgl4.jpg?v=c796a40b",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/89824da022425799e9cd52e2a75e7e1e.jpg?v=b40314e1",
     "duration": "3:41",
     "explicit": "clean",
     "author": "Steve Clark"
@@ -3419,6 +3647,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "3585092",
     "artwork": "https://storage.buzzsprout.com/5330m4yrgrnuo18ifp7wmz07whmb?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/mnlot2p188oi15dzmw17cqgs2dyx?.jpg",
     "duration": "291",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -3435,6 +3664,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "4266920",
     "artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
+    "podcast_artwork": "https://storage.buzzsprout.com/2wzyttm1v9izrve7qo8otb79wfdn?.jpg",
     "duration": "351",
     "explicit": "false",
     "author": "Doreen Cumberford"
@@ -3451,6 +3681,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6088400",
     "artwork": "https://3speak.tv/img/c/episode/epodcaster/napodpomo-2026-and-so-it-begins-130-mvxgei42.jpg?v=e7e7fe27",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/bcf0edf9ecd5c381be4be489a888369d.jpg?v=ce1b07a0",
     "duration": "6:00",
     "explicit": "clean",
     "author": "epodcaster"
@@ -3467,6 +3698,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "13295514",
     "artwork": "https://static.libsyn.com/p/assets/a/b/6/e/ab6eb2846a5ea68a5f2e77a3093c12a1/TPV_Episode_376_LIBSYN.jpg",
+    "podcast_artwork": "https://static.libsyn.com/p/assets/0/f/a/c/0facb241e82fb88d/podcast_artwork_for_libsyn_4-23-20.png",
     "duration": "09:06",
     "explicit": "false",
     "author": "Kim Newlove"
@@ -3483,6 +3715,7 @@
     "audio_type": "audio/mpeg",
     "audio_length": "6057690",
     "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "podcast_artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
     "duration": "12:37",
     "explicit": "true",
     "author": "A Second First Look"
