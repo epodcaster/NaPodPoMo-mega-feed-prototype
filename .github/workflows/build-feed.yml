@@ -14,6 +14,7 @@ on:
       - '.github/workflows/build-feed.yml'
   schedule:
     - cron: '17 */3 * 11 *'
+    - cron: '17 */3 1-2 12 *'
 permissions:
   contents: read
 defaults:
@@ -75,6 +76,7 @@ jobs:
           python build_album_cover_test.py --config runtime-config.json --cache data/episodes-prototype-2026.json --output site/album-cover-test.xml
           cp prototype-index.html site/index.html
           cp -R assets site/assets
+          cp assets/napodpomo-2026-mega-feed.opml site/napodpomo-2026-mega-feed.opml
           touch site/.nojekyll
       - name: Preserve discovered episode metadata
         if: steps.experiment.outputs.active == 'true'
