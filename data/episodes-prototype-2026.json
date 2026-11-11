@@ -1,4 +1,36 @@
 {
+  "80d7a6e358c897f5faa66dc893da2920": {
+    "id": "80d7a6e358c897f5faa66dc893da2920",
+    "source": "https://api.substack.com/feed/podcast/12028996.rss",
+    "podcast": "The Lessons Learned Series",
+    "title": "Week 2 Kickoff: When It Becomes a Real Business",
+    "description": "Week 2 of The Lessons Learned Series is about validity: the point where what you do stops being a hobby and becomes a real business that people pay you for.Jennifer Coker-Hatton and Jennifer Navarrete look back at week 1 (origin stories, being taken seriously and taking ourselves seriously, different personalities in business, and the long tail) and preview this week: turning a hobby into a business, deciding what to offer, pricing, and never giving up.In this episode:A quick recap of week 1What we\u2019re covering in week 2Why bootstrapping means the same lessons keep coming back, sometimes all at onceSubscribe to The Lessons Learned Series so you don\u2019t miss an episode. Hosted by Jennifer Coker-Hatton, fractional CMO. Guest: Jennifer Navarrete, founder of NaPodPoMo. jennifer-hatton.com This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit jennifercokerhatton.substack.com",
+    "link": "https://jennifercokerhatton.substack.com/p/week-2-kickoff-when-it-becomes-a",
+    "date": "2026-11-11T03:28:16+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/224384413/b0d47e061da82eb9bacc5dad13a22ac2.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "1784832",
+    "artwork": "",
+    "duration": "",
+    "explicit": "",
+    "author": "The Lessons Learned Series"
+  },
+  "ce872591ee21856a82f1737b95e9913b": {
+    "id": "ce872591ee21856a82f1737b95e9913b",
+    "source": "https://anchor.fm/s/12ed94c/podcast/rss",
+    "podcast": "Hello, my imaginary friends",
+    "title": "Sm2n 2026-11-10 #audio365 (314/365) #naPodPoMo Forgetting Was The Safety Valve (10:46)",
+    "description": "Title: Forgetting Was The Safety ValveDuration: 10:46After a Toastmasters meeting where he volunteered for a short speech and then had to set up the projector during the break, Simon drives home reflecting on his Claude setup. A helper agent checks file changes by hash rather than trusting timestamps, and a cheaper shell script yes/no check was suggested and implemented. He has deliberately left the scheduled jobs running, stopped answering the system's questions, and is watching token use as a baseline. His conclusion is that the new setup misses nothing and floods him with questions, where the old one let missed prompts quietly drop. He plans to rebuild slowly and optimise as he goes.",
+    "link": "https://podcasters.spotify.com/pod/show/sm2n/episodes/Sm2n-2026-11-10-audio365-314365-naPodPoMo-Forgetting-Was-The-Safety-Valve-1046-e3s64fr",
+    "date": "2026-11-10T22:58:15+00:00",
+    "audio_url": "https://anchor.fm/s/12ed94c/podcast/play/129224635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F3ddbc764-4bda-a8e7-2de8-2dca326b128d.m4a",
+    "audio_type": "audio/x-m4a",
+    "audio_length": "10762138",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "duration": "00:10:50",
+    "explicit": "false",
+    "author": "Hello, my imaginary friends"
+  },
   "efbd3d72cafd1101d5543ebccdd81d22": {
     "id": "efbd3d72cafd1101d5543ebccdd81d22",
     "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
@@ -13,7 +45,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-10-recording-on-3spea-mwb76z3g.jpg?v=1bc7fa66",
     "duration": "4:03",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "e77560fb1eb25b05f7c143149412a20e": {
     "id": "e77560fb1eb25b05f7c143149412a20e",
@@ -73,8 +105,8 @@
     "date": "2026-11-10T19:00:00+00:00",
     "audio_url": "https://www.buzzsprout.com/1613281/episodes/20104620-episode-170-owning-the-room-without-stepping-on-toes-unplugged.mp3",
     "audio_type": "audio/mpeg",
-    "audio_length": "8538711",
-    "artwork": "https://storage.buzzsprout.com/qklsli0rmnoml3ix9qfaethlocdv?.jpg",
+    "audio_length": "8539742",
+    "artwork": "https://storage.buzzsprout.com/8cnpbx1xkzbez0r2lc9at7n3uyzu?.jpg",
     "duration": "707",
     "explicit": "false",
     "author": "Dr. Angelina Davis"
@@ -125,7 +157,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/podcast-evolution-mwarqx15.jpg?v=ec8fb379",
     "duration": "3:31",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "cfec05bcb72a8e8a43b220133a4374d4": {
     "id": "cfec05bcb72a8e8a43b220133a4374d4",
@@ -158,6 +190,22 @@
     "duration": "1:51",
     "explicit": "false",
     "author": "Podcast Hot Take"
+  },
+  "e1891b2b606bd9ec9e2cb9c129c7f4c7": {
+    "id": "e1891b2b606bd9ec9e2cb9c129c7f4c7",
+    "source": "https://micless.com/rss",
+    "podcast": "Micless",
+    "title": "Waiting for a quiet room",
+    "description": "A writer never stops typing an essay because a delivery truck backs up outside. Yet the moment you sit down in front of a microphone, every leaf blower, barking dog, and passing car in your neighborhood dictates when you're allowed to work. Waiting out background noise doesn't just waste time; pausing mid-thought breaks the focus you need to explain an idea clearly. In today's episode, I share why I stopped waiting for a quiet room to make this show, and what changes when you can produce an episode the moment the idea is fresh.",
+    "link": "https://micless.com/episodes/e10-waiting-quiet-room",
+    "date": "2026-11-10T12:00:00+00:00",
+    "audio_url": "https://micless.com/episodes/e10-waiting-for-a-quiet-room.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3411973",
+    "artwork": "https://micless.com/img/micless-cover.jpg",
+    "duration": "210",
+    "explicit": "false",
+    "author": "David Stack"
   },
   "a15b1e24c83ff60022a18c1cdc069f52": {
     "id": "a15b1e24c83ff60022a18c1cdc069f52",
@@ -253,7 +301,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/background-audio-mwa5pmmp.jpg?v=888f2aa1",
     "duration": "4:18",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "d31f29715865fc55ef2f15ff737a9155": {
     "id": "d31f29715865fc55ef2f15ff737a9155",
@@ -349,7 +397,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-9-recording-with-an-o-mw9t7qk2.jpg?v=7afe16e4",
     "duration": "2:54",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "878a70ed7241d4e9b0eaeab91ef8f43b": {
     "id": "878a70ed7241d4e9b0eaeab91ef8f43b",
@@ -733,7 +781,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-8-how-and-why-i-run-mw85raaq.jpg?v=dfed486d",
     "duration": "3:43",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "e55ec3b0fea4fab1d27bbba5c10bac32": {
     "id": "e55ec3b0fea4fab1d27bbba5c10bac32",
@@ -1069,7 +1117,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-7-producing-the-hive--mw6o4csw.jpg?v=cc489423",
     "duration": "2:24",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "9f716d3161f178506d082f071b33a668": {
     "id": "9f716d3161f178506d082f071b33a668",
@@ -1245,7 +1293,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/family-podcast-and-podcast-workflow-mw5rs3pa.jpg?v=51d0848b",
     "duration": "13:09",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "492202aeec24657792d04b163a213dad": {
     "id": "492202aeec24657792d04b163a213dad",
@@ -1469,7 +1517,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/follow-friday-open-the-pod-bay-doors-nap-mw54v429.jpg?v=2892c37e",
     "duration": "3:02",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "d70f951f141886fcc5eaf3c9bcc4ece8": {
     "id": "d70f951f141886fcc5eaf3c9bcc4ece8",
@@ -1501,7 +1549,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/repetition-and-consistency-mw53md9w.jpg?v=51f7de9d",
     "duration": "17:05",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "aa45e2ab3eb75cb2150fc3fff9fba119": {
     "id": "aa45e2ab3eb75cb2150fc3fff9fba119",
@@ -1549,7 +1597,7 @@
     "artwork": "https://3speak.tv/img/c/episode/nicklewis/lets-get-together-and-make-music-mw4sd1q8.jpg?v=ec03e31f",
     "duration": "6:49",
     "explicit": "clean",
-    "author": "Nick Lewis"
+    "author": "nicklewis"
   },
   "fa2854a15eb2947daea6540ff572e8a5": {
     "id": "fa2854a15eb2947daea6540ff572e8a5",
@@ -1773,7 +1821,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-5-remember-remember-mw3xtqci.jpg?v=5f8e3317",
     "duration": "3:11",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "8b71380ff6ec27aa3b7b8d468152ce8c": {
     "id": "8b71380ff6ec27aa3b7b8d468152ce8c",
@@ -1869,7 +1917,7 @@
     "artwork": "https://3speak.tv/img/c/episode/nicklewis/napodpomo-5th-movember-mw3njny0.jpg?v=5827afbf",
     "duration": "14:10",
     "explicit": "clean",
-    "author": "Nick Lewis"
+    "author": "nicklewis"
   },
   "9d7a55e99e28f34266397d38a7db72bb": {
     "id": "9d7a55e99e28f34266397d38a7db72bb",
@@ -1981,7 +2029,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/election-results-and-garden-workouts-mw31il31.jpg?v=a120047a",
     "duration": "11:11",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "f729c03d1a96380d8772956c4c0d5270": {
     "id": "f729c03d1a96380d8772956c4c0d5270",
@@ -2061,7 +2109,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-4-playing-with-midi-mw2mwiqp.jpg?v=a64450c5",
     "duration": "8:32",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "9c0c9d9f601fd578eb19b99a425ad820": {
     "id": "9c0c9d9f601fd578eb19b99a425ad820",
@@ -2317,7 +2365,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/election-night-and-caregiver-podcast-pla-mw1fmske.jpg?v=47644ea0",
     "duration": "4:36",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "0c876c44768a5e6f891ef7faae9aa239": {
     "id": "0c876c44768a5e6f891ef7faae9aa239",
@@ -2429,7 +2477,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-day-3-the-music-of-steven-wils-mw136llt.jpg?v=31299128",
     "duration": "7:33",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "ca903de34ad1e90ab901b2a332a926f3": {
     "id": "ca903de34ad1e90ab901b2a332a926f3",
@@ -2637,7 +2685,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-planning-ahead-mw00bveu.jpg?v=f4465426",
     "duration": "4:57",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "c60ff29512b33aa9efde44d4ed512959": {
     "id": "c60ff29512b33aa9efde44d4ed512959",
@@ -2749,7 +2797,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/solar-report-october-2026-mvzqb24f.jpg?v=1394087c",
     "duration": "5:38",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "d34d2fa8fce2d3780cd1a9eda55845eb": {
     "id": "d34d2fa8fce2d3780cd1a9eda55845eb",
@@ -3165,7 +3213,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-introduction-mvy3z2jr.jpg?v=35566fdc",
     "duration": "4:06",
     "explicit": "clean",
-    "author": "Shaine"
+    "author": "shainemata"
   },
   "7b9160630dfba307370cafcd99a040b4": {
     "id": "7b9160630dfba307370cafcd99a040b4",
@@ -3229,7 +3277,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-1-mvxxsgl4.jpg?v=c796a40b",
     "duration": "3:41",
     "explicit": "clean",
-    "author": "Steve Clark"
+    "author": "steevc"
   },
   "bcfd9038464a8b4e1cc8b752a837a0aa": {
     "id": "bcfd9038464a8b4e1cc8b752a837a0aa",
