@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NaPodPoMo Album Cover Test</title>
+  </head>
+  <body>
+    <outline text="NaPodPoMo Podcast Album Cover Test" title="NaPodPoMo Podcast Album Cover Test" type="rss" xmlUrl="https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/album-cover-test.xml" htmlUrl="https://epodcaster.github.io/NaPodPoMo-mega-feed-prototype/" />
+  </body>
+</opml>
