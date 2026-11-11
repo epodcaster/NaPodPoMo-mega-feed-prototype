@@ -1,4 +1,84 @@
 {
+  "f81aec26c14335c2bee7e2e322c2d772": {
+    "id": "f81aec26c14335c2bee7e2e322c2d772",
+    "source": "https://audioboom.com/channels/4930155.rss",
+    "podcast": "From Cork With Love - by Paul O'Mahony",
+    "title": "11th November. \u201cPodcasting Challenges -  sharing for health\u201d.  #napodpomo",
+    "description": "You hear Paul O\u2019Mahony talking about a 90 minute chat between two podcasters. Brisbane & Cork storytelling",
+    "link": "https://audioboom.com/posts/8975826",
+    "date": "2026-11-11T13:31:59+00:00",
+    "audio_url": "https://audioboom.com/posts/8975826.mp3?modified=1794403932&sid=4930155&source=rss",
+    "audio_type": "audio/mpeg",
+    "audio_length": "8782383",
+    "artwork": "https://audioboom.com/i/43934816.jpg",
+    "duration": "544",
+    "explicit": "false",
+    "author": "Paul O'Mahony"
+  },
+  "9e7797b3222e458303048282b2502187": {
+    "id": "9e7797b3222e458303048282b2502187",
+    "source": "https://feeds.buzzsprout.com/371849.rss",
+    "podcast": "Stories of Change: Helping You Navigate What's Next",
+    "title": "How to Make Everyday Change Easier with Stephanie Weldy",
+    "description": "Is there something you\u2019d like to change in your everyday life, but you\u2019re not sure where to begin?Maybe you want to spend more time with friends, build a new habit, or find a better way to support the people you work with.In part two of my conversation with Stephanie Weldy, we\u2019re taking behavior design out of theory and into everyday life.Stephanie works with Dr. BJ Fogg, author of the New York Times Bestseller -Tiny Habits: The Small Changes That Change Everything.We talk about how to turn good intentions into specific actions and why giving people choices matters. Stephanie shares what she calls the \u201cmovie test\u201d to help you identify your next step.This is a practical conversation about making change a little easier\u2014at home, at work, and in your own life.Questions We ExploreWhat is the first step when I want to change something?Stephanie suggests clarifying what you mean. Wanting more time with friends, for example, can become a specific invitation to meet for coffee or a walk.How can managers support employees using behavior design?Stephanie suggests asking how people want to grow within their role and offering relevant choices instead of assuming everyone wants the same opportunity.What is the movie test for behavior change?Can you picture the action happening on screen? A visible, specific action is easier to plan than a broad intention.One Idea to Take With YouWrite down o",
+    "link": "",
+    "date": "2026-11-11T11:00:00+00:00",
+    "audio_url": "https://www.buzzsprout.com/371849/episodes/20056895-how-to-make-everyday-change-easier-with-stephanie-weldy.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "16123593",
+    "artwork": "https://storage.buzzsprout.com/a4d4jp557sf6vtlvaetl4xt8y7nr?.jpg",
+    "duration": "1340",
+    "explicit": "false",
+    "author": "Judy Oskam"
+  },
+  "c1997e0f16af8c090eecdb1041748624": {
+    "id": "c1997e0f16af8c090eecdb1041748624",
+    "source": "https://feeds.blubrry.com/feeds/linuxstory.xml",
+    "podcast": "Computer Freedom",
+    "title": "Discovering Windows",
+    "description": "Good old Windows 3.0** This episode is part of #NaPodPoMo 2026 ***Learn more at NaPodPoMo.org",
+    "link": "https://media.blubrry.com/linuxstory/ins.blubrry.com/linuxstory/cf011.mp3",
+    "date": "2026-11-11T09:20:00+00:00",
+    "audio_url": "https://media.blubrry.com/linuxstory/ins.blubrry.com/linuxstory/cf011.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "10157243",
+    "artwork": "https://assets.blubrry.com/coverart/orig/4052206-132350.jpg",
+    "duration": "0:10:35",
+    "explicit": "false",
+    "author": "Computer Freedom"
+  },
+  "080af14b1f743bbd7cf73b72a033f11f": {
+    "id": "080af14b1f743bbd7cf73b72a033f11f",
+    "source": "https://pinecast.com/feed/simplejoe",
+    "podcast": "Simple Joe",
+    "title": "The Mandela Effect: I Don't Remember It That Way!",
+    "description": "Welcome to Simple Joe. I\u2019m glad you\u2019re here. I can see Sinbad standing there in that purple genie outfit. I remember the movie Shazaam. There's just one problem. Apparently, it never existed! Welcome to Wildcard Wednesday, where I'm exploring the strange and fascinating world of the Mandela Effect, when large numbers of people remember something that apparently never happened. We're talking about the Berenstain Bears, Jiffy peanut butter, the Fruit of the Loom cornucopia, the Monopoly guy's missing monocle, and famous movie quotes we've all been getting wrong. But this gets personal when I share a disagreement with Karin and our friend Michelle about something that happened years ago. We're all absolutely certain we remember it correctly, even though our memories contradict each other. I also share how an old family photograph proved I'd been somewhere I had no memory of visiting. We'll explore how our brains reconstruct memories, why people can share the same false memories, and even wander into parallel universes, simulation theory, and some pretty wild ideas about reality. Because the strangest thing about the Mandela Effect might not be what we remember. It might be how completely we trust those memories. What's your Mandela Effect? Text me at 513-399-6468 or email joe@thesimplejoe.com. And if you've got an old VHS copy of Shazaam starring Sinbad, we really need to talk! Em",
+    "link": "",
+    "date": "2026-11-11T07:00:00+00:00",
+    "audio_url": "https://pinecast.com/listen/e459efed-8061-40cd-859f-8260d4883ddd:25c82c3c-55e7-487a-881c-999c40810421.mp3?source=rss&ext=asset.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "29773791",
+    "artwork": "https://storage.pinecast.net/podcasts/4bb32fab-2acd-4a7f-9a50-d45aba679697/covers/b4c12f3b-fdad-44a1-8093-02614a10cb87/SJ_-_Logo.jpg",
+    "duration": "00:41:14",
+    "explicit": "false",
+    "author": "Simple Joe"
+  },
+  "3be1f48dd6ba81476a2cf0157c33406e": {
+    "id": "3be1f48dd6ba81476a2cf0157c33406e",
+    "source": "https://feeds.libsyn.com/228308/rss",
+    "podcast": "The Pharmacist's Voice",
+    "title": "Veterans Day 2026 | Saluting Pharmacists Who Serve",
+    "description": "We're taking a break from the Pronunciation Series to celebrate Veterans Day 2026. In this episode, we talk about what Veterans Day is first. Then, I give a shout out to the Veterans who have been on this podcast. Thank you to all the Veterans listening to this episode, as well. Thank you for your service. What is Veterans Day? Veterans Day is an American holiday. We observe it every year on November 11. On Veterans Day, we honor all American Veterans, including military veterans who have served in the US Armed Forces and the US Public Health Service Commissioned Corps. Veterans Day was originally called Armistice Day. Armistice Day commemorates the end of WWI on November 11, 1918. One way to observe or celebrate Veterans Day is to observe a moment of silence at 11 a.m. on November 11. It's a moment of silence to honor veterans. List of Veteran Pharmacists who have been on this show *Some are now civilians, but most are active duty Episode 48 features Jerilyn Arneson, PharmD. During our conversation, we discuss her role as a Revenue Integrity Pharmacist. She is a former Air Force Pharmacist. Thank you for your service, Dr. Arneson. https://links.thepharmacistsvoice.com/JerilynArneson Episode 101 features Allie Butler, PharmD. Allie became a pharmacist after her service in the US Air Force. During our conversation, Allie and I talk about her passion for diabetes management and s",
+    "link": "https://www.thepharmacistsvoice.com",
+    "date": "2026-11-11T06:00:00+00:00",
+    "audio_url": "https://traffic.libsyn.com/secure/thepharmacistsvoice/TPV_Episode_386_Veterans_Day_2026.mp3?dest-id=1679462",
+    "audio_type": "audio/mpeg",
+    "audio_length": "25355935",
+    "artwork": "https://static.libsyn.com/p/assets/6/b/c/4/6bc46e69e3dc11a35f2e77a3093c12a1/TPV_Episode_386_Veterans_Day_2026_LIBSYN.png",
+    "duration": "17:29",
+    "explicit": "false",
+    "author": "Kim Newlove, Anthony Morreale, Pam Schweitzer"
+  },
   "80d7a6e358c897f5faa66dc893da2920": {
     "id": "80d7a6e358c897f5faa66dc893da2920",
     "source": "https://api.substack.com/feed/podcast/12028996.rss",
@@ -14,6 +94,22 @@
     "duration": "",
     "explicit": "",
     "author": "The Lessons Learned Series"
+  },
+  "ee35e244c668c9cc8fd805478c229c51": {
+    "id": "ee35e244c668c9cc8fd805478c229c51",
+    "source": "https://anchor.fm/s/1190b8d0c/podcast/rss",
+    "podcast": "Hidden In Plain Sight",
+    "title": "The Shepherd and the Sheep",
+    "description": "Host: Abigail PriceAbigail Price begins a study of Psalm 23 and explains why it belongs in the theme of being hidden in plain sight. She starts with the role of a shepherd in ancient Israel, so that David's opening line reads the way his first hearers would have understood it. This is a solo teaching episode of about 11 minutes.Key pointsIn ancient Israel, the shepherd was guide, protector, provider and caretaker.Sheep know their shepherd's voice.The shepherd finds pasture and water, protects against predators and thieves, and searches for strayed sheep. Abigail mentions the rod, staff and sling.Jesus is presented as both the door of the sheepfold and the good shepherd, and he knows his sheep.The shepherd provides rest.David puts himself in the place of the sheep.On Psalm 23:1, Abigail does a word study of \"want\" using Strong's 2637, which she presents as meaning to lack or decrease.She says God performs his word and keeps his promises, and that belief shapes what a person receives.Her closing charge is to change your belief to match God's word. She tells listeners they are hidden in the shelter of God's wings.Timestamps/Scripture References1:31 - Psalm 23:1 read: \"The Lord is my shepherd, I shall not want\"2:05 - Sheep know the shepherd's voice (John 10:4)4:16 - The shepherd searches for the lost sheep (Luke 15:4-6, through 4:51)5:07 - The shepherd gathers the lambs (Isaiah 40:",
+    "link": "https://podcasters.spotify.com/pod/show/abigail-price62/episodes/The-Shepherd-and-the-Sheep-e3s68q6",
+    "date": "2026-11-11T00:42:05+00:00",
+    "audio_url": "https://anchor.fm/s/1190b8d0c/podcast/play/129229062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436449313-44100-2-3c970a109e1a1.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "10410944",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47051547/47051547-1792807289168-f7ee1cda7d258.jpg",
+    "duration": "00:10:50",
+    "explicit": "false",
+    "author": "Hidden In Plain Sight"
   },
   "ce872591ee21856a82f1737b95e9913b": {
     "id": "ce872591ee21856a82f1737b95e9913b",
@@ -45,7 +141,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-10-recording-on-3spea-mwb76z3g.jpg?v=1bc7fa66",
     "duration": "4:03",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "e77560fb1eb25b05f7c143149412a20e": {
     "id": "e77560fb1eb25b05f7c143149412a20e",
@@ -143,6 +239,22 @@
     "explicit": "",
     "author": "Outrage Science Bites"
   },
+  "8c7cb561db4af032b3862b1f05b3a3d5": {
+    "id": "8c7cb561db4af032b3862b1f05b3a3d5",
+    "source": "https://feeds.captivate.fm/asecondfirstlook/",
+    "podcast": "A Second First Look",
+    "title": "Dark City (1998)",
+    "description": "A Second First Look, the newest show by podcaster George Sirois (Excelsior Journeys: The Road to Creativity / From Duck Till Dark: Outside the Marvel Studios) is a collection of 30 episodes that spotlight different films that had not gotten enough attention critically or commercially (or both).Episode 07: Dark City (1998)Screenplay by Alex Proyas, Lem Dobbs, and David S. GoyerStory by Alex ProyasDirected by Alex ProyasClick HERE to access today's film.If you agree that A Second First Look serves a positive purpose and would like to show your appreciation, you can give back to the show by clicking HERE.",
+    "link": "https://asecondfirstlook.captivate.fm/episode/dark-city-1998",
+    "date": "2026-11-10T17:00:00+00:00",
+    "audio_url": "https://episodes.captivate.fm/episode/430fcad4-b839-4e51-bfae-2df30a9decde.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3599045",
+    "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "duration": "07:30",
+    "explicit": "true",
+    "author": "A Second First Look"
+  },
   "a2bab8e5eacf285239b7700f2aff7b9d": {
     "id": "a2bab8e5eacf285239b7700f2aff7b9d",
     "source": "https://3speak.tv/rss/playlist/1c5e0e39-ca40-48db-a410-1c43c5324320.xml",
@@ -157,7 +269,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/podcast-evolution-mwarqx15.jpg?v=ec8fb379",
     "duration": "3:31",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "cfec05bcb72a8e8a43b220133a4374d4": {
     "id": "cfec05bcb72a8e8a43b220133a4374d4",
@@ -169,8 +281,8 @@
     "date": "2026-11-10T14:00:00+00:00",
     "audio_url": "https://www.buzzsprout.com/2469650/episodes/20102291-the-five-second-rule-bacteria-don-t-wait-that-long-urban-legend-10.mp3",
     "audio_type": "audio/mpeg",
-    "audio_length": "2769209",
-    "artwork": "https://storage.buzzsprout.com/dvck1d9jrvom2tp5c3i28h0xf1cw?.jpg",
+    "audio_length": "2769435",
+    "artwork": "https://storage.buzzsprout.com/jbpg0xctj63o05bjpjcom8c78j6f?.jpg",
     "duration": "224",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -271,6 +383,22 @@
     "explicit": "false",
     "author": "Kim Newlove"
   },
+  "fcfb1aa1a276c71164344a20005fdfd2": {
+    "id": "fcfb1aa1a276c71164344a20005fdfd2",
+    "source": "https://feeds.captivate.fm/asecondfirstlook/",
+    "podcast": "A Second First Look",
+    "title": "Coneheads (1993)",
+    "description": "A Second First Look, the newest show by podcaster George Sirois (Excelsior Journeys: The Road to Creativity / From Duck Till Dark: Outside the Marvel Studios) is a collection of 30 episodes that spotlight different films that had not gotten enough attention critically or commercially (or both).Episode 06: Coneheads (1993)Screenplay by Dan Aykroyd & Tom Davis and Bonnie Turner & Terry TurnerDirected by Steve BarronClick HERE to access today's film.If you agree that A Second First Look serves a positive purpose and would like to show your appreciation, you can give back to the show by clicking HERE.",
+    "link": "https://asecondfirstlook.captivate.fm/episode/coneheads-1993",
+    "date": "2026-11-10T05:00:00+00:00",
+    "audio_url": "https://episodes.captivate.fm/episode/4b3a7ddb-61f9-4dba-8dd6-19b1a8cb1cbf.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "4397974",
+    "artwork": "https://artwork.captivate.fm/1e19c76a-78f1-46c3-8efa-405aefb259ad/A-Second-First-Look-JPEG.jpeg",
+    "duration": "09:10",
+    "explicit": "true",
+    "author": "A Second First Look"
+  },
   "2e9990f41c3eedb201dd82b3e4eea599": {
     "id": "2e9990f41c3eedb201dd82b3e4eea599",
     "source": "https://jnavarreteknowledgebase.com/feed/napodpomo-2026/",
@@ -301,7 +429,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/background-audio-mwa5pmmp.jpg?v=888f2aa1",
     "duration": "4:18",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "d31f29715865fc55ef2f15ff737a9155": {
     "id": "d31f29715865fc55ef2f15ff737a9155",
@@ -397,7 +525,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-9-recording-with-an-o-mw9t7qk2.jpg?v=7afe16e4",
     "duration": "2:54",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "878a70ed7241d4e9b0eaeab91ef8f43b": {
     "id": "878a70ed7241d4e9b0eaeab91ef8f43b",
@@ -506,7 +634,7 @@
     "audio_url": "https://www.buzzsprout.com/2469650/episodes/20095418-are-bananas-radioactive-the-fruit-that-trips-alarms-urban-legend-9.mp3",
     "audio_type": "audio/mpeg",
     "audio_length": "4425337",
-    "artwork": "https://storage.buzzsprout.com/2631bbqo1mfyjwydwq9mckhlnqjw?.jpg",
+    "artwork": "https://storage.buzzsprout.com/cx29xosize51t5g4obcvduw3rnv9?.jpg",
     "duration": "362",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -650,7 +778,7 @@
     "audio_url": "https://www.buzzsprout.com/2469650/episodes/20094454-is-a-100-mph-sneeze-real-the-fine-print-on-a-famous-number-urban-legend-8.mp3",
     "audio_type": "audio/mpeg",
     "audio_length": "4804332",
-    "artwork": "https://storage.buzzsprout.com/mdiu9wry8ye0znafqxcbtxrcz2m2?.jpg",
+    "artwork": "https://storage.buzzsprout.com/rpn0wuojr9nozrzpasgn98ude1q2?.jpg",
     "duration": "395",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -781,7 +909,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-8-how-and-why-i-run-mw85raaq.jpg?v=dfed486d",
     "duration": "3:43",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "e55ec3b0fea4fab1d27bbba5c10bac32": {
     "id": "e55ec3b0fea4fab1d27bbba5c10bac32",
@@ -890,7 +1018,7 @@
     "audio_url": "https://www.buzzsprout.com/2469650/episodes/20090404-did-the-christmas-truce-of-1914-actually-happen-urban-legend-7.mp3",
     "audio_type": "audio/mpeg",
     "audio_length": "3876067",
-    "artwork": "https://storage.buzzsprout.com/m81jlec7x3844ru7uweypy5kz9zs?.jpg",
+    "artwork": "https://storage.buzzsprout.com/2oitebtzechvwj8ytbix86wfq2nv?.jpg",
     "duration": "317",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -1117,7 +1245,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-7-producing-the-hive--mw6o4csw.jpg?v=cc489423",
     "duration": "2:24",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "9f716d3161f178506d082f071b33a668": {
     "id": "9f716d3161f178506d082f071b33a668",
@@ -1209,8 +1337,8 @@
     "date": "2026-11-07T07:00:00+00:00",
     "audio_url": "https://www.buzzsprout.com/2469650/episodes/20087837-history-s-grossest-mystery-the-kentucky-meat-shower-solved-urban-legend-6.mp3",
     "audio_type": "audio/mpeg",
-    "audio_length": "2908183",
-    "artwork": "https://storage.buzzsprout.com/znit82zfrng24moaafd4o4dagg9q?.jpg",
+    "audio_length": "2908595",
+    "artwork": "https://storage.buzzsprout.com/9ssfm89fmogoz7pgqzi88jw2ao89?.jpg",
     "duration": "234",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -1293,7 +1421,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/family-podcast-and-podcast-workflow-mw5rs3pa.jpg?v=51d0848b",
     "duration": "13:09",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "492202aeec24657792d04b163a213dad": {
     "id": "492202aeec24657792d04b163a213dad",
@@ -1517,7 +1645,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/follow-friday-open-the-pod-bay-doors-nap-mw54v429.jpg?v=2892c37e",
     "duration": "3:02",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "d70f951f141886fcc5eaf3c9bcc4ece8": {
     "id": "d70f951f141886fcc5eaf3c9bcc4ece8",
@@ -1549,7 +1677,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/repetition-and-consistency-mw53md9w.jpg?v=51f7de9d",
     "duration": "17:05",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "aa45e2ab3eb75cb2150fc3fff9fba119": {
     "id": "aa45e2ab3eb75cb2150fc3fff9fba119",
@@ -1597,7 +1725,7 @@
     "artwork": "https://3speak.tv/img/c/episode/nicklewis/lets-get-together-and-make-music-mw4sd1q8.jpg?v=ec03e31f",
     "duration": "6:49",
     "explicit": "clean",
-    "author": "nicklewis"
+    "author": "Nick Lewis"
   },
   "fa2854a15eb2947daea6540ff572e8a5": {
     "id": "fa2854a15eb2947daea6540ff572e8a5",
@@ -1821,7 +1949,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-5-remember-remember-mw3xtqci.jpg?v=5f8e3317",
     "duration": "3:11",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "8b71380ff6ec27aa3b7b8d468152ce8c": {
     "id": "8b71380ff6ec27aa3b7b8d468152ce8c",
@@ -1917,7 +2045,7 @@
     "artwork": "https://3speak.tv/img/c/episode/nicklewis/napodpomo-5th-movember-mw3njny0.jpg?v=5827afbf",
     "duration": "14:10",
     "explicit": "clean",
-    "author": "nicklewis"
+    "author": "Nick Lewis"
   },
   "9d7a55e99e28f34266397d38a7db72bb": {
     "id": "9d7a55e99e28f34266397d38a7db72bb",
@@ -1929,8 +2057,8 @@
     "date": "2026-11-05T14:00:00+00:00",
     "audio_url": "https://www.buzzsprout.com/2469650/episodes/20078039-did-marie-antoinette-actually-say-let-them-eat-cake-urban-legend-5.mp3",
     "audio_type": "audio/mpeg",
-    "audio_length": "2754542",
-    "artwork": "https://storage.buzzsprout.com/i8b7jgi43dvw3ng7r5kv3ttnqjhk?.jpg",
+    "audio_length": "2754584",
+    "artwork": "https://storage.buzzsprout.com/b07tqtpy2tz8uu6mwtcavv18xk9s?.jpg",
     "duration": "223",
     "explicit": "false",
     "author": "Joshua Hess"
@@ -2029,7 +2157,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/election-results-and-garden-workouts-mw31il31.jpg?v=a120047a",
     "duration": "11:11",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "f729c03d1a96380d8772956c4c0d5270": {
     "id": "f729c03d1a96380d8772956c4c0d5270",
@@ -2109,7 +2237,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-4-playing-with-midi-mw2mwiqp.jpg?v=a64450c5",
     "duration": "8:32",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "9c0c9d9f601fd578eb19b99a425ad820": {
     "id": "9c0c9d9f601fd578eb19b99a425ad820",
@@ -2365,7 +2493,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/election-night-and-caregiver-podcast-pla-mw1fmske.jpg?v=47644ea0",
     "duration": "4:36",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "0c876c44768a5e6f891ef7faae9aa239": {
     "id": "0c876c44768a5e6f891ef7faae9aa239",
@@ -2477,7 +2605,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-day-3-the-music-of-steven-wils-mw136llt.jpg?v=31299128",
     "duration": "7:33",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "ca903de34ad1e90ab901b2a332a926f3": {
     "id": "ca903de34ad1e90ab901b2a332a926f3",
@@ -2685,7 +2813,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-planning-ahead-mw00bveu.jpg?v=f4465426",
     "duration": "4:57",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "c60ff29512b33aa9efde44d4ed512959": {
     "id": "c60ff29512b33aa9efde44d4ed512959",
@@ -2797,7 +2925,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/solar-report-october-2026-mvzqb24f.jpg?v=1394087c",
     "duration": "5:38",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "d34d2fa8fce2d3780cd1a9eda55845eb": {
     "id": "d34d2fa8fce2d3780cd1a9eda55845eb",
@@ -3213,7 +3341,7 @@
     "artwork": "https://3speak.tv/img/c/episode/shainemata/napodpomo-2026-introduction-mvy3z2jr.jpg?v=35566fdc",
     "duration": "4:06",
     "explicit": "clean",
-    "author": "shainemata"
+    "author": "Shaine"
   },
   "7b9160630dfba307370cafcd99a040b4": {
     "id": "7b9160630dfba307370cafcd99a040b4",
@@ -3277,7 +3405,7 @@
     "artwork": "https://3speak.tv/img/c/episode/steevc/napodpomo-2026-day-1-mvxxsgl4.jpg?v=c796a40b",
     "duration": "3:41",
     "explicit": "clean",
-    "author": "steevc"
+    "author": "Steve Clark"
   },
   "bcfd9038464a8b4e1cc8b752a837a0aa": {
     "id": "bcfd9038464a8b4e1cc8b752a837a0aa",
