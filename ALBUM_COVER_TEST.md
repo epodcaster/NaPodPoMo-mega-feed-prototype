@@ -16,4 +16,6 @@ Pocket Casts explicitly documents support for RSS item artwork on iOS and Androi
 
 Reference: https://support.pocketcasts.com/knowledge-base/episode-artwork/
 
-Local automated tests: 17 passed. GitHub build and live feed validation pending deployment. Actual app display requires a user test and must not be described as confirmed until observed.
+Local and GitHub automated tests: 17 passed. GitHub run 43052823654 completed build and deployment successfully. The live trial returned HTTP 200 and contains six items, three source podcasts, and exactly one distinct main-cover image per source. All image URLs are HTTPS. The main beta retains all 218 prior episode IDs, audio URLs, and image selections. The beta title remains the prototype title. Actual app display still requires a user test and must not be described as confirmed until observed.
+
+Workflow: https://github.com/epodcaster/NaPodPoMo-mega-feed-prototype/actions/runs/43052823654
