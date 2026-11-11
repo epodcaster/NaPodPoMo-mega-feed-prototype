@@ -149,7 +149,8 @@ def extract_rss(xml_bytes, source_url, start, end, source_map=None):
             'link': val(item, 'link'), 'date': date.isoformat(),
             'audio_url': enc.get('url'), 'audio_type': enc.get('type') or 'audio/mpeg',
             'audio_length': enc.get('length') if (enc.get('length') or '').isdigit() else '0',
-            'artwork': episode_art_url or image, 'duration': duration,
+            'artwork': episode_art_url or image, 'podcast_artwork': image,
+            'duration': duration,
             'explicit': explicit, 'author': author,
         })
     return selected, {'total': len(items), 'selected': len(selected),
@@ -178,10 +179,16 @@ def append(parent, name, text, attrs=None):
     return e
 
 def make_rss(config, entries):
+    artwork_preference = config.get('artwork_preference', 'episode')
+    if artwork_preference not in ('episode', 'podcast'):
+        raise ValueError('artwork_preference must be episode or podcast')
     source_artwork = {mapped['url']: normalized_url(mapped['artwork_url'])
                       for source in config.get('sources', [])
                       for mapped in source.get('source_map', {}).values()
                       if mapped.get('artwork_url')}
+    podcast_covers = {episode['source']: episode['podcast_artwork']
+                      for episode in entries if episode.get('podcast_artwork')}
+    podcast_covers.update(source_artwork)
     rss = etree.Element('rss', version='2.0', nsmap={'itunes': ITUNES, 'atom': ATOM})
     channel = etree.SubElement(rss, 'channel')
     append(channel, 'title', config['title'])
@@ -220,7 +227,10 @@ def make_rss(config, entries):
         append(item, f'{{{ITUNES}}}author', episode.get('author') or episode['podcast'])
         if episode.get('duration'):
             append(item, f'{{{ITUNES}}}duration', episode['duration'])
-        artwork = episode.get('artwork') or source_artwork.get(episode.get('source'))
+        if artwork_preference == 'podcast':
+            artwork = podcast_covers.get(episode.get('source'))
+        else:
+            artwork = episode.get('artwork') or source_artwork.get(episode.get('source'))
         if artwork:
             append(item, f'{{{ITUNES}}}image', '', {'href': artwork})
         if episode.get('explicit'):

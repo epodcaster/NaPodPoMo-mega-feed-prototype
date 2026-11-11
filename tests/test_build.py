@@ -72,6 +72,46 @@ class BuildTests(unittest.TestCase):
         self.assertIsNotNone(parse_date('Wed, 04 Nov 2026 12:04:33 +0000'))
         self.assertIsNone(parse_date('not a date'))
 
+    def test_podcast_cover_mode_repeats_main_cover_without_changing_default(self):
+        episodes, _ = extract_rss(fixture(2, 2026, 'show'), 'https://example.com/feed',
+                                 datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                 datetime(2026, 12, 1, tzinfo=timezone.utc))
+        config = {'title':'Test', 'description':'Test', 'site_url':'https://example.com'}
+        self.assertTrue(all(e['podcast_artwork'] == 'https://example.com/show.jpg' for e in episodes))
+        tag = '{http://www.itunes.com/dtds/podcast-1.0.dtd}image'
+        normal = etree.fromstring(make_rss(config, episodes))
+        self.assertEqual({i.find(tag).get('href') for i in normal.findall('./channel/item')},
+                         {'https://images.example.org/show/0.jpg', 'https://images.example.org/show/1.jpg'})
+        episodes[0].pop('podcast_artwork')  # A legacy cached record shares its show's current cover.
+        trial = etree.fromstring(make_rss(dict(config, artwork_preference='podcast'), episodes))
+        self.assertEqual({i.find(tag).get('href') for i in trial.findall('./channel/item')},
+                         {'https://example.com/show.jpg'})
+
+    def test_album_cover_trial_preserves_cache_and_uses_mapped_cover(self):
+        from build_album_cover_test import make_trial, TRIAL_SOURCES
+        cached = {}
+        for index, source in enumerate(TRIAL_SOURCES):
+            entries, _ = extract_rss(fixture(2, 2026, 'show'+str(index)), source,
+                                    datetime(2026, 11, 1, tzinfo=timezone.utc),
+                                    datetime(2026, 12, 1, tzinfo=timezone.utc))
+            for entry in entries:
+                if index == 2:
+                    entry['podcast_artwork'] = ''
+                cached[entry['id']] = entry
+        before = json.dumps(cached, sort_keys=True)
+        config = {'title':'Beta', 'description':'Beta', 'site_url':'https://example.com',
+                  'feed_url':'https://example.com/mega-feed.xml',
+                  'sources':[{'source_map':{'https://bridge.example/show':{
+                      'url':TRIAL_SOURCES[2], 'artwork_url':'https://example.com/bridge-cover.png'}}}]}
+        root = etree.fromstring(make_trial(config, cached))
+        items = root.findall('./channel/item')
+        self.assertEqual(len(items), 6)
+        self.assertEqual(json.dumps(cached, sort_keys=True), before)
+        self.assertTrue(all('album-cover-trial-' in i.findtext('guid') for i in items))
+        mapped = [i for i in items if i.find('source').get('url') == TRIAL_SOURCES[2]]
+        self.assertTrue(all(i.find('{http://www.itunes.com/dtds/podcast-1.0.dtd}image').get('href')
+                            == 'https://example.com/bridge-cover.png' for i in mapped))
+
     def test_bridge_preserves_identity_and_show_attribution(self):
         start = datetime(2026, 11, 1, tzinfo=timezone.utc)
         end = datetime(2026, 12, 1, tzinfo=timezone.utc)
