@@ -1,6 +1,6 @@
 # NaPodPoMo 2026 MEGA Feed
 
-The live NaPodPoMo 2026 aggregate collects November audio episodes from participating podcasts. Participation is open throughout November, and maintainers can add feeds at any time. Audio stays on the creators' original hosts.
+This optional beta test is separate from the official NaPodPoMo 2026 MEGA Feed. It collects November audio episodes from participating podcasts for testing and participant feedback; adoption for future years remains undecided. Participation is open throughout November, and maintainers can add feeds at any time. Audio stays on the creators' original hosts.
 
 ## Listener links
 
@@ -14,7 +14,7 @@ The OPML contains one RSS subscription: the combined MEGA Feed. It does not subs
 
 The authoritative live configuration is `config-prototype.json` (legacy filename retained for continuity). It represents 30 shows through 26 direct feeds and one separate Feed Informer digest for four Substack shows. The 2023 configuration and initial three-source configuration remain historical examples, not the live source list.
 
-The published title and description identify the NaPodPoMo 2026 MEGA Feed. `artwork_preference: podcast` uses each podcast's main cover on its episodes. The MEGA Feed retains its own 2048 × 2048 RGB JPEG cover under `assets/mega-feed-cover-2026-v2.jpg`. The supplied file was validated, and 2048 square is within Apple's accepted 1400–3000 RSS cover range.
+The displayed title remains NaPodPoMo 2026 MEGA Feed; the published description explicitly identifies this as an optional beta, separate from the official feed. `artwork_preference: podcast` uses each podcast's main cover on its episodes. The MEGA Feed retains its own 2048 × 2048 RGB JPEG cover under `assets/mega-feed-cover-2026-v2.jpg`. The supplied file was validated, and 2048 square is within Apple's accepted 1400–3000 RSS cover range.
 
 Per-podcast covers and the feed's cover have been confirmed together in Pocket Casts with Use episode artwork enabled. Apple Podcasts displayed the MEGA Feed cover but not item-level images in our direct-RSS tests. Three bridged Substack shows still need confirmed public cover URLs: Outrage Science Bites, The Lessons Learned Series, and A3Day Expanded Podcast. Apps can use the MEGA Feed cover where individual covers are unavailable.
 
