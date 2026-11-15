@@ -1,4 +1,38 @@
 {
+  "235d32884d7e338f0420d2b329888434": {
+    "id": "235d32884d7e338f0420d2b329888434",
+    "source": "https://3speak.tv/rss/playlist/e43d79afe818544a6f10acfd8035b33f.xml",
+    "podcast": "Kagok Talk Podcast",
+    "title": "The Real Reason I Love Balinese Ceremonies | NaPodPoMo | Kagok Talk Ep 9",
+    "description": "Welcome back to the Kagok Talk Podcast https://3speak.tv/playlist/e43d79afe818544a6f10acfd8035b33f?ref=ekads. In this ninth episode, I discuss Balinese ceremonies\u2014specifically, my experience attending my wife\u2019s cousin\u2019s wedding three days ago.Beyond the religious rituals and traditions, Balinese ceremonies often function like family reunions. The entire extended family and various relatives gather, catching up and sharing laughter. Family members who haven\u2019t seen each other for months\u2014or even years\u2014finally cross paths at these events.Nowadays, everyone is incredibly busy with their own lives. Between work, immediate family, and other commitments, our time is stretched thin, making it rare for us to get together with our extended family. Balinese ceremonies, such as weddings, provide the perfect opportunity for us to reconnect with our broader family circle.Often, gatherings like these make us realize just how quickly time flies. Suddenly, a niece or nephew is 22 years old, even though, in our memories, it feels like just yesterday they were still in elementary school.When was the last time you got together with your extended family? Let me know in the comments section.Thank you for visiting and listening to the Kagok Talk Podcast. See you in the next episode!",
+    "link": "https://3speak.tv/watch?v=ekads/the-real-reason-i-love-balinese-ceremoni-mwh1n3jr",
+    "date": "2026-11-14T23:35:27+00:00",
+    "audio_url": "https://ipfs-audio.3speak.tv/ipfs/QmcGzrbmx1JCimZpnuKqr5UxArKYv4HkqEMtt58GHPqg86",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3477737",
+    "artwork": "https://3speak.tv/img/c/episode/ekads/the-real-reason-i-love-balinese-ceremoni-mwh1n3jr.jpg?v=e2524fce",
+    "podcast_artwork": "https://3speak.tv/img/c/playlist/e43d79afe818544a6f10acfd8035b33f.jpg?v=e2524fce",
+    "duration": "5:40",
+    "explicit": "clean",
+    "author": "ekads"
+  },
+  "bfead227c9cc793fb0a9ad1454842d9d": {
+    "id": "bfead227c9cc793fb0a9ad1454842d9d",
+    "source": "https://feeds.captivate.fm/elsie-as-is/",
+    "podcast": "Elsie, As Is",
+    "title": "Can\u2019t Wrap My Head Around It! - November 14, 2026",
+    "description": "I listened to the finale of Love Trapped before My Kaigi on Saturday morning, and my brain just wouldn\u2019t let it go. I kept thinking about what accountability looks like when the harm doesn\u2019t end with the sentencing. If you listened, send me a voice note. I wanna know what you thought.----------------It\u2019s only Saturday morning, and I\u2019m recording early because I\u2019m doing My Kaigi, my planning experience, today, y\u2019all. I\u2019m doing my planning experience today! I doubt that you\u2019ll hear this before it happens, so I\u2019m not gonna have you sign up because, you know, it\u2019ll be over. So I woke up early and I\u2019m recording early so I can get this out.And of course, one of my morning rituals is listening to podcasts. I love to wake my brain up with podcast episodes. As of late, as of the past possibly couple of years, I\u2019ve really been focusing on listening to things that bring me a little bit of joy. They\u2019re frivolous, and often they\u2019re not there to make me think big, big, big thoughts, right? Because life is hard, y\u2019all. Life is hard. And these couple of years have been rough. Diving into philosophical things or anything that\u2019s a little bit too close to home, if you will, is not something I want constantly in my brain, \u2019cause my brain already does that. Which is why I\u2019m talking with you right now.One of my favorite podcasts this year is Love Trapped. It\u2019s not a usual podcast for me. I don\u2019t tend",
+    "link": "https://elsie.me/episode/cant-wrap-my-head-around-it-november-14-2026",
+    "date": "2026-11-14T21:14:00+00:00",
+    "audio_url": "https://episodes.captivate.fm/episode/013e8169-cefc-4577-bc62-08f9905452c5.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "9959617",
+    "artwork": "https://artwork.captivate.fm/93804d94-047b-4a83-b610-608c239b9b76/014-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
+    "duration": "11:51",
+    "explicit": "false",
+    "author": "Elsie, As Is"
+  },
   "92626514218630305d8f8c42553e0e67": {
     "id": "92626514218630305d8f8c42553e0e67",
     "source": "https://audioboom.com/channels/4930155.rss",
@@ -66,6 +100,23 @@
     "duration": "373",
     "explicit": "false",
     "author": "Paul O'Mahony"
+  },
+  "8c40ff8141b07568228e18add7521ebc": {
+    "id": "8c40ff8141b07568228e18add7521ebc",
+    "source": "https://micless.com/rss",
+    "podcast": "Micless",
+    "title": "Falling behind is a workflow problem",
+    "description": "When a daily creative habit stalls out, it's easy to blame a lack of willpower. In practice, falling behind usually happens because the workflow has too many steps before the real work even starts. In this halfway check-in for the 30-day challenge, I share how an overcomplicated blog setup killed my writing habit years ago, how the chemistry concept of activation energy applies to podcasting, and why stripping away production chores makes daily publishing sustainable.",
+    "link": "https://micless.com/episodes/e14-falling-behind-is-workflow-problem",
+    "date": "2026-11-14T12:00:00+00:00",
+    "audio_url": "https://micless.com/episodes/e14-falling-behind-is-a-workflow-problem.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3795217",
+    "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
+    "duration": "234",
+    "explicit": "false",
+    "author": "David Stack"
   },
   "c32cac2b7fe5cea5f07f7fbc29f399c4": {
     "id": "c32cac2b7fe5cea5f07f7fbc29f399c4",
