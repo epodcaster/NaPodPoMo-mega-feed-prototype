@@ -1,4 +1,38 @@
 {
+  "fba093c0ae2c62dcd932f46148d7006c": {
+    "id": "fba093c0ae2c62dcd932f46148d7006c",
+    "source": "https://feeds.captivate.fm/elsie-as-is/",
+    "podcast": "Elsie, As Is",
+    "title": "I Call It A Day - November 19, 2026",
+    "description": "Thirty-one podcast episodes since the beginning of October. Including this one. I was looking for an old piece of audio to post tonight when I remembered I still have a fifth episode to work on, a show to prepare for, and a recording at 9 a.m. tomorrow. It\u2019s 7:27. Good times, my friends. Good times.The five-episode private podcast I\u2019m working on is Your 2027 Podcast Plan, which I\u2019m creating for Captivate. Sign up to get all the episodes!--------All right, there comes a time when it\u2019s like, time to stop, people. Yes.So I have a lot going on right now, and I was sitting here trying to figure out what I\u2019m gonna talk about today. But also, I\u2019ve been working on the special private podcast I\u2019m doing for Captivate (aff), which is all about Your 2027 Podcast Plan. So I\u2019m very into that.And I\u2019m realizing that since the beginning of October, I have published, including this episode, 31 episodes of a podcast. Since the beginning of October. That\u2019s, like, that\u2019s so much.I had to, oh my gosh, I had to rerecord\u2026 I have a private podcast for my mentorship experience. It\u2019s called The E-League Essentials, and I initially recorded those in 2017. I updated the content in 2020, and it really needed to be done again.Essentially, the core teachings are the same, but there are some differences in my approach, in the language I\u2019m using, and how I lead that conversation. So I really had to sit down and",
+    "link": "https://elsie.me/episode/i-call-it-a-day-november-19-2026",
+    "date": "2026-11-20T00:51:00+00:00",
+    "audio_url": "https://episodes.captivate.fm/episode/9fb075cd-4b88-443d-8cd7-eea6515b2f37.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "6321856",
+    "artwork": "https://artwork.captivate.fm/cb97885f-f937-4c38-adf6-c59ed4e2de79/019-EAI.jpg",
+    "podcast_artwork": "https://artwork.captivate.fm/48a63425-16d1-4a72-b262-e86c9db0b3d4/EAI-3000x3000-1.jpg",
+    "duration": "07:31",
+    "explicit": "false",
+    "author": "Elsie, As Is"
+  },
+  "cbb17eb6a13860eb4c96b8a21e5a317f": {
+    "id": "cbb17eb6a13860eb4c96b8a21e5a317f",
+    "source": "https://anchor.fm/s/12ed94c/podcast/rss",
+    "podcast": "Hello, my imaginary friends",
+    "title": "Sm2n 2026-11-19 #audio365 (323/365) #naPodPoMo",
+    "description": "Title: Claude Suggests, I Decide: A Balance I Quite LikeDuration: 6:21On his NaPodPoMo post for the day, Simon is delighted to be on a walk in the woods in daylight, mid-afternoon. He missed a lunchtime walk, and after lunch he was tempted to watch the recording of an internal Claude training session (how to use GitHub with Claude to store agent skills and make plugins), then decided to watch some entertainment instead, catching up on Chernobyl, which he'd been waiting to find again. His household subscribes to NOW TV, where it's available. He means the walk to clear his head before going back to his computer, and since his lunch break was only about half an hour, he's making the walk longer to balance it out to roughly the hour he would have walked after work, and he'll work later to make up.He's still enjoying spending less time in Claude at work, though he still uses it extensively, mainly to retrieve information from his notes, because that's easier than searching. He's enjoying not worrying about token budgets, dictates his thoughts into his work phone and gets the text tidied up slightly, and uses a bit of Copilot here and there. He's been setting his own to-do list rather than asking Claude to collate it, which he says is actually quite good. He likes the balance of Claude suggesting to-do items and risks while he decides the priorities. For now his plan is not to use Cl",
+    "link": "https://podcasters.spotify.com/pod/show/sm2n/episodes/Sm2n-2026-11-19-audio365-323365-naPodPoMo-e3smqfh",
+    "date": "2026-11-19T20:29:52+00:00",
+    "audio_url": "https://anchor.fm/s/12ed94c/podcast/play/129771441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437171943-44100-2-c72e4de8b0007.m4a",
+    "audio_type": "audio/x-m4a",
+    "audio_length": "6193597",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "podcast_artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast/191946/anchor-podcast-5ht86tsnmco.jpg",
+    "duration": "00:06:22",
+    "explicit": "false",
+    "author": "Hello, my imaginary friends"
+  },
   "803edfa8dd4d7f54bb240c58c0dcf268": {
     "id": "803edfa8dd4d7f54bb240c58c0dcf268",
     "source": "https://3speak.tv/rss/playlist/89824da022425799e9cd52e2a75e7e1e.xml",
@@ -117,6 +151,23 @@
     "duration": "605",
     "explicit": "false",
     "author": "NaPodPoMo 2026"
+  },
+  "07903146b8a1676af30d4864534d146c": {
+    "id": "07903146b8a1676af30d4864534d146c",
+    "source": "https://micless.com/rss",
+    "podcast": "Micless",
+    "title": "Why I don't have intro music",
+    "description": "Whenever I try out a new podcast, the first thing I do is tap the skip button three or four times. Most shows bury their opening thought under a loud theme song, show credits, and a minute of casual housekeeping before the host says anything real. In today's episode, I look at why podcasting inherited this habit from broadcast radio, why open-mic hosts use throat-clearing to warm up on the fly, and how writing a script in text first lets you start every episode on the first informative sentence.",
+    "link": "https://micless.com/episodes/e19-why-i-dont-have-intro-music",
+    "date": "2026-11-19T12:00:00+00:00",
+    "audio_url": "https://micless.com/episodes/e19-why-i-dont-have-intro-music.mp3",
+    "audio_type": "audio/mpeg",
+    "audio_length": "3966857",
+    "artwork": "https://micless.com/img/micless-cover.jpg",
+    "podcast_artwork": "https://micless.com/img/micless-cover.jpg",
+    "duration": "245",
+    "explicit": "false",
+    "author": "David Stack"
   },
   "d9aa91885f4fd75b087d3f8df6063458": {
     "id": "d9aa91885f4fd75b087d3f8df6063458",
